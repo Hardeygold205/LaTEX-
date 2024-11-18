@@ -1,0 +1,210 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{ragged2e}
+\usepackage{lmodern}
+
+% Page setup
+\geometry{margin=1in}
+\onehalfspacing
+\setlength{\parindent}{1.5em} 
+\setlength{\parskip}{0.5em}
+
+
+% Chapter formatting
+\titleformat{\chapter}[display]
+  {\bfseries\Large}
+  {\filleft\Huge\thechapter}
+  {1ex}
+  {\titlerule\vspace{1ex}\filright}
+
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue
+}
+
+
+\begin{document}
+% Title Page
+\begin{titlepage}
+    \begin{center}
+        \large\textbf{GEOPHYSISCAL EVALUATION OF SUBSURFACE LAYERS FOR CIVIL}
+        \large\textbf{ENGINEERING FOUNDATION USING ELECTRICAL RESISTIVITY METHODS} \\[3.3cm]
+        
+        By: \\[0.5cm]
+        
+        \Large\textbf{SURAJUDEEN HADI ADEMOLA} \\[0.2cm]
+        \Large\textbf{B.Sc Physics (U.I)} \\[0.2cm]
+        \Large\textbf{222814} \\[2.5cm]
+        
+        \large{A THESIS SUBMITTED TO THE DEPARTMENT OF PHYSICS FACULTY OF SCIENCE
+        UNIVERSITY OF IBADAN IN PARTIAL FULFILMENT FOR THE AWARD OF BACHELOR IN SCIENCE (B.Sc) \\
+        DEGREE IN PHYSICS/SOLID EARTH PHYSICS} \\[4cm]
+        
+        \textbf{NOVEMBER, 2024}
+    \end{center}
+\end{titlepage}
+
+% Dedication
+\chapter*{Dedication}
+\addcontentsline{toc}{chapter}{Dedication} 
+\justifying
+This will be provided later
+
+% Acknowledgements
+\chapter*{Acknowledgements}
+\addcontentsline{toc}{chapter}{Acknowledgements} 
+\justifying
+This will be provided later
+
+% Abstract
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract} 
+\justifying
+This will be provided later
+
+% Certification
+\chapter*{Certification}
+\addcontentsline{toc}{chapter}{Certification} 
+\justifying
+This will be provided later
+
+
+% List of Figures
+\listoffigures
+\addcontentsline{toc}{chapter}{List of Figures}
+
+
+\pagenumbering{roman}
+\tableofcontents
+
+\newpage
+\pagenumbering{arabic}
+
+% Chapter 1: INTRODUCTION
+\chapter{CHAPTER 1: INTRODUCTION}
+
+\section{Background to the Study}
+
+Building failures, a prevalent issue in various regions, often result from poor soil conditions, inadequate site investigations, and a lack of understanding of the underlying subsurface structure. \textbf{Amadi, Eze, et al. (2012)} highlight that improper foundation designs and insufficient knowledge of the structural distribution of subsurface layers are leading contributors to such failures. Furthermore, \textbf{Kværna and Øygarden (2006)} emphasized that soil instability, often caused by moisture fluctuations, plays a significant role in compromising the structural integrity of buildings. To mitigate these risks, comprehensive geophysical surveys are vital for analyzing the physical properties of the ground before construction.
+
+Geophysical surveys are particularly significant in regions where soil heterogeneity poses risks to construction activities. For example, \textbf{Agada, Ibuot, and Oseghale et al. (2013)} investigated subsurface characteristics in an area prone to structural failures. Their findings revealed that geological discontinuities, such as fractures and dislocations, were primary contributors to differential settlements and structural disintegration. This underscores the importance of employing methods like Vertical Electrical Sounding (VES), which can delineate subsurface features with precision.
+
+Electrical resistivity surveys have emerged as a popular method in geotechnical due to their high spatial resolution, cost-effectiveness, and non-destructive nature. This method measures the ability of subsurface materials to conduct electrical currents, enabling the identification of various layers, voids, fractures, and lithological features. As noted by \textbf{Griffiths} and \textbf{Barker (1993)}, and corroborated by \textbf{Soupisos et al. (2006)}, these surveys provide critical data that can prevent construction failures by ensuring that foundation designs align with the physical and structural characteristics of the site. 
+
+Furthermore, \textbf{Warner (2004)} and \textbf{Ozeqin et al. (2017)} emphasized that geophysical techniques are indispensable tools for assessing the bearing capacity of soils. These methods enable civil engineers to identify areas of concern, such as seepage zones and clayey substrata, which can cause excessive settlement and cracking in buildings. By incorporating such techniques into site investigations, construction projects can significantly reduce the risks associated with geotechnical failures.
+
+In practical terms, electrical resistivity methods have been successfully applied in various engineering projects to identify and map subsurface structures. According to \textbf{Lapenna et al. (2005)}, these methods are invaluable for delineating depth variations, subsurface discontinuities, and lithological interfaces that may affect foundation stability. In addition to their technical benefits, they offer a cost-effective solution compared to traditional drilling methods, making them accessible for large-scale geotechnical investigations.
+
+In summary, the electrical resistivity method represents an innovative approach to geotechnical site investigation, addressing challenges related to subsurface heterogeneity and mitigating risks of construction failure. This study employs this technique to evaluate the geotechnical characteristics of the subsurface within the study area, contributing to safer and more sustainable civil engineering practices.
+
+\section{Research Problem}
+Inadequate knowledge of subsurface conditions often results in building failures, especially in areas characterized by complex geological settings. Engineers face challenges in ensuring that foundations are designed with optimal parameters that prevent excessive settling or structural failures.
+
+Despite the advancements in construction technology, many civil engineering projects suffer from cost overruns and safety concerns stemming from improper site investigations. This study addresses the gap in subsurface characterization and highlights how geophysical methods can mitigate such issues.
+
+\section{Aims and Objectives}
+
+\subsection{Aims of the Study}
+The aims of this study are to:
+\begin{itemize}
+    \item Investigate the subsurface stratigraphy to enhance understanding of the geotechnical properties of the study area.
+    \item Provide reliable geophysical data for designing safe and sustainable civil engineering foundations.
+    \item Explore the effectiveness of vertical electrical sounding (VES) in mapping subsurface features.
+    \item Assess the influence of soil resistivity on foundation stability and construction safety.
+\end{itemize}
+
+\subsection{Objectives of the Study}
+The specific objectives of this study are to:
+\begin{itemize}
+    \item Map the subsurface layers and identify their resistivity values using vertical electrical sounding (VES).
+    \item Detect weak zones, fractures, and groundwater presence within the study area.
+    \item Develop engineering recommendations for foundation designs based on geophysical findings.
+\end{itemize}
+
+\section{Justification}
+The relevance of this study lies in its contribution to reducing structural failures and associated financial losses. Employing geophysical methods for site investigations is not only cost-effective but also minimizes the need for invasive techniques that may disrupt the environment. This research aligns with sustainable development goals by promoting safer and more resilient construction practices.
+
+\section{Geophysical Investigation}
+The electrical resistivity method involves injecting current into the ground and measuring the resulting potential difference to determine subsurface resistivity variations. These variations help delineate different geological layers, assess lithological properties, and detect fractures or faults.
+
+\section{Geological Settings}
+\subsection{The Study Location}
+This section will be provided based on the specific site under investigation.
+\subsection{The Study Area}
+This section will be provided based on the specific site under investigation.
+\\ \\
+\section{Outline of the Thesis}
+This thesis is organized into five chapters:
+\begin{itemize}
+    \item Chapter 1: Introduction, including the aims, objectives, and significance of the study.
+    \item Chapter 2: Literature Review, providing a detailed discussion of previous research and theoretical principles.
+\end{itemize}
+
+% Chapter 2: LITERATURE REVIEW
+\chapter{CHAPTER 2: LITERATURE REVIEW}
+
+\section{Previous Studies}
+Several authors have contributed to the application of electrical resistivity methods in civil engineering investigations. Their works are summarized below:
+
+\subsection{Application of Electrical Resistivity in Subsurface Investigation}
+\textbf{Akintoye et al. (2018)} investigated the subsurface conditions of an unstable slope in southwestern Nigeria using the electrical resistivity method. The study employed the Schlumberger configuration to delineate weak zones and fractures, revealing that high resistivity anomalies correspond to compact lithological units, while low resistivity zones indicate water-saturated regions. The results were used to recommend appropriate foundation designs for slope stabilization.
+
+\textbf{Adeyemi and Bello (2020)} conducted a geophysical evaluation of construction sites in Lagos, Nigeria, to identify potential risks associated with heterogeneous subsurface layers. Using Vertical Electrical Sounding (VES), the authors mapped lithological variations and identified zones of high porosity and low bearing capacity. The findings highlighted the importance of resistivity surveys in mitigating structural failures.
+
+\textbf{Olayemi et al. (2021)} applied electrical resistivity tomography (ERT) to assess subsurface integrity for a proposed bridge site. The study identified a highly fractured zone beneath the surface, which could pose a risk to structural stability. The authors recommended relocating the foundation to a more stable area, emphasizing the reliability of ERT in civil engineering applications.
+
+\textbf{James and Olatunji (2019)} focused on the use of geophysics for groundwater exploration in arid regions. Though primarily aimed at water resource management, their work demonstrated the potential of resistivity methods in identifying zones with sufficient bearing capacity for construction purposes.
+
+\subsection{Comparison of Methods}
+Various configurations have been used in resistivity surveys, including Schlumberger, Wenner, and Dipole-Dipole arrays. \textbf{Eze et al. (2017)} compared these methods for subsurface investigations and found that the Schlumberger array is more effective for deep-layer detection, while the Wenner array provides better horizontal resolution. Their research underscores the need to select an appropriate configuration based on site-specific requirements.
+
+\textbf{Telford et al. (1990)} further elaborated on the principles of resistivity methods, offering insights into how the Wenner array can be adapted for high-resolution near-surface investigations. Their book, \textit{Applied Geophysics}, is a seminal text that discusses various resistivity techniques and provides a detailed analysis of their applications in subsurface investigations. The authors emphasized that while the Schlumberger configuration excels in depth penetration, the Wenner method remains superior for detailed mapping of near-surface anomalies.
+
+\textbf{Reynolds (2011)} provides a comprehensive guide on geophysical methods used in engineering, including electrical resistivity. In his book \textit{An Introduction to Applied and Environmental Geophysics}, he discusses how resistivity surveys are instrumental in civil engineering projects, especially in urban areas where the variability of subsurface properties poses significant challenges. He highlights the advantages of electrical resistivity tomography (ERT) for providing high-resolution images of the subsurface, which are crucial for detecting problematic zones in construction sites.
+
+\subsection{Innovative Applications of Electrical Resistivity}
+In recent years, there has been an increasing application of electrical resistivity methods in more complex subsurface investigations. \textbf{Steeples and Chilton (2001)} focused on the use of resistivity in mapping groundwater contamination in urban areas. They highlighted how advanced electrical resistivity tomography (ERT) can help locate pollution plumes in aquifers, enabling more efficient management of groundwater resources. Their work, published in \textit{Environmental and Engineering Geophysics}, underscores the growing versatility of resistivity methods in addressing both environmental and engineering concerns.
+
+\textbf{Loke (2016)} provides a detailed exploration of the technological advancements in resistivity methods. In his book, \textit{Geoelectrical Imaging for Environmental and Engineering Applications}, he describes new developments in data acquisition systems, such as multi-electrode arrays, that have made resistivity surveys faster and more accurate. This book serves as a crucial resource for understanding the technical evolution of electrical resistivity methods and their broader application in modern engineering and environmental investigations.
+
+\subsection{Applications in Structural Health Monitoring}
+Electrical resistivity methods have also been explored for monitoring the health of structures over time. \textbf{Bermúdez et al. (2020)} demonstrated how electrical resistivity tomography can be employed to monitor the condition of reinforced concrete structures, detecting early signs of deterioration such as corrosion. Their study published in the \textit{Journal of Applied Geophysics} showed how resistivity surveys could be used for the non-destructive testing of infrastructure, offering a sustainable and cost-effective alternative to traditional inspection methods.
+
+\textbf{Caldwell and Brown (2020)} conducted a study on the application of resistivity imaging for the monitoring of railway tracks. Their work showed that electrical resistivity could be used to detect subtle shifts in the ground around the tracks, which could indicate potential risks like landslides or subsidence. Their findings, published in the \textit{Geophysical Journal International}, suggest that resistivity surveys can play a critical role in maintaining the integrity of transport infrastructure, especially in areas prone to natural disasters.
+
+\section{Summary of Literature Review}
+From the reviewed studies, it is evident that electrical resistivity methods have been successfully applied to delineate subsurface layers, detect weak zones, and recommend optimal foundation designs. Past works highlight the significance of integrating geophysical data into civil engineering projects to minimize risks and ensure structural stability. Furthermore, the continued advancement of resistivity technology has broadened its applications, from environmental studies to structural health monitoring. The increasing recognition of these methods' versatility underscores the need for further research and adaptation to meet the complex challenges of modern engineering projects.
+
+
+\section{Aim of the Study}
+This study aims to build on the reviewed literature by applying Vertical Electrical Sounding (VES) to evaluate the subsurface layers in the study area. The ultimate goal is to provide actionable insights into soil properties, lithological variations, and structural conditions necessary for safe and cost-effective foundation designs.
+\section{Applications in Civil Engineering}
+Previous studies have demonstrated the effectiveness of electrical resistivity in identifying subsurface anomalies such as fractures, cavities, and weak zones. These findings are crucial for designing safe and durable foundations.
+
+\section{Methodology}
+\subsection{Site Selection and Survey Design}
+The study involves selecting a site with diverse geological conditions and designing a survey grid for data acquisition. Vertical Electrical Sounding (VES) will be conducted at various points across the site.
+
+\subsection{Field Data Acquisition}
+The Schlumberger electrode configuration will be used for resistivity measurements. Equipment such as a resistivity meter and electrodes will be employed to inject current and record the resulting potential difference.
+
+\subsection{Data Processing and Analysis}
+The acquired data will be processed using specialized software to generate resistivity curves. These curves will be interpreted to delineate subsurface layers, identify anomalies, and correlate resistivity values with lithological properties.
+
+\subsection{Validation and Recommendations}
+The results will be validated using borehole data or other independent measurements. Recommendations for foundation designs will be based on the geophysical findings.
+
+\section{Conclusion from Literature}
+The reviewed literature underscores the importance of integrating geophysical methods into civil engineering investigations. This study builds upon previous research to provide a comprehensive evaluation of subsurface conditions for construction purposes.
+
+\end{document}
