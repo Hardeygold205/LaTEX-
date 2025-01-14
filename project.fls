@@ -1,6 +1,6 @@
-PWD /Users/user/Desktop/Project Info/My Project
+PWD /Users/user/Desktop/Project_Info/My_Project
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /Users/user/Desktop/Project Info/My Project/project.tex
+INPUT /Users/user/Desktop/Project_Info/My_Project/project.tex
 OUTPUT project.log
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
@@ -37,6 +37,12 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
@@ -106,6 +112,8 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ra
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ragged2e/ragged2e.sty
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/lmodern.sty
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/lmodern.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmr.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmr.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmr.fd
@@ -149,10 +157,7 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/pu
 INPUT ./project.lof
 INPUT ./project.lof
 INPUT project.lof
-OUTPUT project.lof
-INPUT ./project.toc
-INPUT ./project.toc
-INPUT project.toc
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri12.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr8.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr6.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omllmm.fd
@@ -171,21 +176,137 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omxlmex.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omxlmex.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/lmex10.tfm
-OUTPUT project.toc
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx12.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmr12.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri12.tfm
+OUTPUT project.lof
+INPUT ./project.lot
+INPUT ./project.lot
+INPUT project.lot
+OUTPUT project.lot
+INPUT ./project.toc
+INPUT ./project.toc
+INPUT project.toc
+OUTPUT project.toc
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx12.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbxi10.tfm
+INPUT ./map2.jpg
+INPUT ./map2.jpg
+INPUT ./map2.jpg
+INPUT ./map2.jpg
+INPUT ./map2.jpg
+INPUT ./map2.jpg
+INPUT ./map2.jpg
+INPUT ./Map-of-Ibadan-city.png
+INPUT ./Map-of-Ibadan-city.png
+INPUT ./Map-of-Ibadan-city.png
+INPUT ./Map-of-Ibadan-city.png
+INPUT ./Map-of-Ibadan-city.png
+INPUT ./Map-of-Ibadan-city.png
+INPUT ./Map-of-Ibadan-city.png
+INPUT ./MosqueMap.jpg
+INPUT ./MosqueMap.jpg
+INPUT ./MosqueMap.jpg
+INPUT ./MosqueMap.jpg
+INPUT ./MosqueMap.jpg
+INPUT ./MosqueMap.jpg
+INPUT ./MosqueMap.jpg
+INPUT ./AAHMap.jpg
+INPUT ./AAHMap.jpg
+INPUT ./AAHMap.jpg
+INPUT ./AAHMap.jpg
+INPUT ./AAHMap.jpg
+INPUT ./AAHMap.jpg
+INPUT ./AAHMap.jpg
+INPUT ./GPR_img2.jpg
+INPUT ./GPR_img2.jpg
+INPUT ./GPR_img2.jpg
+INPUT ./GPR_img2.jpg
+INPUT ./GPR_img2.jpg
+INPUT ./GPR_img2.jpg
+INPUT ./GPR_img2.jpg
+INPUT ./current-flow.png
+INPUT ./current-flow.png
+INPUT ./current-flow.png
+INPUT ./current-flow.png
+INPUT ./current-flow.png
+INPUT ./current-flow.png
+INPUT ./current-flow.png
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx8.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx6.tfm
+INPUT ./ctf.png
+INPUT ./ctf.png
+INPUT ./ctf.png
+INPUT ./ctf.png
+INPUT ./ctf.png
+INPUT ./ctf.png
+INPUT ./ctf.png
+INPUT ./apparent.jpg
+INPUT ./apparent.jpg
+INPUT ./apparent.jpg
+INPUT ./apparent.jpg
+INPUT ./apparent.jpg
+INPUT ./apparent.jpg
+INPUT ./apparent.jpg
+INPUT ./wenschdip.png
+INPUT ./wenschdip.png
+INPUT ./wenschdip.png
+INPUT ./wenschdip.png
+INPUT ./wenschdip.png
+INPUT ./wenschdip.png
+INPUT ./wenschdip.png
+INPUT ./sclumberger.png
+INPUT ./sclumberger.png
+INPUT ./sclumberger.png
+INPUT ./sclumberger.png
+INPUT ./sclumberger.png
+INPUT ./sclumberger.png
+INPUT ./sclumberger.png
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr10.tfm
+INPUT ./wenner.png
+INPUT ./wenner.png
+INPUT ./wenner.png
+INPUT ./wenner.png
+INPUT ./wenner.png
+INPUT ./wenner.png
+INPUT ./wenner.png
+INPUT ./wenner_schlum.jpg
+INPUT ./wenner_schlum.jpg
+INPUT ./wenner_schlum.jpg
+INPUT ./wenner_schlum.jpg
+INPUT ./wenner_schlum.jpg
+INPUT ./wenner_schlum.jpg
+INPUT ./wenner_schlum.jpg
 INPUT project.aux
 INPUT ./project.out
 INPUT ./project.out
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathex.enc
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmex10.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmex10.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi8.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi8.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr6.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr6.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy8.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy8.pfb

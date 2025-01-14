@@ -1,32 +1,85 @@
-\contentsline {chapter}{Dedication}{1}{chapter*.1}%
-\contentsline {chapter}{Acknowledgements}{2}{chapter*.2}%
-\contentsline {chapter}{Abstract}{3}{chapter*.3}%
-\contentsline {chapter}{Certification}{4}{chapter*.4}%
-\contentsline {chapter}{List of Figures}{i}{chapter*.5}%
+\contentsline {chapter}{Dedication}{i}{chapter*.1}%
+\contentsline {chapter}{Acknowledgements}{ii}{chapter*.2}%
+\contentsline {chapter}{Abstract}{iii}{chapter*.3}%
+\contentsline {chapter}{List of Figures}{iv}{chapter*.4}%
+\contentsline {chapter}{List of Tables}{v}{chapter*.5}%
+\contentsline {chapter}{Certification}{ix}{chapter*.7}%
 \contentsline {chapter}{\numberline {1}CHAPTER 1: INTRODUCTION}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Background to the Study}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Research Problem}{2}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Aims and Objectives}{2}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Aims of the Study}{2}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Objectives of the Study}{3}{subsection.1.3.2}%
-\contentsline {section}{\numberline {1.4}Justification}{3}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Geophysical Investigation}{3}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Geological Settings}{4}{section.1.6}%
-\contentsline {subsection}{\numberline {1.6.1}The Study Location}{4}{subsection.1.6.1}%
-\contentsline {subsection}{\numberline {1.6.2}The Study Area}{4}{subsection.1.6.2}%
-\contentsline {section}{\numberline {1.7}Outline of the Thesis}{4}{section.1.7}%
-\contentsline {chapter}{\numberline {2}CHAPTER 2: LITERATURE REVIEW}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Previous Studies}{5}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Application of Electrical Resistivity in Subsurface Investigation}{5}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Comparison of Methods}{6}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Innovative Applications of Electrical Resistivity}{6}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}Applications in Structural Health Monitoring}{7}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2.2}Summary of Literature Review}{7}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Aim of the Study}{8}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Applications in Civil Engineering}{8}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Methodology}{8}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Site Selection and Survey Design}{8}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Field Data Acquisition}{8}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Data Processing and Analysis}{8}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}Validation and Recommendations}{9}{subsection.2.5.4}%
-\contentsline {section}{\numberline {2.6}Conclusion from Literature}{9}{section.2.6}%
+\contentsline {section}{\numberline {1.2}Research Problem}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Aims and Objectives}{3}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Aims of the Study}{3}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objectives of the Study}{4}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Justification of the Study}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Geophysical Investigation}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Geological Settings}{5}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}The Study Location}{5}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}The Study Area}{7}{subsection.1.6.2}%
+\contentsline {subsubsection}{\textbf {First Location:}}{7}{subsubsection*.9}%
+\contentsline {subsubsection}{\textbf {Second Location:}}{7}{subsubsection*.10}%
+\contentsline {section}{\numberline {1.7}Outline of the Thesis}{11}{section.1.7}%
+\contentsline {chapter}{\numberline {2}CHAPTER 2: LITERATURE REVIEW}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction to Geophysical Methods in Civil Engineering}{12}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Overview of Geophysical Techniques}{13}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Ground Penetrating Radar (GPR)}{13}{subsection.2.2.1}%
+\contentsline {subsubsection}{Principle of Ground Penetrating Radar}{14}{subsubsection*.14}%
+\contentsline {subsubsection}{Applications of Ground Penetrating Radar}{14}{subsubsection*.15}%
+\contentsline {subsubsection}{Inherent Limitations of Ground Penetrating Radar}{15}{subsubsection*.17}%
+\contentsline {subsection}{\numberline {2.2.2}Seismic Refraction Methods}{15}{subsection.2.2.2}%
+\contentsline {subsubsection}{Principle of Seismic Refraction Methods}{15}{subsubsection*.18}%
+\contentsline {subsubsection}{Applications of Seismic Refraction Methods}{15}{subsubsection*.19}%
+\contentsline {subsubsection}{Field Procedure of Seismic Refraction Methods}{15}{subsubsection*.20}%
+\contentsline {subsection}{\numberline {2.2.3}Electrical Resistivity Methods}{16}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Theoretical Background of Electrical Resistivity Methods}{17}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}General Principles of Electrical Resistivity Methods}{17}{subsection.2.3.1}%
+\contentsline {subsubsection}{Principle of Resistivity}{17}{subsubsection*.21}%
+\contentsline {subsubsection}{Key Concept:}{18}{subsubsection*.23}%
+\contentsline {subsection}{\numberline {2.3.2}Electric Current Flow in Subsurface Materials}{19}{subsection.2.3.2}%
+\contentsline {subsubsection}{Equation for Current Density:}{19}{subsubsection*.24}%
+\contentsline {subsection}{\numberline {2.3.3}Electrical Field and Potential}{19}{subsection.2.3.3}%
+\contentsline {subsubsection}{Derivation of Electric Potential Formula}{20}{subsubsection*.25}%
+\contentsline {subsubsection}{Application to Resistivity Surveys}{21}{subsubsection*.26}%
+\contentsline {subsection}{\numberline {2.3.4}Apparent Resistivity}{21}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}Resistivity Surveying Techniques}{22}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Resistivity Surveying}{22}{subsection.2.4.1}%
+\contentsline {subsubsection}{Steps for carrying out Resistivity Surveying:}{23}{subsubsection*.29}%
+\contentsline {subsection}{\numberline {2.4.2}Vertical Electrical Sounding}{24}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Constant Separation Traversing}{25}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Comparison of VES and CST}{26}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}The General Four Electrode System}{27}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Electrode Configuration}{27}{subsection.2.4.6}%
+\contentsline {subsubsection}{Schlumberger Array:}{27}{subsubsection*.30}%
+\contentsline {subsubsection}{Wenner Array:}{27}{subsubsection*.31}%
+\contentsline {subsubsection}{Dipole-Dipole Array:}{28}{subsubsection*.32}%
+\contentsline {section}{\numberline {2.5}Previous Studies on Electrical Resistivity}{30}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Historical Context and Key Findings}{30}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Previous Studies in Nigeria}{30}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Comparison of Methods}{31}{subsection.2.5.3}%
+\contentsline {section}{\numberline {2.6}Applications of Electrical Resistivity}{31}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Innovative Applications of Electrical Resistivity}{31}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Applications in Structural Health Monitoring}{32}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Applications in Building Foundation}{32}{subsection.2.6.3}%
+\contentsline {section}{\numberline {2.7}Importance of Subsurface Evaluation for Foundation Design}{33}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Understanding Subsurface Conditions:}{33}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Benefits of Subsurface Evaluation:}{33}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Geotechnical and Geophysical Contributions:}{34}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.7.4}Case Studies in Foundation Design:}{34}{subsection.2.7.4}%
+\contentsline {subsection}{\numberline {2.7.5}Relevance to Sustainable Construction:}{34}{subsection.2.7.5}%
+\contentsline {subsection}{\numberline {2.7.6}Conclusion:}{35}{subsection.2.7.6}%
+\contentsline {chapter}{\numberline {3}CHAPTER 3: MATERIALS AND METHODS}{36}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{36}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Geophysical Survey Materials and Equipment}{36}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Methodology}{37}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Survey Design}{37}{subsection.3.3.1}%
+\contentsline {subsubsection}{- Schlumberger Configuration:}{37}{subsubsection*.35}%
+\contentsline {subsubsection}{- Wenner Configuration:}{37}{subsubsection*.36}%
+\contentsline {subsection}{\numberline {3.3.2}Field Procedures}{38}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Data Acquisition}{38}{subsection.3.3.3}%
+\contentsline {subsubsection}{Vertical Electrical Sounding Data Acquisition}{38}{subsubsection*.38}%
+\contentsline {subsubsection}{Constant Separation Traversing Data Acquisition}{38}{subsubsection*.39}%
+\contentsline {subsection}{\numberline {3.3.4}Data Processing}{39}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Interpretation Methods}{39}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}Limitations and Precautions}{39}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Limitations}{39}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Precautions}{40}{subsection.3.4.2}%
+\contentsline {chapter}{\numberline {4}CHAPTER 4: RESULTS AND ANALYSIS}{42}{chapter.4}%
