@@ -114,6 +114,45 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/lmodern.sty
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjustbox.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjustbox.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjcalc.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjcalc.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/trimclip.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/trimclip.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/collectbox/collectbox.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/collectbox/collectbox.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/tc-pdftex.def
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/tc-pdftex.def
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/tc-pdftex.def
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/varwidth/varwidth.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/varwidth/varwidth.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/varwidth/varwidth.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/siunitx/siunitx.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/siunitx/siunitx.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translations/translations.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translations/translations.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmr.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmr.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmr.fd
@@ -132,14 +171,8 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ep
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/ltcaption.sty
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/ltcaption.sty
 INPUT ./project.out
 INPUT ./project.out
 INPUT project.out
@@ -148,6 +181,9 @@ OUTPUT project.pdf
 INPUT ./project.out
 INPUT ./project.out
 OUTPUT project.out
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translations/dicts/translations-basic-dictionary-english.trsl
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translations/dicts/translations-basic-dictionary-english.trsl
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translations/dicts/translations-basic-dictionary-english.trsl
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr12.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx12.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr17.tfm
@@ -176,10 +212,6 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omxlmex.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omxlmex.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/lmex10.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmr12.tfm
 OUTPUT project.lof
 INPUT ./project.lot
 INPUT ./project.lot
@@ -191,41 +223,48 @@ INPUT project.toc
 OUTPUT project.toc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx12.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbxi10.tfm
-INPUT ./map2.jpg
-INPUT ./map2.jpg
-INPUT ./map2.jpg
-INPUT ./map2.jpg
-INPUT ./map2.jpg
-INPUT ./map2.jpg
-INPUT ./map2.jpg
-INPUT ./Map-of-Ibadan-city.png
-INPUT ./Map-of-Ibadan-city.png
-INPUT ./Map-of-Ibadan-city.png
-INPUT ./Map-of-Ibadan-city.png
-INPUT ./Map-of-Ibadan-city.png
-INPUT ./Map-of-Ibadan-city.png
-INPUT ./Map-of-Ibadan-city.png
-INPUT ./MosqueMap.jpg
-INPUT ./MosqueMap.jpg
-INPUT ./MosqueMap.jpg
-INPUT ./MosqueMap.jpg
-INPUT ./MosqueMap.jpg
-INPUT ./MosqueMap.jpg
-INPUT ./MosqueMap.jpg
-INPUT ./AAHMap.jpg
-INPUT ./AAHMap.jpg
-INPUT ./AAHMap.jpg
-INPUT ./AAHMap.jpg
-INPUT ./AAHMap.jpg
-INPUT ./AAHMap.jpg
-INPUT ./AAHMap.jpg
-INPUT ./GPR_img2.jpg
-INPUT ./GPR_img2.jpg
-INPUT ./GPR_img2.jpg
-INPUT ./GPR_img2.jpg
-INPUT ./GPR_img2.jpg
-INPUT ./GPR_img2.jpg
-INPUT ./GPR_img2.jpg
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmr12.tfm
+INPUT ./Nigeria_Study_Country.png
+INPUT ./Nigeria_Study_Country.png
+INPUT ./Nigeria_Study_Country.png
+INPUT ./Nigeria_Study_Country.png
+INPUT ./Nigeria_Study_Country.png
+INPUT ./Nigeria_Study_Country.png
+INPUT ./Nigeria_Study_Country.png
+INPUT ./Oyo_Study_Location.png
+INPUT ./Oyo_Study_Location.png
+INPUT ./Oyo_Study_Location.png
+INPUT ./Oyo_Study_Location.png
+INPUT ./Oyo_Study_Location.png
+INPUT ./Oyo_Study_Location.png
+INPUT ./Oyo_Study_Location.png
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr10.tfm
+INPUT ./UI_Study_Area_Map.png
+INPUT ./UI_Study_Area_Map.png
+INPUT ./UI_Study_Area_Map.png
+INPUT ./UI_Study_Area_Map.png
+INPUT ./UI_Study_Area_Map.png
+INPUT ./UI_Study_Area_Map.png
+INPUT ./UI_Study_Area_Map.png
+INPUT ./UI_Mosque_Map_Layout.png
+INPUT ./UI_Mosque_Map_Layout.png
+INPUT ./UI_Mosque_Map_Layout.png
+INPUT ./UI_Mosque_Map_Layout.png
+INPUT ./UI_Mosque_Map_Layout.png
+INPUT ./UI_Mosque_Map_Layout.png
+INPUT ./UI_Mosque_Map_Layout.png
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx10.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmr10.tfm
+INPUT ./AAH_Map_Layout.png
+INPUT ./AAH_Map_Layout.png
+INPUT ./AAH_Map_Layout.png
+INPUT ./AAH_Map_Layout.png
+INPUT ./AAH_Map_Layout.png
+INPUT ./AAH_Map_Layout.png
+INPUT ./AAH_Map_Layout.png
 INPUT ./current-flow.png
 INPUT ./current-flow.png
 INPUT ./current-flow.png
@@ -235,27 +274,27 @@ INPUT ./current-flow.png
 INPUT ./current-flow.png
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx8.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx6.tfm
-INPUT ./ctf.png
-INPUT ./ctf.png
-INPUT ./ctf.png
-INPUT ./ctf.png
-INPUT ./ctf.png
-INPUT ./ctf.png
-INPUT ./ctf.png
-INPUT ./apparent.jpg
-INPUT ./apparent.jpg
-INPUT ./apparent.jpg
-INPUT ./apparent.jpg
-INPUT ./apparent.jpg
-INPUT ./apparent.jpg
-INPUT ./apparent.jpg
-INPUT ./wenschdip.png
-INPUT ./wenschdip.png
-INPUT ./wenschdip.png
-INPUT ./wenschdip.png
-INPUT ./wenschdip.png
-INPUT ./wenschdip.png
-INPUT ./wenschdip.png
+INPUT ./Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png
+INPUT ./Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png
+INPUT ./Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png
+INPUT ./Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png
+INPUT ./Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png
+INPUT ./Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png
+INPUT ./Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png
+INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
+INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
+INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
+INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
+INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
+INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
+INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
+INPUT ./Dispositions.png
+INPUT ./Dispositions.png
+INPUT ./Dispositions.png
+INPUT ./Dispositions.png
+INPUT ./Dispositions.png
+INPUT ./Dispositions.png
+INPUT ./Dispositions.png
 INPUT ./sclumberger.png
 INPUT ./sclumberger.png
 INPUT ./sclumberger.png
@@ -263,7 +302,6 @@ INPUT ./sclumberger.png
 INPUT ./sclumberger.png
 INPUT ./sclumberger.png
 INPUT ./sclumberger.png
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr10.tfm
 INPUT ./wenner.png
 INPUT ./wenner.png
 INPUT ./wenner.png
@@ -271,6 +309,13 @@ INPUT ./wenner.png
 INPUT ./wenner.png
 INPUT ./wenner.png
 INPUT ./wenner.png
+INPUT ./IMG_9200.jpg
+INPUT ./IMG_9200.jpg
+INPUT ./IMG_9200.jpg
+INPUT ./IMG_9200.jpg
+INPUT ./IMG_9200.jpg
+INPUT ./IMG_9200.jpg
+INPUT ./IMG_9200.jpg
 INPUT ./wenner_schlum.jpg
 INPUT ./wenner_schlum.jpg
 INPUT ./wenner_schlum.jpg
@@ -278,14 +323,234 @@ INPUT ./wenner_schlum.jpg
 INPUT ./wenner_schlum.jpg
 INPUT ./wenner_schlum.jpg
 INPUT ./wenner_schlum.jpg
+INPUT ./Mosque_Survey_Layout.png
+INPUT ./Mosque_Survey_Layout.png
+INPUT ./Mosque_Survey_Layout.png
+INPUT ./Mosque_Survey_Layout.png
+INPUT ./Mosque_Survey_Layout.png
+INPUT ./Mosque_Survey_Layout.png
+INPUT ./Mosque_Survey_Layout.png
+INPUT ./AAH_Survery-Layout.png
+INPUT ./AAH_Survery-Layout.png
+INPUT ./AAH_Survery-Layout.png
+INPUT ./AAH_Survery-Layout.png
+INPUT ./AAH_Survery-Layout.png
+INPUT ./AAH_Survery-Layout.png
+INPUT ./AAH_Survery-Layout.png
+INPUT ./IMG_9183.jpg
+INPUT ./IMG_9183.jpg
+INPUT ./IMG_9183.jpg
+INPUT ./IMG_9183.jpg
+INPUT ./IMG_9183.jpg
+INPUT ./IMG_9183.jpg
+INPUT ./IMG_9183.jpg
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr17.tfm
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Picture3.png
+INPUT ./Picture3.png
+INPUT ./Picture3.png
+INPUT ./Picture3.png
+INPUT ./Picture3.png
+INPUT ./Picture3.png
+INPUT ./Picture3.png
+INPUT ./Picture2.png
+INPUT ./Picture2.png
+INPUT ./Picture2.png
+INPUT ./Picture2.png
+INPUT ./Picture2.png
+INPUT ./Picture2.png
+INPUT ./Picture2.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
 INPUT project.aux
 INPUT ./project.out
 INPUT ./project.out
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathex.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx10.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx10.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb
@@ -294,6 +559,8 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmex10.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi6.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi6.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi8.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi8.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb
