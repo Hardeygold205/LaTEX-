@@ -190,10 +190,6 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/pu
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx12.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx12.tfm
-INPUT ./project.lof
-INPUT ./project.lof
-INPUT project.lof
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri12.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr8.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr6.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omllmm.fd
@@ -212,6 +208,13 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omxlmex.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omxlmex.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/lmex10.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmr12.tfm
+INPUT ./project.lof
+INPUT ./project.lof
+INPUT project.lof
 OUTPUT project.lof
 INPUT ./project.lot
 INPUT ./project.lot
@@ -223,10 +226,7 @@ INPUT project.toc
 OUTPUT project.toc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx12.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbxi10.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmr12.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri12.tfm
 INPUT ./Nigeria_Study_Country.png
 INPUT ./Nigeria_Study_Country.png
 INPUT ./Nigeria_Study_Country.png
@@ -288,13 +288,6 @@ INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
 INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
 INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
 INPUT ./Apparent-resistivity-curve-for-a-two-layer-model.png
-INPUT ./Dispositions.png
-INPUT ./Dispositions.png
-INPUT ./Dispositions.png
-INPUT ./Dispositions.png
-INPUT ./Dispositions.png
-INPUT ./Dispositions.png
-INPUT ./Dispositions.png
 INPUT ./sclumberger.png
 INPUT ./sclumberger.png
 INPUT ./sclumberger.png
@@ -352,20 +345,13 @@ INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
 INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
 INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
 INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
-INPUT ./Picture3.png
-INPUT ./Picture3.png
-INPUT ./Picture3.png
-INPUT ./Picture3.png
-INPUT ./Picture3.png
-INPUT ./Picture3.png
-INPUT ./Picture3.png
-INPUT ./Picture2.png
-INPUT ./Picture2.png
-INPUT ./Picture2.png
-INPUT ./Picture2.png
-INPUT ./Picture2.png
-INPUT ./Picture2.png
-INPUT ./Picture2.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
 INPUT ./ui_ves1.png
 INPUT ./ui_ves1.png
 INPUT ./ui_ves1.png
@@ -541,6 +527,41 @@ INPUT ./PROFILE 2D (1).png
 INPUT ./PROFILE 2D (1).png
 INPUT ./PROFILE 2D (1).png
 INPUT ./PROFILE 2D (1).png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
 INPUT project.aux
 INPUT ./project.out
 INPUT ./project.out

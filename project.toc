@@ -1,134 +1,137 @@
-\contentsline {chapter}{Dedication}{i}{chapter*.1}%
-\contentsline {chapter}{Acknowledgements}{ii}{chapter*.2}%
-\contentsline {chapter}{Abstract}{iii}{chapter*.3}%
-\contentsline {chapter}{List of Figures}{v}{chapter*.4}%
-\contentsline {chapter}{List of Tables}{vi}{chapter*.5}%
-\contentsline {chapter}{Certification}{xii}{chapter*.7}%
+\contentsline {chapter}{Certification}{i}{chapter*.1}%
+\contentsline {chapter}{Abstract}{ii}{chapter*.2}%
+\contentsline {chapter}{Dedication}{iv}{chapter*.3}%
+\contentsline {chapter}{Acknowledgements}{v}{chapter*.4}%
+\contentsline {chapter}{List of Figures}{vii}{chapter*.5}%
+\contentsline {chapter}{List of Tables}{viii}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}CHAPTER 1: INTRODUCTION}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Background to the Study}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Research Problem}{3}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Aims and Objectives}{3}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Aims of the Study}{3}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Objectives of the Study}{4}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.2}Research Problem}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Aim and Objectives}{3}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Aim of the Study}{3}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objectives of the Study}{3}{subsection.1.3.2}%
 \contentsline {section}{\numberline {1.4}Justification of the Study}{4}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Geophysical Investigation}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.5}Geophysical Investigation}{4}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Geological Settings}{5}{section.1.6}%
 \contentsline {subsection}{\numberline {1.6.1}The Study Location}{5}{subsection.1.6.1}%
-\contentsline {subsection}{\numberline {1.6.2}The Study Area}{7}{subsection.1.6.2}%
-\contentsline {subsubsection}{\textbf {First Location:}}{7}{subsubsection*.9}%
-\contentsline {subsubsection}{\textbf {Second Location:}}{7}{subsubsection*.10}%
-\contentsline {section}{\numberline {1.7}Outline of the Thesis}{10}{section.1.7}%
-\contentsline {chapter}{\numberline {2}CHAPTER 2: LITERATURE REVIEW}{11}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Introduction to Geophysical Methods in Civil Engineering}{11}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Overview of Geophysical Techniques}{12}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Ground Penetrating Radar (GPR)}{12}{subsection.2.2.1}%
-\contentsline {subsubsection}{Principle of Ground Penetrating Radar}{13}{subsubsection*.13}%
-\contentsline {subsubsection}{Applications of Ground Penetrating Radar}{13}{subsubsection*.14}%
-\contentsline {subsubsection}{Inherent Limitations of Ground Penetrating Radar}{13}{subsubsection*.15}%
-\contentsline {subsection}{\numberline {2.2.2}Seismic Refraction Methods}{13}{subsection.2.2.2}%
-\contentsline {subsubsection}{Principle of Seismic Refraction Methods}{14}{subsubsection*.16}%
-\contentsline {subsubsection}{Applications of Seismic Refraction Methods}{14}{subsubsection*.17}%
-\contentsline {subsubsection}{Field Procedure of Seismic Refraction Methods}{14}{subsubsection*.18}%
-\contentsline {subsection}{\numberline {2.2.3}Electrical Resistivity Methods}{14}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Theoretical Background of Electrical Resistivity Methods}{16}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}General Principles of Electrical Resistivity Methods}{16}{subsection.2.3.1}%
-\contentsline {subsubsection}{Principle of Resistivity}{16}{subsubsection*.19}%
-\contentsline {subsubsection}{Key Concept:}{16}{subsubsection*.20}%
-\contentsline {subsection}{\numberline {2.3.2}Electric Current Flow in Subsurface Materials}{17}{subsection.2.3.2}%
-\contentsline {subsubsection}{Equation for Current Density:}{17}{subsubsection*.21}%
-\contentsline {subsection}{\numberline {2.3.3}Electrical Field and Potential}{18}{subsection.2.3.3}%
-\contentsline {subsubsection}{Derivation of Electric Potential Formula}{19}{subsubsection*.23}%
-\contentsline {subsubsection}{Application to Resistivity Surveys}{19}{subsubsection*.24}%
-\contentsline {subsection}{\numberline {2.3.4}Apparent Resistivity}{20}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}The General Four Electrode System}{21}{subsection.2.3.5}%
-\contentsline {subsection}{\numberline {2.3.6}Electrode Configuration}{22}{subsection.2.3.6}%
-\contentsline {subsubsection}{Schlumberger Array:}{22}{subsubsection*.27}%
-\contentsline {subsubsection}{Wenner Array:}{22}{subsubsection*.28}%
-\contentsline {subsubsection}{Dipole-Dipole Array:}{23}{subsubsection*.29}%
-\contentsline {section}{\numberline {2.4}Resistivity Surveying Techniques}{25}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Resistivity Surveying}{25}{subsection.2.4.1}%
-\contentsline {subsubsection}{Steps for carrying out Resistivity Surveying:}{25}{subsubsection*.32}%
-\contentsline {subsection}{\numberline {2.4.2}Vertical Electrical Sounding}{26}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Constant Separation Traversing}{27}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Comparison of VES and CST}{28}{subsection.2.4.4}%
-\contentsline {section}{\numberline {2.5}Previous Studies on Electrical Resistivity}{29}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Historical Context and Key Findings}{29}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Previous Studies in Nigeria}{29}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Comparison of Methods}{30}{subsection.2.5.3}%
-\contentsline {section}{\numberline {2.6}Applications of Electrical Resistivity}{30}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Innovative Applications of Electrical Resistivity}{30}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}Applications in Structural Health Monitoring}{31}{subsection.2.6.2}%
-\contentsline {subsection}{\numberline {2.6.3}Applications in Building Foundation}{31}{subsection.2.6.3}%
-\contentsline {section}{\numberline {2.7}Importance of Subsurface Evaluation for Foundation Design}{32}{section.2.7}%
-\contentsline {subsection}{\numberline {2.7.1}Understanding Subsurface Conditions:}{32}{subsection.2.7.1}%
-\contentsline {subsection}{\numberline {2.7.2}Benefits of Subsurface Evaluation:}{32}{subsection.2.7.2}%
-\contentsline {subsection}{\numberline {2.7.3}Geotechnical and Geophysical Contributions:}{33}{subsection.2.7.3}%
-\contentsline {subsection}{\numberline {2.7.4}Case Studies in Foundation Design:}{33}{subsection.2.7.4}%
-\contentsline {subsection}{\numberline {2.7.5}Relevance to Sustainable Construction:}{33}{subsection.2.7.5}%
-\contentsline {subsection}{\numberline {2.7.6}Conclusion:}{33}{subsection.2.7.6}%
-\contentsline {chapter}{\numberline {3}CHAPTER 3: MATERIALS AND METHODS}{34}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{34}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Geophysical Survey Materials and Equipment}{34}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Methodology}{36}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Survey Design}{36}{subsection.3.3.1}%
-\contentsline {subsubsection}{- Schlumberger Configuration:}{36}{subsubsection*.34}%
-\contentsline {subsubsection}{- Wenner Configuration:}{36}{subsubsection*.35}%
-\contentsline {subsection}{\numberline {3.3.2}Field Procedures}{38}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Data Acquisition}{39}{subsection.3.3.3}%
-\contentsline {subsubsection}{Vertical Electrical Sounding Data Acquisition}{39}{subsubsection*.40}%
-\contentsline {subsubsection}{Constant Separation Traversing Data Acquisition}{39}{subsubsection*.41}%
-\contentsline {subsection}{\numberline {3.3.4}Data Processing}{39}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Interpretation Methods}{39}{subsection.3.3.5}%
-\contentsline {section}{\numberline {3.4}Limitations and Precautions}{40}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Limitations}{40}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Precautions}{41}{subsection.3.4.2}%
-\contentsline {chapter}{\numberline {4}CHAPTER 4: RESULTS AND ANALYSIS}{43}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{43}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Data Acquisition and Study Areas}{43}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Vertical Electrical Sounding Resistivity Field Records}{44}{subsection.4.2.1}%
-\contentsline {paragraph}{\textbf {Location:}}{45}{paragraph*.45}%
-\contentsline {subsection}{\numberline {4.2.2}Constant Separation Traversing Resistivity Field Records}{46}{subsection.4.2.2}%
-\contentsline {paragraph}{\textbf {Location:}}{47}{paragraph*.55}%
-\contentsline {section}{\numberline {4.3}Practical Curve Matching Techniques}{49}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Types of Possible Curves}{49}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Curve Matching Techniques Procedure Outlines}{51}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Curve Match Techniques Results}{51}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}Vertical Electrical Sounding Data Interpretation}{54}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}VES 1 Station at UI Mosque}{54}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}VES 2 Station at UI Mosque}{55}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}VES 3 Station at UI Mosque}{56}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}VES 4 Station at UI Mosque}{57}{subsection.4.4.4}%
-\contentsline {subsection}{\numberline {4.4.5}VES 5 Station at UI Mosque}{58}{subsection.4.4.5}%
-\contentsline {subsection}{\numberline {4.4.6}VES 6 Station at UI Mosque}{59}{subsection.4.4.6}%
-\contentsline {subsection}{\numberline {4.4.7}VES 7 Station at UI Mosque}{60}{subsection.4.4.7}%
-\contentsline {subsection}{\numberline {4.4.8}VES 8 Station at UI Mosque}{61}{subsection.4.4.8}%
-\contentsline {subsection}{\numberline {4.4.9}VES 9 Station at UI Mosque}{62}{subsection.4.4.9}%
-\contentsline {subsection}{\numberline {4.4.10}VES 10 Station at UI Mosque}{63}{subsection.4.4.10}%
-\contentsline {subsection}{\numberline {4.4.11}VES 1 Station at AAH}{64}{subsection.4.4.11}%
-\contentsline {subsection}{\numberline {4.4.12}VES 2 Station at AAH}{65}{subsection.4.4.12}%
-\contentsline {subsection}{\numberline {4.4.13}VES 3 Station at AAH}{66}{subsection.4.4.13}%
-\contentsline {subsection}{\numberline {4.4.14}VES 4 Station at AAH}{67}{subsection.4.4.14}%
-\contentsline {subsection}{\numberline {4.4.15}VES 5 Station at AAH}{68}{subsection.4.4.15}%
-\contentsline {subsection}{\numberline {4.4.16}VES 6 Station at AAH}{69}{subsection.4.4.16}%
-\contentsline {subsection}{\numberline {4.4.17}VES 7 Station at AAH}{70}{subsection.4.4.17}%
-\contentsline {subsection}{\numberline {4.4.18}VES 8 Station at AAH}{71}{subsection.4.4.18}%
-\contentsline {subsection}{\numberline {4.4.19}VES 9 Station at AAH}{72}{subsection.4.4.19}%
-\contentsline {subsection}{\numberline {4.4.20}VES 10 Station at AAH}{73}{subsection.4.4.20}%
-\contentsline {section}{\numberline {4.5}Constant Separation Traversing Data Interpretation}{74}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Interpretation of the Profiles}{78}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Resisitivity Variations}{78}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Profile 1 at UI Mosque}{79}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.6.3}Profile 2 at UI Mosque}{79}{subsection.4.6.3}%
-\contentsline {subsection}{\numberline {4.6.4}Profile 3 at UI Mosque}{80}{subsection.4.6.4}%
-\contentsline {subsection}{\numberline {4.6.5}Profile 1 at AAH}{80}{subsection.4.6.5}%
-\contentsline {subsection}{\numberline {4.6.6}Profile 2 at AAH}{80}{subsection.4.6.6}%
-\contentsline {section}{\numberline {4.7}Geoelectric Section along the Profiles using Surfer}{81}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Geoelectric Parameters and the Inferred Lithology of the Study Area}{81}{section.4.8}%
-\contentsline {subsection}{\numberline {4.8.1}Model Interpretation of Layers for UI Mosque Study Area}{81}{subsection.4.8.1}%
-\contentsline {subsection}{\numberline {4.8.2}Model Interpretation of Layers for AAH Study Area}{83}{subsection.4.8.2}%
-\contentsline {chapter}{\numberline {5}CHAPTER 5: SUMMARY, CONCLUSION, AND RECOMMENDATIONS}{86}{chapter.5}%
-\contentsline {section}{\numberline {5.1}SUMMARY}{86}{section.5.1}%
-\contentsline {section}{\numberline {5.2}CONCLUSION}{86}{section.5.2}%
-\contentsline {section}{\numberline {5.3}RECOMMENDATIONS}{87}{section.5.3}%
-\contentsline {chapter}{APPENDIX}{89}{chapter*.90}%
-\contentsline {chapter}{REFFERENCES}{90}{chapter*.91}%
+\contentsline {subsection}{\numberline {1.6.2}The Study Area}{6}{subsection.1.6.2}%
+\contentsline {subsubsection}{\textbf {First Location:}}{6}{subsubsection*.9}%
+\contentsline {subsubsection}{\textbf {Second Location:}}{6}{subsubsection*.10}%
+\contentsline {section}{\numberline {1.7}Outline of the Thesis}{9}{section.1.7}%
+\contentsline {chapter}{\numberline {2}CHAPTER 2: LITERATURE REVIEW}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction to Geophysical Methods in Civil Engineering}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Overview of Geophysical Techniques}{11}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Ground Penetrating Radar (GPR)}{11}{subsection.2.2.1}%
+\contentsline {subsubsection}{Principle of Ground Penetrating Radar}{11}{subsubsection*.13}%
+\contentsline {subsubsection}{Applications of Ground Penetrating Radar}{11}{subsubsection*.14}%
+\contentsline {subsubsection}{Inherent Limitations of Ground Penetrating Radar}{12}{subsubsection*.15}%
+\contentsline {subsection}{\numberline {2.2.2}Seismic Refraction Methods}{12}{subsection.2.2.2}%
+\contentsline {subsubsection}{Principle of Seismic Refraction Methods}{12}{subsubsection*.16}%
+\contentsline {subsubsection}{Applications of Seismic Refraction Methods}{12}{subsubsection*.17}%
+\contentsline {subsubsection}{Field Procedure of Seismic Refraction Methods}{13}{subsubsection*.18}%
+\contentsline {subsection}{\numberline {2.2.3}Electrical Resistivity Methods}{13}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Theoretical Background of Electrical Resistivity Methods}{14}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}General Principles of Electrical Resistivity Methods}{14}{subsection.2.3.1}%
+\contentsline {subsubsection}{Principle of Resistivity}{14}{subsubsection*.19}%
+\contentsline {subsubsection}{Key Concept:}{15}{subsubsection*.20}%
+\contentsline {subsection}{\numberline {2.3.2}Electric Current Flow in Subsurface Materials}{15}{subsection.2.3.2}%
+\contentsline {subsubsection}{Equation for Current Density:}{15}{subsubsection*.21}%
+\contentsline {subsection}{\numberline {2.3.3}Electrical Field and Potential}{16}{subsection.2.3.3}%
+\contentsline {subsubsection}{Derivation of Electric Potential Formula}{16}{subsubsection*.23}%
+\contentsline {subsubsection}{Application to Resistivity Surveys}{17}{subsubsection*.24}%
+\contentsline {subsection}{\numberline {2.3.4}Apparent Resistivity}{18}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}The General Four Electrode System}{19}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Electrode Configuration}{19}{subsection.2.3.6}%
+\contentsline {subsubsection}{Schlumberger Array:}{20}{subsubsection*.27}%
+\contentsline {subsubsection}{Wenner Array:}{20}{subsubsection*.28}%
+\contentsline {subsubsection}{Dipole-Dipole Array:}{20}{subsubsection*.29}%
+\contentsline {section}{\numberline {2.4}Resistivity Surveying Techniques}{22}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Resistivity Surveying}{22}{subsection.2.4.1}%
+\contentsline {subsubsection}{Steps for carrying out Resistivity Surveying:}{22}{subsubsection*.31}%
+\contentsline {subsection}{\numberline {2.4.2}Vertical Electrical Sounding}{23}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Constant Separation Traversing}{24}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Comparison of VES and CST}{25}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}Previous Studies on Electrical Resistivity}{26}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Historical Context and Key Findings}{26}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Previous Studies in Nigeria}{26}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Comparison of Methods}{26}{subsection.2.5.3}%
+\contentsline {section}{\numberline {2.6}Applications of Electrical Resistivity}{27}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Innovative Applications of Electrical Resistivity}{27}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Applications in Structural Health Monitoring}{27}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Applications in Building Foundation}{28}{subsection.2.6.3}%
+\contentsline {section}{\numberline {2.7}Importance of Subsurface Evaluation for Foundation Design}{28}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Understanding Subsurface Conditions:}{28}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Benefits of Subsurface Evaluation:}{28}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Case Studies in Foundation Design:}{29}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.7.4}Relevance to Sustainable Construction:}{29}{subsection.2.7.4}%
+\contentsline {chapter}{\numberline {3}CHAPTER 3: MATERIALS AND METHODS}{30}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{30}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Geophysical Survey Materials and Equipment}{30}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Methodology}{32}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Survey Design}{32}{subsection.3.3.1}%
+\contentsline {subsubsection}{- Schlumberger Configuration:}{32}{subsubsection*.33}%
+\contentsline {subsubsection}{- Wenner Configuration:}{32}{subsubsection*.34}%
+\contentsline {subsection}{\numberline {3.3.2}Field Procedures}{34}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Data Acquisition}{35}{subsection.3.3.3}%
+\contentsline {subsubsection}{Vertical Electrical Sounding Data Acquisition}{35}{subsubsection*.39}%
+\contentsline {subsubsection}{Constant Separation Traversing Data Acquisition}{35}{subsubsection*.40}%
+\contentsline {subsection}{\numberline {3.3.4}Data Processing}{35}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Interpretation Methods}{35}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}Limitations and Precautions}{36}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Limitations}{36}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Precautions}{37}{subsection.3.4.2}%
+\contentsline {chapter}{\numberline {4}CHAPTER 4: RESULTS AND ANALYSIS}{38}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{38}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Data Acquisition and Study Areas}{38}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Vertical Electrical Sounding Resistivity Field Records}{39}{subsection.4.2.1}%
+\contentsline {paragraph}{\textbf {Location:}}{40}{paragraph*.44}%
+\contentsline {subsection}{\numberline {4.2.2}Constant Separation Traversing Resistivity Field Records}{41}{subsection.4.2.2}%
+\contentsline {paragraph}{\textbf {Location:}}{42}{paragraph*.54}%
+\contentsline {section}{\numberline {4.3}Practical Curve Matching Techniques}{44}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Types of Possible Curves}{44}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Curve Matching Techniques Procedure Outlines}{46}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Curve Match Techniques Results}{46}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Vertical Electrical Sounding Data Interpretation}{48}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}VES 1 Station at UI Mosque}{48}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}VES 2 Station at UI Mosque}{49}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}VES 3 Station at UI Mosque}{50}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}VES 4 Station at UI Mosque}{51}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}VES 5 Station at UI Mosque}{52}{subsection.4.4.5}%
+\contentsline {subsection}{\numberline {4.4.6}VES 6 Station at UI Mosque}{53}{subsection.4.4.6}%
+\contentsline {subsection}{\numberline {4.4.7}VES 7 Station at UI Mosque}{54}{subsection.4.4.7}%
+\contentsline {subsection}{\numberline {4.4.8}VES 8 Station at UI Mosque}{55}{subsection.4.4.8}%
+\contentsline {subsection}{\numberline {4.4.9}VES 9 Station at UI Mosque}{56}{subsection.4.4.9}%
+\contentsline {subsection}{\numberline {4.4.10}VES 10 Station at UI Mosque}{57}{subsection.4.4.10}%
+\contentsline {subsection}{\numberline {4.4.11}VES 1 Station at AAH}{58}{subsection.4.4.11}%
+\contentsline {subsection}{\numberline {4.4.12}VES 2 Station at AAH}{59}{subsection.4.4.12}%
+\contentsline {subsection}{\numberline {4.4.13}VES 3 Station at AAH}{60}{subsection.4.4.13}%
+\contentsline {subsection}{\numberline {4.4.14}VES 4 Station at AAH}{61}{subsection.4.4.14}%
+\contentsline {subsection}{\numberline {4.4.15}VES 5 Station at AAH}{62}{subsection.4.4.15}%
+\contentsline {subsection}{\numberline {4.4.16}VES 6 Station at AAH}{63}{subsection.4.4.16}%
+\contentsline {subsection}{\numberline {4.4.17}VES 7 Station at AAH}{64}{subsection.4.4.17}%
+\contentsline {subsection}{\numberline {4.4.18}VES 8 Station at AAH}{65}{subsection.4.4.18}%
+\contentsline {subsection}{\numberline {4.4.19}VES 9 Station at AAH}{66}{subsection.4.4.19}%
+\contentsline {subsection}{\numberline {4.4.20}VES 10 Station at AAH}{67}{subsection.4.4.20}%
+\contentsline {section}{\numberline {4.5}Constant Separation Traversing Data Interpretation}{68}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Interpretation of the Profiles}{72}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Resisitivity Variations}{72}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Profile 1 at UI Mosque}{73}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Profile 2 at UI Mosque}{73}{subsection.4.6.3}%
+\contentsline {subsection}{\numberline {4.6.4}Profile 3 at UI Mosque}{73}{subsection.4.6.4}%
+\contentsline {subsection}{\numberline {4.6.5}Profile 1 at AAH}{74}{subsection.4.6.5}%
+\contentsline {subsection}{\numberline {4.6.6}Profile 2 at AAH}{74}{subsection.4.6.6}%
+\contentsline {section}{\numberline {4.7}Geoelectric Section along the Profiles using Surfer}{75}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}UI Mosque Profile 1 Geoelectric Section}{75}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}UI Mosque Profile 2 Geoelectric Section}{76}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}UI Mosque Profile 3 Geoelectric Section}{77}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.4}Abubakar Abdulsalam Hall Profile 1 Geoelectric Section}{78}{subsection.4.7.4}%
+\contentsline {subsection}{\numberline {4.7.5}Abubakar Abdulsalam Hall Profile 1 Geoelectric Section}{79}{subsection.4.7.5}%
+\contentsline {section}{\numberline {4.8}Geoelectric Parameters and the Inferred Lithology of the Study Area}{79}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Model Interpretation of Layers for UI Mosque Study Area}{80}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Model Interpretation of Layers for AAH Study Area}{81}{subsection.4.8.2}%
+\contentsline {chapter}{\numberline {5}CHAPTER 5: SUMMARY, CONCLUSION, AND RECOMMENDATIONS}{84}{chapter.5}%
+\contentsline {section}{\numberline {5.1}SUMMARY}{84}{section.5.1}%
+\contentsline {section}{\numberline {5.2}RECOMMENDATIONS}{84}{section.5.2}%
+\contentsline {section}{\numberline {5.3}CONCLUSION}{85}{section.5.3}%
+\contentsline {chapter}{REFFERENCES}{86}{chapter*.93}%
+\contentsline {chapter}{ACRONYMS}{90}{chapter*.94}%

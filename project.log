@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.11.15)  27 JAN 2025 22:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.11.15)  31 JAN 2025 17:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -450,8 +450,8 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages 
 \l__siunitx_unit_position_int=\count327
 \l__siunitx_unit_total_int=\count328
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 40.
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 43.
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 44.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
 Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
@@ -459,7 +459,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx))
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 43.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 44.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
@@ -469,24 +469,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (project.aux)
 \openout1 = `project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -496,15 +496,15 @@ LaTeX Font Info:    ... okay on input line 43.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* h-part:(L,W,R)=(50.58878pt, 496.33032pt, 50.58878pt)
+* v-part:(T,H,B)=(50.58878pt, 743.8693pt, 50.58878pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=700.50687pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
+* \textwidth=496.33032pt
+* \textheight=743.8693pt
+* \oddsidemargin=-21.68121pt
+* \evensidemargin=-21.68121pt
+* \topmargin=-58.68121pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -549,7 +549,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 43.
+Package hyperref Info: Link coloring ON on input line 44.
  (project.out) (project.out)
 \@outlinefile=\write3
 \openout3 = `project.out'.
@@ -557,7 +557,7 @@ Package hyperref Info: Link coloring ON on input line 43.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translations/dicts/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 43.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 44.
 
 
 [1
@@ -567,50 +567,44 @@ Package translations Info: loading dictionary `translations-basic-dictionary' fo
 [1
 
 ]
-
-[2
-
-]
-Overfull \hbox (32.5704pt too wide) in paragraph at lines 82--83
-\OT1/lmr/m/n/12 formations and assessing their suitability for various engineering and environmental applications.
- []
-
-
-Overfull \hbox (9.19989pt too wide) in paragraph at lines 88--89
-[]\OT1/lmr/m/n/12 This integrated methodology not only validated the geophysical results but also provided
- []
-
-
-Overfull \hbox (0.46979pt too wide) in paragraph at lines 88--89
-\OT1/lmr/m/n/12 assessments. Additionally, this research underscores the importance of combining multiple
- []
-
-
-
-[3
-
-] (project.lof
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 96.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 2.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 96.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 2.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 96.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 2.
+(Font)              <12> on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 2.
+(Font)              <8> on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 2.
+(Font)              <6> on input line 96.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 98.
+ (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 
+[2
+
+]
+
+[3]
 
 [4
+
+]
+
+[5
+
+] (project.lof
+
+[6
 
 ])
 \tf@lof=\write4
@@ -618,59 +612,50 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 
-[5] (project.lot)
+[7] (project.lot)
 \tf@lot=\write5
 \openout5 = `project.lot'.
 
 
 
-[6
+[8
 
 ] (project.toc
 
-[7
+[9
 
 ]
 
-[8]
+[10]
 
-[9]
-Overfull \hbox (30.18753pt too wide) in paragraph at lines 129--129
- [] [][][]\OT1/lmr/bx/n/12 CHAPTER 5: SUMMARY, CONCLUSION, AND RECOMMENDATIONS[][] []  
- []
+[11]
 
-
-
-[10])
+[12])
 \tf@toc=\write6
 \openout6 = `project.toc'.
 
 
 
-[11]
-
-[12
-
-]
+[13]
 Chapter 1.
 
-Overfull \hbox (2.24605pt too wide) in paragraph at lines 117--118
-\OT1/lmr/m/n/12 Building failures, a prevalent issue in various regions, often result from poor soil conditions,
+Overfull \hbox (3.68793pt too wide) in paragraph at lines 144--145
+[]\OT1/lmr/m/n/12 Recent studies have expanded the scope of geophysical methods like Vertical Electrical Sounding
  []
 
 
-Overfull \hbox (7.98401pt too wide) in paragraph at lines 119--120
-\OT1/lmr/m/n/12 Sounding (VES) and Constant Separation Traversing (CST) to include subsurface mapping,
+Overfull \hbox (5.6136pt too wide) in paragraph at lines 144--145
+\OT1/lmr/m/n/12 samples and laboratory tests. Their findings highlighted the presence of heavy metal contamination,
  []
 
 
-Overfull \hbox (12.67943pt too wide) in paragraph at lines 119--120
-\OT1/lmr/m/n/12 zones and aquifer units, revealing areas with low groundwater prospects. They demonstrated
+Overfull \hbox (14.27446pt too wide) in paragraph at lines 144--145
+\OT1/lmr/m/n/12 emphasizing its potential impact on groundwater quality and the importance of including geochemical
  []
 
 
-Overfull \hbox (16.57639pt too wide) in paragraph at lines 123--124
-\OT1/lmr/m/n/12 faults, fractures, and lithological boundaries that may compromise the stability of engineering
+Overfull \hbox (9.6911pt too wide) in paragraph at lines 144--145
+\OT1/lmr/m/n/12 and detecting geological discontinuities. \OT1/lmr/bx/n/12 (Anomohanran, \OT1/lmr/bx/it/12 et al., \OT1/lmr/bx/n/12 2016) \OT1/lmr/m/n/12 applied CST to investigate
  []
 
 
@@ -679,965 +664,749 @@ Overfull \hbox (16.57639pt too wide) in paragraph at lines 123--124
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.124 
+l.145 
        [1
 
 ]
-Overfull \hbox (12.27852pt too wide) in paragraph at lines 127--128
-[]\OT1/lmr/m/n/12 Furthermore, \OT1/lmr/bx/n/12 (Warner 2004) \OT1/lmr/m/n/12 and \OT1/lmr/bx/n/12 (Ozeqin, \OT1/lmr/bx/it/12 et al., \OT1/lmr/bx/n/12 2017) \OT1/lmr/m/n/12 emphasized that geophysical
+Overfull \hbox (6.7208pt too wide) in paragraph at lines 146--147
+\OT1/lmr/m/n/12 were primary contributors to differential settlements and structural disintegration. This underscores
  []
 
 
-Overfull \hbox (9.32925pt too wide) in paragraph at lines 127--128
-\OT1/lmr/m/n/12 incorporating such techniques into site investigations, construction projects can significantly
+Overfull \hbox (2.84657pt too wide) in paragraph at lines 150--151
+\OT1/lmr/m/n/12 Traversing (CST) represents an innovative approach to geotechnical site investigation by addressing
  []
 
 
-Overfull \hbox (14.68251pt too wide) in paragraph at lines 129--130
-\OT1/lmr/m/n/12 successfully applied in various engineering projects to identify and map subsurface structures.
- []
-
-
-Overfull \hbox (0.98395pt too wide) in paragraph at lines 131--132
-[]\OT1/lmr/m/n/12 In summary, the integration of \OT1/lmr/bx/n/12 Vertical Electrical Sounding (VES) \OT1/lmr/m/n/12 and \OT1/lmr/bx/n/12 Constant
+Overfull \hbox (6.8527pt too wide) in paragraph at lines 150--151
+\OT1/lmr/m/n/12 variations, these methods mitigate risks of construction failure. This study employs these techniques
  []
 
 
 
 [2]
-Overfull \hbox (3.96332pt too wide) in paragraph at lines 134--136
-\OT1/lmr/m/n/12 structural cracking, or outright collapse. Despite advancements in construction technology,
+Overfull \hbox (3.17038pt too wide) in paragraph at lines 158--159
+\OT1/lmr/m/n/12 Schlumberger configuration and Constant Separation Traversing (CST) with Wenner configuration,
  []
 
 
-Overfull \hbox (2.86627pt too wide) in paragraph at lines 134--136
-\OT1/lmr/m/n/12 many civil engineering projects still suffer from cost overruns and safety concerns stemming
+Overfull \hbox (3.39122pt too wide) in paragraph at lines 163--164
+[]\OT1/lmr/m/n/12 Map the subsurface layers and determine their resistivity values using VES and CST methods. 
  []
 
 
-Overfull \hbox (2.43471pt too wide) in paragraph at lines 134--136
-\OT1/lmr/m/n/12 Sounding (VES) and Constant Separation Traversing (CST) have demonstrated significant
- []
-
-
-Overfull \hbox (1.45728pt too wide) in paragraph at lines 140--141
-\OT1/lmr/m/n/12 design by employing electrical resistivity methods, specifically Vertical Electrical Sounding
+Overfull \hbox (0.33139pt too wide) in paragraph at lines 166--167
+[]\OT1/lmr/m/n/12 Detect lateral variations such as faults, fractures, or discontinuities using CST to complement
  []
 
 
 
 [3]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 146.
- (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Overfull \hbox (5.07999pt too wide) in paragraph at lines 147--148
-[]\OT1/lmr/m/n/12 Identify weak zones, fractures, and groundwater presence that may affect the stability
- []
-
-
-Overfull \hbox (8.6199pt too wide) in paragraph at lines 158--159
-[]\OT1/lmr/m/n/12 Previous studies, such as \OT1/lmr/bx/n/12 Coker (2012) \OT1/lmr/m/n/12 in the Akobo area of Ibadan and \OT1/lmr/bx/n/12 (Adagunodo,
- []
-
-
-Overfull \hbox (9.78448pt too wide) in paragraph at lines 158--159
-\OT1/lmr/m/n/12 or general geotechnical characterizations rather than specifically addressing civil engineering
- []
-
-
-Overfull \hbox (1.03975pt too wide) in paragraph at lines 160--161
-\OT1/lmr/m/n/12 there remains a significant gap in leveraging these findings for actionable recommendations
- []
-
-
 
 [4]
-Overfull \hbox (7.89374pt too wide) in paragraph at lines 162--163
-\OT1/lmr/m/n/12 variations, making it possible to detect faults or fractures that could compromise foundation
+Overfull \hbox (1.63622pt too wide) in paragraph at lines 191--192
+[]\OT1/lmr/m/n/12 Previous geophysical studies in Nigeria have laid a foundation for understanding how techniques
  []
 
 
-Overfull \hbox (0.82863pt too wide) in paragraph at lines 162--163
-\OT1/lmr/m/n/12 stability. By correlating resistivity data with geotechnical properties, this research delivers
+Overfull \hbox (1.37057pt too wide) in paragraph at lines 191--192
+\OT1/lmr/m/n/12 like VES and CST can be applied to map and interpret these geological features for civil engineering
  []
 
 
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
  []
 
-<Nigeria_Study_Country.png, id=729, 844.8363pt x 597.432pt>
+<Nigeria_Study_Country.png, id=753, 844.8363pt x 597.432pt>
 File: Nigeria_Study_Country.png Graphic file (type png)
 <use Nigeria_Study_Country.png>
-Package pdftex.def Info: Nigeria_Study_Country.png  used on input line 180.
-(pdftex.def)             Requested size: 407.66833pt x 288.28648pt.
+Package pdftex.def Info: Nigeria_Study_Country.png  used on input line 195.
+(pdftex.def)             Requested size: 347.4297pt x 245.6871pt.
 
 
-[6 <./Nigeria_Study_Country.png>]
-Overfull \hbox (14.74904pt too wide) in paragraph at lines 189--190
-\OT1/lmr/m/n/12 stability. Here, 10 Vertical Electrical Soundings (VES) were executed using the Schlumberger
+[5 <./Nigeria_Study_Country.png>]
+Overfull \hbox (1.93109pt too wide) in paragraph at lines 207--208
+\OT1/lmr/m/n/12 The second investigation site is at Appleton Road in Abubakar Abdulsalam Hall (AAH), University
  []
 
 
-Overfull \hbox (14.54889pt too wide) in paragraph at lines 189--190
-\OT1/lmr/m/n/12 electrode configuration, and 3 Constant Separation Traversing (CST) profiles were conducted
+Overfull \hbox (8.52858pt too wide) in paragraph at lines 207--208
+\OT1/lmr/m/n/12 complexity of the area, featuring a mix of basement rocks with potential for varying soil compositions
  []
 
 
-Overfull \hbox (4.77666pt too wide) in paragraph at lines 192--193
-\OT1/lmr/m/n/12 University of Ibadan, with coordinates 7.43933\TS1/lmr/m/n/12 ° \OT1/lmr/m/n/12 N, 3.89449\TS1/lmr/m/n/12 ° \OT1/lmr/m/n/12 E. This location also represents
+Overfull \hbox (0.39754pt too wide) in paragraph at lines 209--210
+[]\OT1/lmr/m/n/12 Both areas were selected to provide a comprehensive understanding of the subsurface conditions
  []
 
-
-Overfull \hbox (14.37617pt too wide) in paragraph at lines 194--195
-\OT1/lmr/m/n/12 applicable to civil engineering practices in similar geological settings. The precise coordinates
- []
-
-<Oyo_Study_Location.png, id=737, 844.8363pt x 597.432pt>
+<Oyo_Study_Location.png, id=761, 844.8363pt x 597.432pt>
 File: Oyo_Study_Location.png Graphic file (type png)
 <use Oyo_Study_Location.png>
-Package pdftex.def Info: Oyo_Study_Location.png  used on input line 200.
-(pdftex.def)             Requested size: 403.14114pt x 285.08675pt.
-<UI_Study_Area_Map.png, id=738, 844.8363pt x 597.432pt>
+Package pdftex.def Info: Oyo_Study_Location.png  used on input line 215.
+(pdftex.def)             Requested size: 441.73367pt x 312.38025pt.
+<UI_Study_Area_Map.png, id=762, 844.8363pt x 597.432pt>
 File: UI_Study_Area_Map.png Graphic file (type png)
 <use UI_Study_Area_Map.png>
-Package pdftex.def Info: UI_Study_Area_Map.png  used on input line 207.
-(pdftex.def)             Requested size: 452.9679pt x 320.32034pt.
+Package pdftex.def Info: UI_Study_Area_Map.png  used on input line 222.
+(pdftex.def)             Requested size: 496.33032pt x 350.98679pt.
 
 
-[7]
-<UI_Mosque_Map_Layout.png, id=745, 844.8363pt x 605.8635pt>
+[6]
+Overfull \vbox (12.65045pt too high) has occurred while \output is active []
+
+
+
+[7 <./Oyo_Study_Location.png> <./UI_Study_Area_Map.png>]
+<UI_Mosque_Map_Layout.png, id=776, 844.8363pt x 605.8635pt>
 File: UI_Mosque_Map_Layout.png Graphic file (type png)
 <use UI_Mosque_Map_Layout.png>
-Package pdftex.def Info: UI_Mosque_Map_Layout.png  used on input line 220.
-(pdftex.def)             Requested size: 452.9679pt x 324.84099pt.
-<AAH_Map_Layout.png, id=746, 844.8363pt x 597.432pt>
+Package pdftex.def Info: UI_Mosque_Map_Layout.png  used on input line 235.
+(pdftex.def)             Requested size: 446.69426pt x 320.34805pt.
+<AAH_Map_Layout.png, id=777, 844.8363pt x 597.432pt>
 File: AAH_Map_Layout.png Graphic file (type png)
 <use AAH_Map_Layout.png>
-Package pdftex.def Info: AAH_Map_Layout.png  used on input line 226.
-(pdftex.def)             Requested size: 452.9679pt x 320.32034pt.
+Package pdftex.def Info: AAH_Map_Layout.png  used on input line 241.
+(pdftex.def)             Requested size: 496.33032pt x 350.98679pt.
 
 
-[8 <./Oyo_Study_Location.png> <./UI_Study_Area_Map.png>]
-Overfull \vbox (9.35443pt too high) has occurred while \output is active []
+[8 <./UI_Mosque_Map_Layout.png> <./AAH_Map_Layout.png>]
+Overfull \hbox (2.3893pt too wide) in paragraph at lines 253--254
+[]\OT1/lmr/m/n/12 Chapter 1: Introduction, including the aims, objectives, the study location and area including
+ []
 
 
-
-[9 <./UI_Mosque_Map_Layout.png> <./AAH_Map_Layout.png>]
-Overfull \hbox (4.06667pt too wide) in paragraph at lines 241--242
-[]\OT1/lmr/m/n/12 Chapter 4: The results, analysis, combination of VES and CST and further discusion. 
+Overfull \hbox (4.2134pt too wide) in paragraph at lines 254--255
+[]\OT1/lmr/m/n/12 Chapter 2: Literature Review, providing a detailed discussion of previous research, theoretical
  []
 
 
 
-[10]
+[9]
 Chapter 2.
 
+Overfull \hbox (32.05774pt too wide) in paragraph at lines 265--265
+|[]\OT1/lmr/bx/n/17.28 Introduction to Geophysical Methods in Civil Engineering| 
+ []
 
-[11
+
+
+[10
 
 ]
-Overfull \hbox (9.47563pt too wide) in paragraph at lines 262--263
-\OT1/lmr/m/n/12 Geophysical techniques offer innovative, non-invasive solutions for subsurface investigations,
+Overfull \hbox (11.46724pt too wide) in paragraph at lines 275--276
+\OT1/lmr/m/n/12 conditions, enabling engineers to make informed decisions regarding foundation designs, groundwater
  []
 
 
-Overfull \hbox (1.04057pt too wide) in paragraph at lines 262--263
-\OT1/lmr/m/n/12 subsurface conditions, enabling engineers to make informed decisions regarding foundation
- []
 
-
-Overfull \hbox (25.61975pt too wide) in paragraph at lines 262--263
-\OT1/lmr/bx/n/12 Refraction\OT1/lmr/m/n/12 , and \OT1/lmr/bx/n/12 Electrical Resistivity Methods\OT1/lmr/m/n/12 , each with unique principles, applications,
- []
-
-
+[11]
 
 [12]
-Overfull \hbox (6.45737pt too wide) in paragraph at lines 288--289
-\OT1/lmr/m/n/12 bedrock, enabling engineers to optimize foundation placement and reduce risks of structural
- []
-
-
-Overfull \hbox (1.9692pt too wide) in paragraph at lines 288--289
-\OT1/lmr/m/n/12 structures and material properties. It is particularly effective for investigating stratigraphy
- []
-
-
 
 [13]
+Overfull \hbox (27.25685pt too wide) in paragraph at lines 324--324
+|[]\OT1/lmr/bx/n/17.28 Theoretical Background of Electrical Resistivity Methods| 
+ []
+
+
 
 [14]
-Overfull \hbox (3.71405pt too wide) in paragraph at lines 309--310
-[]\OT1/lmr/m/n/12 The electrical resistivity method has some inherent limitations that affect the resolution
- []
-
-
-Overfull \hbox (9.74362pt too wide) in paragraph at lines 316--317
-\OT1/lmr/m/n/12 resistivity based on their composition, moisture content, and porosity. Conductive materials
- []
-
-
-
-[15]
-
-[16]
-<current-flow.png, id=804, 284.39583pt x 231.19708pt>
+<current-flow.png, id=823, 284.39583pt x 231.19708pt>
 File: current-flow.png Graphic file (type png)
 <use current-flow.png>
-Package pdftex.def Info: current-flow.png  used on input line 355.
-(pdftex.def)             Requested size: 362.37569pt x 294.60832pt.
-
-Overfull \hbox (8.01862pt too wide) in paragraph at lines 360--361
-\OT1/lmr/m/n/12 difference ($\OML/lmm/m/it/12 V$\OT1/lmr/m/n/12 ) measured across two points is influenced by the resistivity of the intervening
- []
+Package pdftex.def Info: current-flow.png  used on input line 366.
+(pdftex.def)             Requested size: 377.20831pt x 306.66978pt.
 
 
+[15 <./current-flow.png>]
 
-[17 <./current-flow.png>]
-
-[18]
-<Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png, id=822, 853.1875pt x 358.33875pt>
+[16]
+<Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png, id=844, 853.1875pt x 358.33875pt>
 File: Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png Graphic file (type png)
 <use Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png>
-Package pdftex.def Info: Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png  used on input line 433.
-(pdftex.def)             Requested size: 430.31812pt x 180.73819pt.
+Package pdftex.def Info: Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png  used on input line 444.
+(pdftex.def)             Requested size: 471.51228pt x 198.03831pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[19]
-<Apparent-resistivity-curve-for-a-two-layer-model.png, id=837, 639.89063pt x 335.00156pt>
+[17 <./Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png>]
+<Apparent-resistivity-curve-for-a-two-layer-model.png, id=858, 639.89063pt x 335.00156pt>
 File: Apparent-resistivity-curve-for-a-two-layer-model.png Graphic file (type png)
 <use Apparent-resistivity-curve-for-a-two-layer-model.png>
-Package pdftex.def Info: Apparent-resistivity-curve-for-a-two-layer-model.png  used on input line 456.
-(pdftex.def)             Requested size: 339.72592pt x 177.85667pt.
+Package pdftex.def Info: Apparent-resistivity-curve-for-a-two-layer-model.png  used on input line 467.
+(pdftex.def)             Requested size: 471.51228pt x 246.85448pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[18 <./Apparent-resistivity-curve-for-a-two-layer-model.png>]
 
-
-
-[20 <./Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png>]
-
-[21 <./Apparent-resistivity-curve-for-a-two-layer-model.png>]
-Overfull \hbox (6.00307pt too wide) in paragraph at lines 493--494
-\OT1/lmr/m/n/12 Ideal for vertical profiling and depth estimation and commonly used in \OT1/lmr/bx/n/12 Vertical Electrical
+[19]
+Overfull \hbox (4.05165pt too wide) in paragraph at lines 511--512
+\OT1/lmr/bx/n/12 Separation Traversing (CST) \OT1/lmr/m/n/12 Surveying. This array consists of four electrodes in line, separated
  []
 
-
-
-[22]
-<Dispositions.png, id=860, 284.39583pt x 260.64041pt>
-File: Dispositions.png Graphic file (type png)
-<use Dispositions.png>
-Package pdftex.def Info: Dispositions.png  used on input line 515.
-(pdftex.def)             Requested size: 362.37569pt x 332.12718pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 511--517
-
- []
-
-<sclumberger.png, id=861, 687.56876pt x 352.31625pt>
+<sclumberger.png, id=873, 687.56876pt x 352.31625pt>
 File: sclumberger.png Graphic file (type png)
 <use sclumberger.png>
-Package pdftex.def Info: sclumberger.png  used on input line 523.
-(pdftex.def)             Requested size: 410.13141pt x 210.15419pt.
-
-Overfull \hbox (2.46307pt too wide) in paragraph at lines 523--524
- [][] 
- []
-
-<wenner.png, id=862, 695.59875pt x 435.6275pt>
+Package pdftex.def Info: sclumberger.png  used on input line 528.
+(pdftex.def)             Requested size: 435.52069pt x 223.16306pt.
+<wenner.png, id=874, 695.59875pt x 435.6275pt>
 File: wenner.png Graphic file (type png)
 <use wenner.png>
-Package pdftex.def Info: wenner.png  used on input line 530.
-(pdftex.def)             Requested size: 391.49623pt x 245.18167pt.
+Package pdftex.def Info: wenner.png  used on input line 535.
+(pdftex.def)             Requested size: 415.72792pt x 260.35878pt.
 
 
-[23 <./Dispositions.png>]
-Overfull \hbox (11.83936pt too wide) in paragraph at lines 541--542
-\OT1/lmr/m/n/12 Resistivity surveying is a geophysical method used to explore and characterize the subsurface
+[20]
+
+[21 <./sclumberger.png (PNG copy)> <./wenner.png>]
+
+[22]
+Overfull \hbox (13.9021pt too wide) in paragraph at lines 569--570
+\OT1/lmr/m/n/12 techniques thanks to its simplicity and relative low cost. These are especially useful in hydrogeological
+ []
+
+
+Overfull \hbox (10.14467pt too wide) in paragraph at lines 571--572
+[]\OT1/lmr/m/n/12 Vertical Electrical Sounding (VES) is one-dimensional direct current electrical resistivity method,
  []
 
 
 
-[24 <./sclumberger.png (PNG copy)> <./wenner.png>]
-Overfull \hbox (8.93294pt too wide) in paragraph at lines 547--548
-\OT1/lmr/m/n/12 includes choosing the appropriate electrode configuration (like Wenner, Schlumberger,
+[23]
+
+[24]
+Overfull \hbox (8.25581pt too wide) in paragraph at lines 632--633
+\OT1/lmr/m/n/12 equipment and interpretation techniques. Early studies laid the groundwork for modern applications
  []
 
 
 
 [25]
-Overfull \hbox (6.44972pt too wide) in paragraph at lines 555--556
-[]\OT1/lmr/bx/n/12 Calculate Apparent Resistivity and Analyze Results: \OT1/lmr/m/n/12 The apparent resistivity
- []
-
-
-Overfull \hbox (0.6468pt too wide) in paragraph at lines 564--565
-\OT1/lmr/m/n/12 means of electricity, allows recognizing or distinguishing the different geological formations
- []
-
-
-Overfull \hbox (8.79137pt too wide) in paragraph at lines 566--567
-[]\OT1/lmr/m/n/12 Vertical Electrical Sounding (VES) is one-dimensional direct current electrical resistivity
- []
-
-
 
 [26]
+Overfull \hbox (0.46188pt too wide) in paragraph at lines 641--642
+[]\OT1/lmr/bx/n/12 (Reynolds 2011) \OT1/lmr/m/n/12 provides a comprehensive guide on geophysical methods used in engineering,
+ []
 
-LaTeX Warning: Citation `web:0' on page 27 undefined on input line 615.
 
-
-Overfull \hbox (39.87614pt too wide) in paragraph at lines 605--624
-[] 
+Overfull \hbox (12.80713pt too wide) in paragraph at lines 641--642
+\OT1/lmr/m/n/12 including electrical resistivity. In his book \OT1/lmr/m/it/12 An Introduction to Applied and Environmental Geophysics\OT1/lmr/m/n/12 ,
  []
 
 
 
 [27]
-Overfull \hbox (2.50494pt too wide) in paragraph at lines 628--629
-\OT1/lmr/m/n/12 Electrical resistivity methods have evolved over the decades, with significant advancements
- []
-
-
-Overfull \hbox (18.20575pt too wide) in paragraph at lines 628--629
-\OT1/lmr/m/n/12 have demonstrated the effectiveness of electrical resistivity in identifying subsurface anomalies
+Overfull \hbox (12.59128pt too wide) in paragraph at lines 658--659
+\OT1/lmr/m/n/12 conditions. Inadequate knowledge of subsurface characteristics often leads to construction challenges,
  []
 
 
 
 [28]
-Overfull \hbox (10.31366pt too wide) in paragraph at lines 636--637
-\OT1/lmr/m/n/12 layers. Using Vertical Electrical Sounding (VES), the authors mapped lithological variations
- []
-
-
 
 [29]
-Overfull \hbox (17.9684pt too wide) in paragraph at lines 645--646
-\OT1/lmr/m/n/12 subsurface investigations. The authors emphasized that while the Schlumberger configuration
- []
-
-
-Overfull \hbox (2.16473pt too wide) in paragraph at lines 647--648
-\OT1/lmr/m/n/12 properties poses significant challenges. He highlights the advantages of electrical resistivity
- []
-
-
-Overfull \hbox (11.72281pt too wide) in paragraph at lines 652--653
-\OT1/lmr/m/n/12 published in \OT1/lmr/m/it/12 Environmental and Engineering Geophysics\OT1/lmr/m/n/12 , underscores the growing versatility
- []
-
-
-Overfull \hbox (2.24654pt too wide) in paragraph at lines 654--655
-\OT1/lmr/m/n/12 resistivity methods. In his book, \OT1/lmr/m/it/12 Geoelectrical Imaging for Environmental and Engineering
- []
-
-
-Overfull \hbox (4.17451pt too wide) in paragraph at lines 654--655
-\OT1/lmr/m/n/12 resistivity methods and their broader application in modern engineering and environmental
- []
-
-
-
-[30]
-Overfull \hbox (9.42426pt too wide) in paragraph at lines 657--658
-\OT1/lmr/m/n/12 Electrical resistivity methods have also been explored for monitoring the health of structures
- []
-
-
-Overfull \hbox (27.81093pt too wide) in paragraph at lines 666--666
-|[]\OT1/lmr/bx/n/17.28 Importance of Subsurface Evaluation for Foundation
- []
-
-
-Overfull \hbox (2.54182pt too wide) in paragraph at lines 668--669
-\OT1/lmr/m/n/12 design, as the stability, safety, and longevity of structures heavily depend on the underlying
- []
-
-
-
-[31]
-Overfull \hbox (11.17581pt too wide) in paragraph at lines 688--689
-\OT1/lmr/m/n/12 these studies by mapping broader subsurface variations. Key contributions include detecting
- []
-
-
-
-[32]
-Overfull \hbox (2.27942pt too wide) in paragraph at lines 703--704
-\OT1/lmr/m/n/12 combining geotechnical testing with advanced geophysical techniques, engineers can design
- []
-
-
-Overfull \hbox (8.47978pt too wide) in paragraph at lines 703--704
-\OT1/lmr/m/n/12 safer, more efficient foundations that address the challenges posed by site-specific subsurface
- []
-
-
-
-[33]
 Chapter 3.
 
-Overfull \hbox (4.61424pt too wide) in paragraph at lines 715--716
-\OT1/lmr/m/n/12 current into the ground and measuring potential differences. Electrodes were securely
- []
-
-
-Overfull \hbox (14.23804pt too wide) in paragraph at lines 717--718
-[]\OT1/lmr/bx/n/12 Measuring Tape: \OT1/lmr/m/n/12 Used to measure and maintain accurate spacing between electrodes
+Overfull \hbox (9.0716pt too wide) in paragraph at lines 700--701
+[]\OT1/lmr/bx/n/12 Connecting Wire Cables: \OT1/lmr/m/n/12 Insulated cables connected the resistivity meter to the electrodes,
  []
 
 
 
-[34
+[30
 
 ]
-Overfull \hbox (16.1333pt too wide) in paragraph at lines 721--722
-[]\OT1/lmr/bx/n/12 Global Positioning System (GPS): \OT1/lmr/m/n/12 Employed to accurately record the geographical
- []
-
-<IMG_9200.jpg, id=924, 688.974pt x 918.7926pt>
+<IMG_9200.jpg, id=934, 688.974pt x 918.7926pt>
 File: IMG_9200.jpg Graphic file (type jpg)
 <use IMG_9200.jpg>
-Package pdftex.def Info: IMG_9200.jpg  used on input line 727.
-(pdftex.def)             Requested size: 317.07614pt x 422.83199pt.
+Package pdftex.def Info: IMG_9200.jpg  used on input line 711.
+(pdftex.def)             Requested size: 347.4297pt x 463.32066pt.
 
 
-[35 <./IMG_9200.jpg>]
-<wenner_schlum.jpg, id=929, 544.68758pt x 400.90831pt>
+[31 <./IMG_9200.jpg>]
+<wenner_schlum.jpg, id=939, 544.68758pt x 400.90831pt>
 File: wenner_schlum.jpg Graphic file (type jpg)
 <use wenner_schlum.jpg>
-Package pdftex.def Info: wenner_schlum.jpg  used on input line 741.
-(pdftex.def)             Requested size: 385.02547pt x 283.40506pt.
+Package pdftex.def Info: wenner_schlum.jpg  used on input line 725.
+(pdftex.def)             Requested size: 421.88379pt x 310.53555pt.
 
 
-[36 <./wenner_schlum.jpg>]
-<Mosque_Survey_Layout.png, id=937, 844.8363pt x 597.432pt>
+[32 <./wenner_schlum.jpg>]
+<Mosque_Survey_Layout.png, id=946, 844.8363pt x 597.432pt>
 File: Mosque_Survey_Layout.png Graphic file (type png)
 <use Mosque_Survey_Layout.png>
-Package pdftex.def Info: Mosque_Survey_Layout.png  used on input line 752.
-(pdftex.def)             Requested size: 385.02547pt x 272.27867pt.
-<AAH_Survery-Layout.png, id=938, 844.8363pt x 597.432pt>
+Package pdftex.def Info: Mosque_Survey_Layout.png  used on input line 736.
+(pdftex.def)             Requested size: 421.88379pt x 298.3415pt.
+<AAH_Survery-Layout.png, id=947, 844.8363pt x 597.432pt>
 File: AAH_Survery-Layout.png Graphic file (type png)
 <use AAH_Survery-Layout.png>
-Package pdftex.def Info: AAH_Survery-Layout.png  used on input line 759.
-(pdftex.def)             Requested size: 385.02547pt x 272.27867pt.
+Package pdftex.def Info: AAH_Survery-Layout.png  used on input line 743.
+(pdftex.def)             Requested size: 421.88379pt x 298.3415pt.
 
 
-[37 <./Mosque_Survey_Layout.png>]
-<IMG_9183.jpg, id=944, 971.3088pt x 728.4816pt>
+[33 <./Mosque_Survey_Layout.png>]
+<IMG_9183.jpg, id=953, 971.3088pt x 728.4816pt>
 File: IMG_9183.jpg Graphic file (type jpg)
 <use IMG_9183.jpg>
-Package pdftex.def Info: IMG_9183.jpg  used on input line 771.
-(pdftex.def)             Requested size: 317.07614pt x 237.80971pt.
+Package pdftex.def Info: IMG_9183.jpg  used on input line 755.
+(pdftex.def)             Requested size: 347.4297pt x 260.5747pt.
 
 
-[38 <./AAH_Survery-Layout.png> <./IMG_9183.jpg>]
-Overfull \hbox (7.30305pt too wide) in paragraph at lines 780--781
-\OT1/lmr/m/n/12 resulting apparent resistivity values were plotted against electrode spacing to generate
+[34 <./AAH_Survery-Layout.png> <./IMG_9183.jpg>]
+Overfull \hbox (7.64822pt too wide) in paragraph at lines 772--773
+[]\OT1/lmr/bx/n/12 Data Correction: \OT1/lmr/m/n/12 Corrections were applied to remove noise caused by electrode polarization,
+ []
+
+
+Overfull \hbox (14.36784pt too wide) in paragraph at lines 773--774
+[]\OT1/lmr/bx/n/12 Inversion Techniques: \OT1/lmr/m/n/12 The apparent resistivity values were inverted to obtain true resistivity,
+ []
+
+
+
+[35]
+Overfull \hbox (10.2097pt too wide) in paragraph at lines 793--794
+[]\OT1/lmr/bx/n/12 Dependence on Soil Moisture: \OT1/lmr/m/n/12 The resistivity of subsurface materials is strongly influenced
+ []
+
+
+
+[36]
+Overfull \hbox (11.92377pt too wide) in paragraph at lines 809--810
+[]\OT1/lmr/bx/n/12 Minimize Environmental Impact: \OT1/lmr/m/n/12 Take measures to reduce soil and vegetation disturbance
+ []
+
+
+
+[37]
+Chapter 4.
+
+Overfull \hbox (3.61346pt too wide) in paragraph at lines 819--820
+\OT1/lmr/m/n/12 other resistivity contrasts. The data acquisition processes utilized both Vertical Electrical Sounding
+ []
+
+
+
+[38
+
+]
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 849--849
+[]|\OT1/lmr/m/n/12 7.446810| 
+ []
+
+
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 849--849
+[]|\OT1/lmr/m/n/12 7.446926| 
+ []
+
+
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 849--849
+[]|\OT1/lmr/m/n/12 7.446727| 
+ []
+
+
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 849--849
+[]|\OT1/lmr/m/n/12 7.446720| 
+ []
+
+
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 849--849
+[]|\OT1/lmr/m/n/12 7.446531| 
+ []
+
+
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 850--850
+[]|\OT1/lmr/m/n/12 3.899718| 
+ []
+
+
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 850--850
+[]|\OT1/lmr/m/n/12 3.899930| 
+ []
+
+
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 850--850
+[]|\OT1/lmr/m/n/12 3.899400| 
+ []
+
+
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 850--850
+[]|\OT1/lmr/m/n/12 3.899641| 
+ []
+
+
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 850--850
+[]|\OT1/lmr/m/n/12 3.899717| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]|\OT1/lmr/bx/n/12 Current
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+\OT1/lmr/bx/n/12 Electrode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 863--863
+[]|\OT1/lmr/bx/n/12 Potential
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 863--863
+\OT1/lmr/bx/n/12 Electrode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--864
+[]|\OT1/lmr/bx/n/12 Geometric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 866--866
+[]|\OT1/lmr/bx/n/12 KR1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 868--868
+[]|\OT1/lmr/bx/n/12 KR2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--870
+[]|\OT1/lmr/bx/n/12 KR3
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 872--872
+[]|\OT1/lmr/bx/n/12 KR4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 874--875
+[]|\OT1/lmr/bx/n/12 KR5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--905
+[]|\OT1/lmr/bx/n/12 Current
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--905
+\OT1/lmr/bx/n/12 Electrode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--906
+[]|\OT1/lmr/bx/n/12 Potential
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--906
+\OT1/lmr/bx/n/12 Electrode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 907--907
+[]|\OT1/lmr/bx/n/12 Geometric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 909--909
+[]|\OT1/lmr/bx/n/12 KR6
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 911--911
+[]|\OT1/lmr/bx/n/12 KR7
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--913
+[]|\OT1/lmr/bx/n/12 KR8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--915
+[]|\OT1/lmr/bx/n/12 KR9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 916--916
+[]|\OT1/lmr/bx/n/12 R10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
+[]|\OT1/lmr/bx/n/12 KR10
  []
 
 
 
 [39]
-Overfull \hbox (18.72905pt too wide) in paragraph at lines 806--807
-\OT1/lmr/m/n/12 spacing is required, which may not be feasible in restricted spaces or urban environments
+Underfull \hbox (badness 10000) in paragraph at lines 964--964
+[]|\OT1/lmr/m/n/12 7.43941\TS1/lmr/m/n/12 °
  []
 
 
-Overfull \hbox (1.49603pt too wide) in paragraph at lines 807--808
-\OT1/lmr/m/n/12 meaning that different subsurface conditions can produce similar resistivity patterns.
+Underfull \hbox (badness 10000) in paragraph at lines 964--964
+[]|\OT1/lmr/m/n/12 7.43939\TS1/lmr/m/n/12 °
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 964--964
+[]|\OT1/lmr/m/n/12 7.43938\TS1/lmr/m/n/12 °
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 964--964
+[]|\OT1/lmr/m/n/12 7.43940\TS1/lmr/m/n/12 °
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 964--964
+[]|\OT1/lmr/m/n/12 7.43923\TS1/lmr/m/n/12 °
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--965
+[]|\OT1/lmr/m/n/12 3.89495\TS1/lmr/m/n/12 °
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--965
+[]|\OT1/lmr/m/n/12 3.89499\TS1/lmr/m/n/12 °
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--965
+[]|\OT1/lmr/m/n/12 3.89507\TS1/lmr/m/n/12 °
+ []
+
+
+Overfull \hbox (6.11577pt too wide) in paragraph at lines 965--965
+[]|\OT1/lmr/m/n/12 3.894515\TS1/lmr/m/n/12 °
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--965
+[]|\OT1/lmr/m/n/12 3.89523\TS1/lmr/m/n/12 °
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--965
+[]|\OT1/lmr/m/n/12 3.89529\TS1/lmr/m/n/12 °
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--977
+[]|\OT1/lmr/bx/n/12 Current
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--977
+\OT1/lmr/bx/n/12 Electrode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--978
+[]|\OT1/lmr/bx/n/12 Potential
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--978
+\OT1/lmr/bx/n/12 Electrode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 979--979
+[]|\OT1/lmr/bx/n/12 Geometric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--981
+[]|\OT1/lmr/bx/n/12 KR1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 983--983
+[]|\OT1/lmr/bx/n/12 KR2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 985--985
+[]|\OT1/lmr/bx/n/12 KR3
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
+[]|\OT1/lmr/bx/n/12 KR4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 989--990
+[]|\OT1/lmr/bx/n/12 KR5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1020
+[]|\OT1/lmr/bx/n/12 Current
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1020
+\OT1/lmr/bx/n/12 Electrode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1021
+[]|\OT1/lmr/bx/n/12 Potential
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1021
+\OT1/lmr/bx/n/12 Electrode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1022
+[]|\OT1/lmr/bx/n/12 Geometric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1024
+[]|\OT1/lmr/bx/n/12 KR6
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1026
+[]|\OT1/lmr/bx/n/12 KR7
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+[]|\OT1/lmr/bx/n/12 KR8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+[]|\OT1/lmr/bx/n/12 KR9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1031
+[]|\OT1/lmr/bx/n/12 R10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1033
+[]|\OT1/lmr/bx/n/12 KR10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1069
+[]|\OT1/lmr/bx/n/12 Starting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
+[]|\OT1/lmr/bx/n/12 Starting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1071--1071
+[]|\OT1/lmr/bx/n/12 Ending
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1073
+[]|\OT1/lmr/bx/n/12 Ending
  []
 
 
 
 [40]
-Overfull \hbox (20.68646pt too wide) in paragraph at lines 812--813
-\OT1/lmr/m/n/12 large areas can be time-consuming, especially in rough terrains or areas with accessibility
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1090
+[]|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Overfull \hbox (2.6063pt too wide) in paragraph at lines 823--824
-\OT1/lmr/m/n/12 results should be validated using borehole data, geological maps, or other geophysical
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1090
+[]|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Overfull \hbox (15.45999pt too wide) in paragraph at lines 824--825
-\OT1/lmr/m/n/12 (e.g., Schlumberger or Wenner) that best suits the survey objectives and site conditions.
+Underfull \hbox (badness 10000) in paragraph at lines 1117--1117
+[]|\OT1/lmr/bx/n/12 Electrodes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1117--1117
+[]|\OT1/lmr/bx/n/12 Geometric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1141
+[]|\OT1/lmr/bx/n/12 Electrodes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1141
+[]|\OT1/lmr/bx/n/12 Geometric
  []
 
 
 
 [41]
-Overfull \hbox (2.84825pt too wide) in paragraph at lines 828--829
-[]\OT1/lmr/bx/n/12 Record Detailed Field Notes: \OT1/lmr/m/n/12 Document all field conditions, instrument settings,
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1162
+[]|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-
-[42]
-Chapter 4.
-
-Overfull \hbox (7.69604pt too wide) in paragraph at lines 835--836
-\OT1/lmr/m/n/12 This chapter presents a comprehensive overview of the results obtained from the geophysical
- []
-
-
-Overfull \hbox (7.24083pt too wide) in paragraph at lines 835--836
-\OT1/lmr/m/n/12 the subsurface resistivity variations, geological features, and structural anomalies, including
- []
-
-
-Overfull \hbox (21.00883pt too wide) in paragraph at lines 835--836
-\OT1/lmr/m/n/12 (CST) techniques, employing the Schlumberger and Wenner array configurations, respectively.
- []
-
-
-Overfull \hbox (17.40392pt too wide) in paragraph at lines 835--836
-\OT1/lmr/m/n/12 practical curve matching techniques, including computer-assisted analysis using WINRESIST
- []
-
-
-Overfull \hbox (4.96332pt too wide) in paragraph at lines 835--836
-\OT1/lmr/m/n/12 and DIPROWIN software, which facilitated the generation of layered models and resistivity
- []
-
-
-Overfull \hbox (2.31497pt too wide) in paragraph at lines 838--839
-\OT1/lmr/m/n/12 A total of 20 VES stations were recorded, with 10 stations in each study area. Additionally,
- []
-
-
-
-[43
-
-]
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 863--863
-[]|\OT1/lmr/m/n/12 7.446810| 
- []
-
-
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 863--863
-[]|\OT1/lmr/m/n/12 7.446926| 
- []
-
-
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 863--863
-[]|\OT1/lmr/m/n/12 7.446727| 
- []
-
-
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 863--863
-[]|\OT1/lmr/m/n/12 7.446720| 
- []
-
-
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 863--863
-[]|\OT1/lmr/m/n/12 7.446531| 
- []
-
-
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 864--864
-[]|\OT1/lmr/m/n/12 3.899718| 
- []
-
-
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 864--864
-[]|\OT1/lmr/m/n/12 3.899930| 
- []
-
-
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 864--864
-[]|\OT1/lmr/m/n/12 3.899400| 
- []
-
-
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 864--864
-[]|\OT1/lmr/m/n/12 3.899641| 
- []
-
-
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 864--864
-[]|\OT1/lmr/m/n/12 3.899717| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 876--876
-[]|\OT1/lmr/bx/n/12 Current
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 876--876
-\OT1/lmr/bx/n/12 Electrode
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 877--877
-[]|\OT1/lmr/bx/n/12 Potential
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 877--877
-\OT1/lmr/bx/n/12 Electrode
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 878--878
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1162
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 880--880
-[]|\OT1/lmr/bx/n/12 KR1
+Underfull \hbox (badness 10000) in paragraph at lines 1180--1180
+[]|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 882--882
-[]|\OT1/lmr/bx/n/12 KR2
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 884--884
-[]|\OT1/lmr/bx/n/12 KR3
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 886--886
-[]|\OT1/lmr/bx/n/12 KR4
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 888--889
-[]|\OT1/lmr/bx/n/12 KR5
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 919--919
-[]|\OT1/lmr/bx/n/12 Current
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 919--919
-\OT1/lmr/bx/n/12 Electrode
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 920--920
-[]|\OT1/lmr/bx/n/12 Potential
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 920--920
-\OT1/lmr/bx/n/12 Electrode
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 921--921
+Underfull \hbox (badness 10000) in paragraph at lines 1180--1180
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 923--923
-[]|\OT1/lmr/bx/n/12 KR6
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 925--925
-[]|\OT1/lmr/bx/n/12 KR7
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 927--927
-[]|\OT1/lmr/bx/n/12 KR8
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 929--929
-[]|\OT1/lmr/bx/n/12 KR9
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 930--930
-[]|\OT1/lmr/bx/n/12 R10
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 931--932
-[]|\OT1/lmr/bx/n/12 KR10
- []
-
-
-
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 978--978
-[]|\OT1/lmr/m/n/12 7.43941\TS1/lmr/m/n/12 °
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 978--978
-[]|\OT1/lmr/m/n/12 7.43939\TS1/lmr/m/n/12 °
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 978--978
-[]|\OT1/lmr/m/n/12 7.43938\TS1/lmr/m/n/12 °
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 978--978
-[]|\OT1/lmr/m/n/12 7.43940\TS1/lmr/m/n/12 °
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 978--978
-[]|\OT1/lmr/m/n/12 7.43923\TS1/lmr/m/n/12 °
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 979--979
-[]|\OT1/lmr/m/n/12 3.89495\TS1/lmr/m/n/12 °
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 979--979
-[]|\OT1/lmr/m/n/12 3.89499\TS1/lmr/m/n/12 °
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 979--979
-[]|\OT1/lmr/m/n/12 3.89507\TS1/lmr/m/n/12 °
- []
-
-
-Overfull \hbox (6.11577pt too wide) in paragraph at lines 979--979
-[]|\OT1/lmr/m/n/12 3.894515\TS1/lmr/m/n/12 °
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 979--979
-[]|\OT1/lmr/m/n/12 3.89523\TS1/lmr/m/n/12 °
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 979--979
-[]|\OT1/lmr/m/n/12 3.89529\TS1/lmr/m/n/12 °
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 991--991
-[]|\OT1/lmr/bx/n/12 Current
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 991--991
-\OT1/lmr/bx/n/12 Electrode
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 992--992
-[]|\OT1/lmr/bx/n/12 Potential
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 992--992
-\OT1/lmr/bx/n/12 Electrode
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 993--993
-[]|\OT1/lmr/bx/n/12 Geometric
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 995--995
-[]|\OT1/lmr/bx/n/12 KR1
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 997--997
-[]|\OT1/lmr/bx/n/12 KR2
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 999--999
-[]|\OT1/lmr/bx/n/12 KR3
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1001
-[]|\OT1/lmr/bx/n/12 KR4
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1003--1004
-[]|\OT1/lmr/bx/n/12 KR5
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
-[]|\OT1/lmr/bx/n/12 Current
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1034--1034
-\OT1/lmr/bx/n/12 Electrode
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
-[]|\OT1/lmr/bx/n/12 Potential
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
-\OT1/lmr/bx/n/12 Electrode
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1036--1036
-[]|\OT1/lmr/bx/n/12 Geometric
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1038--1038
-[]|\OT1/lmr/bx/n/12 KR6
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
-[]|\OT1/lmr/bx/n/12 KR7
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1042--1042
-[]|\OT1/lmr/bx/n/12 KR8
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1044--1044
-[]|\OT1/lmr/bx/n/12 KR9
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1045--1045
-[]|\OT1/lmr/bx/n/12 R10
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1046--1047
-[]|\OT1/lmr/bx/n/12 KR10
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1083--1083
+Underfull \hbox (badness 10000) in paragraph at lines 1196--1196
 []|\OT1/lmr/bx/n/12 Starting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1084--1084
+Underfull \hbox (badness 10000) in paragraph at lines 1197--1197
 []|\OT1/lmr/bx/n/12 Starting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1085--1085
+Underfull \hbox (badness 10000) in paragraph at lines 1198--1198
 []|\OT1/lmr/bx/n/12 Ending
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1086--1087
+Underfull \hbox (badness 10000) in paragraph at lines 1199--1200
 []|\OT1/lmr/bx/n/12 Ending
  []
 
 
-
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 1104--1104
+Underfull \hbox (badness 10000) in paragraph at lines 1218--1218
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1104--1104
-[]|\OT1/lmr/bx/n/12 Geometric
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
-[]|\OT1/lmr/bx/n/12 Electrodes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
-[]|\OT1/lmr/bx/n/12 Geometric
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1155--1155
-[]|\OT1/lmr/bx/n/12 Electrodes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1155--1155
-[]|\OT1/lmr/bx/n/12 Geometric
- []
-
-
-
-[46]
-Underfull \hbox (badness 10000) in paragraph at lines 1176--1176
-[]|\OT1/lmr/bx/n/12 Electrodes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1176--1176
-[]|\OT1/lmr/bx/n/12 Geometric
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
-[]|\OT1/lmr/bx/n/12 Electrodes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
-[]|\OT1/lmr/bx/n/12 Geometric
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1210--1210
-[]|\OT1/lmr/bx/n/12 Starting
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1211--1211
-[]|\OT1/lmr/bx/n/12 Starting
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1212--1212
-[]|\OT1/lmr/bx/n/12 Ending
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1213--1214
-[]|\OT1/lmr/bx/n/12 Ending
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1232--1232
-[]|\OT1/lmr/bx/n/12 Electrodes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1232--1232
+Underfull \hbox (badness 10000) in paragraph at lines 1218--1218
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
@@ -1645,411 +1414,527 @@ Underfull \hbox (badness 10000) in paragraph at lines 1232--1232
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1259--1259
+Underfull \hbox (badness 10000) in paragraph at lines 1245--1245
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1259--1259
+Underfull \hbox (badness 10000) in paragraph at lines 1245--1245
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
 
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 1283--1283
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1269
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1283--1283
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1269
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1304
+Underfull \hbox (badness 10000) in paragraph at lines 1290--1290
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1304
+Underfull \hbox (badness 10000) in paragraph at lines 1290--1290
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
 
-[48]
-Underfull \hbox (badness 10000) in paragraph at lines 1322--1322
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 1308--1308
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1322--1322
+Underfull \hbox (badness 10000) in paragraph at lines 1308--1308
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Overfull \hbox (5.93472pt too wide) in paragraph at lines 1330--1331
-\OT1/lmr/m/n/12 involves comparing the field-derived apparent resistivity curves with theoretical or standard
+Overfull \hbox (4.41727pt too wide) in paragraph at lines 1318--1319
+\OT1/lmr/m/n/12 sounding field curves can be interpreted qualitatively using simple curve shapes, semi-quantitatively
  []
 
 
 
-[49]
-<Screenshot 2025-01-22 at 7.57.47â€¯PM.png, id=1026, 541.52313pt x 369.38pt>
+[44]
+<Screenshot 2025-01-22 at 7.57.47â€¯PM.png, id=1031, 541.52313pt x 369.38pt>
 File: Screenshot 2025-01-22 at 7.57.47â€¯PM.png Graphic file (type png)
 <use Screenshot 2025-01-22 at 7.57.47â€¯PM.png>
-Package pdftex.def Info: Screenshot 2025-01-22 at 7.57.47â€¯PM.png  used on input line 1348.
-(pdftex.def)             Requested size: 452.9679pt x 308.98637pt.
+Package pdftex.def Info: Screenshot 2025-01-22 at 7.57.47â€¯PM.png  used on input line 1334.
+(pdftex.def)             Requested size: 496.33032pt x 338.56555pt.
 
 
-[50 <./Screenshot 2025-01-22 at 7.57.47â€¯PM.png>]
-Overfull \hbox (1.23215pt too wide) in paragraph at lines 1372--1373
-[]\OT1/lmr/bx/n/12 Initial Visual Comparison: \OT1/lmr/m/n/12 The plotted curve is visually compared with standard
+[45 <./Screenshot 2025-01-22 at 7.57.47â€¯PM.png>]
+Overfull \hbox (14.66069pt too wide) in paragraph at lines 1358--1359
+[]\OT1/lmr/bx/n/12 Initial Visual Comparison: \OT1/lmr/m/n/12 The plotted curve is visually compared with standard theoretical
  []
 
 
-Overfull \hbox (8.67589pt too wide) in paragraph at lines 1381--1382
-\OT1/lmr/m/n/12 The results of the curve matching process provide a detailed understanding of the subsurface
+Overfull \hbox (3.26321pt too wide) in paragraph at lines 1360--1361
+[]\OT1/lmr/bx/n/12 Layer Parameter Estimation: \OT1/lmr/m/n/12 From the matched curve, the layer resistivities, thicknesses,
+ []
+
+
+Overfull \hbox (10.21748pt too wide) in paragraph at lines 1370--1371
+[]\OT1/lmr/m/n/12 The dominant curve types identified in the study areas were \OT1/lmr/bx/n/12 H-Type\OT1/lmr/m/n/12 , indicating a combination
  []
 
 
 
-[51]
-<Picture3.png, id=1041, 1063.975pt x 529.98pt>
-File: Picture3.png Graphic file (type png)
-<use Picture3.png>
-Package pdftex.def Info: Picture3.png  used on input line 1393.
-(pdftex.def)             Requested size: 452.9679pt x 225.62263pt.
-<Picture2.png, id=1042, 957.5775pt x 1387.1825pt>
-File: Picture2.png Graphic file (type png)
-<use Picture2.png>
-Package pdftex.def Info: Picture2.png  used on input line 1400.
-(pdftex.def)             Requested size: 452.9679pt x 656.18803pt.
-
-
-[52 <./Picture3.png>]
-<ui_ves1.png, id=1048, 928.97063pt x 600.74437pt>
+[46]
+<Picture1.png, id=1046, 835.12pt x 1180.41pt>
+File: Picture1.png Graphic file (type png)
+<use Picture1.png>
+Package pdftex.def Info: Picture1.png  used on input line 1379.
+(pdftex.def)             Requested size: 421.88379pt x 596.3275pt.
+<ui_ves1.png, id=1047, 928.97063pt x 600.74437pt>
 File: ui_ves1.png Graphic file (type png)
 <use ui_ves1.png>
-Package pdftex.def Info: ui_ves1.png  used on input line 1411.
-(pdftex.def)             Requested size: 452.9679pt x 292.92816pt.
+Package pdftex.def Info: ui_ves1.png  used on input line 1390.
+(pdftex.def)             Requested size: 496.33032pt x 320.96881pt.
 
 
-[53 <./Picture2.png>]
-
-[54 <./ui_ves1.png>]
-<ui_ves2.png, id=1060, 1238.6275pt x 819.06pt>
+[47 <./Picture1.png>]
+<ui_ves2.png, id=1054, 1238.6275pt x 819.06pt>
 File: ui_ves2.png Graphic file (type png)
 <use ui_ves2.png>
-Package pdftex.def Info: ui_ves2.png  used on input line 1424.
-(pdftex.def)             Requested size: 452.9679pt x 299.53557pt.
+Package pdftex.def Info: ui_ves2.png  used on input line 1403.
+(pdftex.def)             Requested size: 496.33032pt x 328.2056pt.
 
 
-[55 <./ui_ves2.png>]
-<ui_ves3.png, id=1066, 1238.6275pt x 792.9625pt>
+[48 <./ui_ves1.png>]
+Overfull \hbox (5.98344pt too wide) in paragraph at lines 1410--1411
+\OT1/lmr/m/n/12 foundation conditions due to low resistivity, indicating potential compressibility or water saturation,
+ []
+
+<ui_ves3.png, id=1060, 1238.6275pt x 792.9625pt>
 File: ui_ves3.png Graphic file (type png)
 <use ui_ves3.png>
-Package pdftex.def Info: ui_ves3.png  used on input line 1437.
-(pdftex.def)             Requested size: 452.9679pt x 289.99153pt.
-<ui_ves4.png, id=1067, 1248.665pt x 809.0225pt>
+Package pdftex.def Info: ui_ves3.png  used on input line 1415.
+(pdftex.def)             Requested size: 496.33032pt x 317.74806pt.
+
+
+[49 <./ui_ves2.png>]
+<ui_ves4.png, id=1066, 1248.665pt x 809.0225pt>
 File: ui_ves4.png Graphic file (type png)
 <use ui_ves4.png>
-Package pdftex.def Info: ui_ves4.png  used on input line 1450.
-(pdftex.def)             Requested size: 452.9679pt x 293.48227pt.
+Package pdftex.def Info: ui_ves4.png  used on input line 1428.
+(pdftex.def)             Requested size: 496.33032pt x 321.57875pt.
 
 
-[56 <./ui_ves3.png>]
-<ui_ves5.png, id=1073, 1234.6125pt x 873.2625pt>
+[50 <./ui_ves3.png>]
+<ui_ves5.png, id=1072, 1234.6125pt x 873.2625pt>
 File: ui_ves5.png Graphic file (type png)
 <use ui_ves5.png>
-Package pdftex.def Info: ui_ves5.png  used on input line 1463.
-(pdftex.def)             Requested size: 452.9679pt x 320.38379pt.
+Package pdftex.def Info: ui_ves5.png  used on input line 1441.
+(pdftex.def)             Requested size: 496.33032pt x 351.0577pt.
 
 
-[57 <./ui_ves4.png>]
-<ui_ves6.png, id=1079, 1238.6275pt x 835.12pt>
+[51 <./ui_ves4.png>]
+<ui_ves6.png, id=1078, 1238.6275pt x 835.12pt>
 File: ui_ves6.png Graphic file (type png)
 <use ui_ves6.png>
-Package pdftex.def Info: ui_ves6.png  used on input line 1476.
-(pdftex.def)             Requested size: 452.9679pt x 305.4088pt.
+Package pdftex.def Info: ui_ves6.png  used on input line 1454.
+(pdftex.def)             Requested size: 496.33032pt x 334.64099pt.
 
 
-[58 <./ui_ves5.png>]
-<ui_ves7.png, id=1085, 1246.6575pt x 877.2775pt>
+[52 <./ui_ves5.png>]
+<ui_ves7.png, id=1084, 1246.6575pt x 877.2775pt>
 File: ui_ves7.png Graphic file (type png)
 <use ui_ves7.png>
-Package pdftex.def Info: ui_ves7.png  used on input line 1489.
-(pdftex.def)             Requested size: 452.9679pt x 318.75122pt.
+Package pdftex.def Info: ui_ves7.png  used on input line 1467.
+(pdftex.def)             Requested size: 496.33032pt x 349.27167pt.
 
 
-[59 <./ui_ves6.png>]
-Overfull \hbox (2.78755pt too wide) in paragraph at lines 1496--1497
-\OT1/lmr/m/n/12 likely represents dry, resistive material such as sand or laterite. Layer 2, with a significantly
- []
-
-
-Overfull \hbox (2.27834pt too wide) in paragraph at lines 1496--1497
-\OT1/lmr/m/n/12 fractured rock or solid basement rock, which is more resistive than the overlying conductive
- []
-
+[53 <./ui_ves6.png>]
 <ui_ves8.png, id=1091, 1240.635pt x 877.2775pt>
 File: ui_ves8.png Graphic file (type png)
 <use ui_ves8.png>
-Package pdftex.def Info: ui_ves8.png  used on input line 1502.
-(pdftex.def)             Requested size: 452.9679pt x 320.30402pt.
+Package pdftex.def Info: ui_ves8.png  used on input line 1480.
+(pdftex.def)             Requested size: 496.33032pt x 350.95833pt.
 
 
-[60 <./ui_ves7.png>]
-<ui_ves9.png, id=1098, 1234.6125pt x 823.075pt>
+[54 <./ui_ves7.png>]
+<ui_ves9.png, id=1097, 1234.6125pt x 823.075pt>
 File: ui_ves9.png Graphic file (type png)
 <use ui_ves9.png>
-Package pdftex.def Info: ui_ves9.png  used on input line 1515.
-(pdftex.def)             Requested size: 452.9679pt x 301.97092pt.
+Package pdftex.def Info: ui_ves9.png  used on input line 1493.
+(pdftex.def)             Requested size: 496.33032pt x 330.88196pt.
 
 
-[61 <./ui_ves8.png>]
-<ui_ves10.png, id=1104, 1238.6275pt x 825.0825pt>
-File: ui_ves10.png Graphic file (type png)
-<use ui_ves10.png>
-Package pdftex.def Info: ui_ves10.png  used on input line 1528.
-(pdftex.def)             Requested size: 452.9679pt x 301.73804pt.
-
-
-[62 <./ui_ves9.png>]
-<aah_ves1.png, id=1110, 1224.575pt x 809.0225pt>
-File: aah_ves1.png Graphic file (type png)
-<use aah_ves1.png>
-Package pdftex.def Info: aah_ves1.png  used on input line 1541.
-(pdftex.def)             Requested size: 452.9679pt x 299.24722pt.
-
-
-[63 <./ui_ves10.png>]
-Overfull \hbox (9.8973pt too wide) in paragraph at lines 1546--1547
-\OT1/lmr/m/n/12 with the H-Type Curve. This is characterized by a low-resistivity layer (Layer 2) sandwiched
+[55 <./ui_ves8.png>]
+Overfull \hbox (16.49199pt too wide) in paragraph at lines 1500--1501
+\OT1/lmr/m/n/12 conditions due to low resistivity, indicating potential compressibility or water saturation, necessitating
  []
 
-<aah_ves2.png, id=1116, 1236.62pt x 859.21pt>
+<ui_ves10.png, id=1103, 1238.6275pt x 825.0825pt>
+File: ui_ves10.png Graphic file (type png)
+<use ui_ves10.png>
+Package pdftex.def Info: ui_ves10.png  used on input line 1505.
+(pdftex.def)             Requested size: 496.33032pt x 330.61887pt.
+
+
+[56 <./ui_ves9.png>]
+Overfull \hbox (16.49199pt too wide) in paragraph at lines 1512--1513
+\OT1/lmr/m/n/12 conditions due to low resistivity, indicating potential compressibility or water saturation, necessitating
+ []
+
+<aah_ves1.png, id=1109, 1224.575pt x 809.0225pt>
+File: aah_ves1.png Graphic file (type png)
+<use aah_ves1.png>
+Package pdftex.def Info: aah_ves1.png  used on input line 1518.
+(pdftex.def)             Requested size: 496.33032pt x 327.89922pt.
+
+
+[57 <./ui_ves10.png>]
+<aah_ves2.png, id=1115, 1236.62pt x 859.21pt>
 File: aah_ves2.png Graphic file (type png)
 <use aah_ves2.png>
-Package pdftex.def Info: aah_ves2.png  used on input line 1554.
-(pdftex.def)             Requested size: 452.9679pt x 314.73pt.
+Package pdftex.def Info: aah_ves2.png  used on input line 1531.
+(pdftex.def)             Requested size: 496.33032pt x 344.85786pt.
 
 
-[64 <./aah_ves1.png>]
-<aah_ves3.png, id=1122, 1172.38pt x 845.1575pt>
+[58 <./aah_ves1.png>]
+<aah_ves3.png, id=1121, 1172.38pt x 845.1575pt>
 File: aah_ves3.png Graphic file (type png)
 <use aah_ves3.png>
-Package pdftex.def Info: aah_ves3.png  used on input line 1567.
-(pdftex.def)             Requested size: 452.9679pt x 326.52794pt.
+Package pdftex.def Info: aah_ves3.png  used on input line 1544.
+(pdftex.def)             Requested size: 496.33032pt x 357.78796pt.
 
 
-[65 <./aah_ves2.png>]
+[59 <./aah_ves2.png>]
 <aah_ves4.png, id=1128, 1230.5975pt x 788.9475pt>
 File: aah_ves4.png Graphic file (type png)
 <use aah_ves4.png>
-Package pdftex.def Info: aah_ves4.png  used on input line 1579.
-(pdftex.def)             Requested size: 452.9679pt x 290.4012pt.
+Package pdftex.def Info: aah_ves4.png  used on input line 1554.
+(pdftex.def)             Requested size: 496.33032pt x 318.19775pt.
 
 
-[66 <./aah_ves3.png>]
-Overfull \hbox (6.74765pt too wide) in paragraph at lines 1585--1586
-[]\OT1/lmr/m/n/12 The lithology interpretation suggests that Layer 1, with high resistivity, likely represents
- []
-
-<aah_ves5.png, id=1135, 1220.56pt x 835.12pt>
+[60 <./aah_ves3.png>]
+<aah_ves5.png, id=1134, 1220.56pt x 835.12pt>
 File: aah_ves5.png Graphic file (type png)
 <use aah_ves5.png>
-Package pdftex.def Info: aah_ves5.png  used on input line 1591.
-(pdftex.def)             Requested size: 452.9679pt x 309.91978pt.
+Package pdftex.def Info: aah_ves5.png  used on input line 1566.
+(pdftex.def)             Requested size: 496.33032pt x 339.59798pt.
 
 
-[67 <./aah_ves4.png>]
-<aah_ves6.png, id=1141, 1282.7925pt x 895.345pt>
+[61 <./aah_ves4.png>]
+<aah_ves6.png, id=1140, 1282.7925pt x 895.345pt>
 File: aah_ves6.png Graphic file (type png)
 <use aah_ves6.png>
-Package pdftex.def Info: aah_ves6.png  used on input line 1603.
-(pdftex.def)             Requested size: 452.9679pt x 316.1488pt.
+Package pdftex.def Info: aah_ves6.png  used on input line 1578.
+(pdftex.def)             Requested size: 496.33032pt x 346.42345pt.
 
 
-[68 <./aah_ves5.png>]
-<aah_ves7.png, id=1147, 1278.7775pt x 889.3225pt>
+[62 <./aah_ves5.png>]
+<aah_ves7.png, id=1146, 1278.7775pt x 889.3225pt>
 File: aah_ves7.png Graphic file (type png)
 <use aah_ves7.png>
-Package pdftex.def Info: aah_ves7.png  used on input line 1615.
-(pdftex.def)             Requested size: 452.9679pt x 315.01283pt.
+Package pdftex.def Info: aah_ves7.png  used on input line 1590.
+(pdftex.def)             Requested size: 496.33032pt x 345.16527pt.
 
 
-[69 <./aah_ves6.png>]
-<aah_ves8.png, id=1153, 1264.725pt x 825.0825pt>
+[63 <./aah_ves6.png>]
+<aah_ves8.png, id=1152, 1264.725pt x 825.0825pt>
 File: aah_ves8.png Graphic file (type png)
 <use aah_ves8.png>
-Package pdftex.def Info: aah_ves8.png  used on input line 1627.
-(pdftex.def)             Requested size: 452.9679pt x 295.50612pt.
+Package pdftex.def Info: aah_ves8.png  used on input line 1602.
+(pdftex.def)             Requested size: 496.33032pt x 323.79524pt.
 
 
-[70 <./aah_ves7.png>]
-Overfull \hbox (1.52501pt too wide) in paragraph at lines 1633--1634
-[]\OT1/lmr/m/n/12 The lithology interpretation suggests that Layer 1, with very high resistivity, represents
- []
-
-<aah_ves9.png, id=1159, 1292.83pt x 855.195pt>
+[64 <./aah_ves7.png>]
+<aah_ves9.png, id=1158, 1292.83pt x 855.195pt>
 File: aah_ves9.png Graphic file (type png)
 <use aah_ves9.png>
-Package pdftex.def Info: aah_ves9.png  used on input line 1639.
-(pdftex.def)             Requested size: 452.9679pt x 299.63593pt.
+Package pdftex.def Info: aah_ves9.png  used on input line 1612.
+(pdftex.def)             Requested size: 496.33032pt x 328.31808pt.
 
 
-[71 <./aah_ves8.png>]
+[65 <./aah_ves8.png>]
 <aah_ves10.png, id=1165, 1278.7775pt x 833.1125pt>
 File: aah_ves10.png Graphic file (type png)
 <use aah_ves10.png>
-Package pdftex.def Info: aah_ves10.png  used on input line 1649.
-(pdftex.def)             Requested size: 452.9679pt x 295.10233pt.
+Package pdftex.def Info: aah_ves10.png  used on input line 1638.
+(pdftex.def)             Requested size: 496.33032pt x 323.34897pt.
 
 
-[72 <./aah_ves9.png>]
-Overfull \hbox (26.64026pt too wide) in paragraph at lines 1657--1657
-|[]\OT1/lmr/bx/n/17.28 Constant Separation Traversing Data Interpretation| 
- []
-
-<PROFILE 1D.png, id=1172, 642.4pt x 752.8125pt>
+[66 <./aah_ves9.png>]
+<PROFILE 1D.png, id=1171, 642.4pt x 752.8125pt>
 File: PROFILE 1D.png Graphic file (type png)
 <use PROFILE 1D.png>
-Package pdftex.def Info: PROFILE 1D.png  used on input line 1661.
-(pdftex.def)             Requested size: 452.9679pt x 530.83626pt.
+Package pdftex.def Info: PROFILE 1D.png  used on input line 1648.
+(pdftex.def)             Requested size: 496.33032pt x 581.65466pt.
 
 
-[73 <./aah_ves10.png>]
-<PROFILE 2D.png, id=1178, 722.7pt x 792.9625pt>
+[67 <./aah_ves10.png>]
+<PROFILE 2D.png, id=1177, 722.7pt x 792.9625pt>
 File: PROFILE 2D.png Graphic file (type png)
 <use PROFILE 2D.png>
-Package pdftex.def Info: PROFILE 2D.png  used on input line 1668.
-(pdftex.def)             Requested size: 452.9679pt x 497.00389pt.
+Package pdftex.def Info: PROFILE 2D.png  used on input line 1655.
+(pdftex.def)             Requested size: 496.33032pt x 544.59169pt.
 
 
-[74 <./PROFILE 1D.png>]
-<PROFILE 3D.png, id=1184, 642.4pt x 752.8125pt>
+[68 <./PROFILE 1D.png>]
+<PROFILE 3D.png, id=1183, 642.4pt x 752.8125pt>
 File: PROFILE 3D.png Graphic file (type png)
 <use PROFILE 3D.png>
-Package pdftex.def Info: PROFILE 3D.png  used on input line 1675.
-(pdftex.def)             Requested size: 452.9679pt x 530.83626pt.
+Package pdftex.def Info: PROFILE 3D.png  used on input line 1662.
+(pdftex.def)             Requested size: 496.33032pt x 581.65466pt.
 
 
-[75 <./PROFILE 2D.png>]
-<PROFILE 1D (1).png, id=1190, 722.7pt x 792.9625pt>
+[69 <./PROFILE 2D.png>]
+<PROFILE 1D (1).png, id=1189, 722.7pt x 792.9625pt>
 File: PROFILE 1D (1).png Graphic file (type png)
 <use PROFILE 1D (1).png>
-Package pdftex.def Info: PROFILE 1D (1).png  used on input line 1682.
-(pdftex.def)             Requested size: 452.9679pt x 497.00389pt.
+Package pdftex.def Info: PROFILE 1D (1).png  used on input line 1669.
+(pdftex.def)             Requested size: 496.33032pt x 544.59169pt.
 
 
-[76 <./PROFILE 3D.png>]
-<PROFILE 2D (1).png, id=1196, 642.4pt x 752.8125pt>
+[70 <./PROFILE 3D.png>]
+<PROFILE 2D (1).png, id=1195, 642.4pt x 752.8125pt>
 File: PROFILE 2D (1).png Graphic file (type png)
 <use PROFILE 2D (1).png>
-Package pdftex.def Info: PROFILE 2D (1).png  used on input line 1689.
-(pdftex.def)             Requested size: 452.9679pt x 530.83626pt.
+Package pdftex.def Info: PROFILE 2D (1).png  used on input line 1676.
+(pdftex.def)             Requested size: 496.33032pt x 581.65466pt.
 
 
-[77 <./PROFILE 1D (1).png>]
+[71 <./PROFILE 1D (1).png>]
 
-[78 <./PROFILE 2D (1).png>]
-
-[79]
-Overfull \hbox (1.90918pt too wide) in paragraph at lines 1719--1720
-\OT1/lmr/m/n/12 soils, while low resistivity zones suggest fine-grained soils. These variations have important
- []
-
-
-Overfull \hbox (6.84886pt too wide) in paragraph at lines 1719--1720
-\OT1/lmr/m/n/12 settlement issues and may necessitate deeper foundations or ground improvement measures.
+[72 <./PROFILE 2D (1).png>]
+Overfull \hbox (19.8412pt too wide) in paragraph at lines 1703--1704
+\OT1/lmr/m/n/12 zones (red) likely indicate coarse-grained soils, which generally offer good bearing capacity. Conversely,
  []
 
 
 
-[80]
-Overfull \hbox (7.43068pt too wide) in paragraph at lines 1726--1726
-|[]\OT1/lmr/bx/n/17.28 Geoelectric Section along the Profiles using Surfer| 
- []
+[73]
+<UI_Mosque_Profile1.png, id=1214, 719.18687pt x 668.4975pt>
+File: UI_Mosque_Profile1.png Graphic file (type png)
+<use UI_Mosque_Profile1.png>
+Package pdftex.def Info: UI_Mosque_Profile1.png  used on input line 1718.
+(pdftex.def)             Requested size: 496.33032pt x 461.36577pt.
 
 
-Overfull \hbox (12.2734pt too wide) in paragraph at lines 1728--1728
-|[]\OT1/lmr/bx/n/17.28 Geoelectric Parameters and the Inferred Lithology
- []
+[74]
+<UI_Mosque_Profile2.png, id=1219, 721.69624pt x 670.505pt>
+File: UI_Mosque_Profile2.png Graphic file (type png)
+<use UI_Mosque_Profile2.png>
+Package pdftex.def Info: UI_Mosque_Profile2.png  used on input line 1726.
+(pdftex.def)             Requested size: 496.33032pt x 461.12453pt.
 
 
-Overfull \hbox (20.1706pt too wide) in alignment at lines 1733--1739
+[75 <./UI_Mosque_Profile1.png>]
+<UI_Mosque_Profile3.png, id=1225, 722.7pt x 664.4825pt>
+File: UI_Mosque_Profile3.png Graphic file (type png)
+<use UI_Mosque_Profile3.png>
+Package pdftex.def Info: UI_Mosque_Profile3.png  used on input line 1734.
+(pdftex.def)             Requested size: 496.33032pt x 456.35405pt.
+
+
+[76 <./UI_Mosque_Profile2.png>]
+<AAH_PROFILE_1.png, id=1231, 736.7525pt x 685.05937pt>
+File: AAH_PROFILE_1.png Graphic file (type png)
+<use AAH_PROFILE_1.png>
+Package pdftex.def Info: AAH_PROFILE_1.png  used on input line 1742.
+(pdftex.def)             Requested size: 496.33032pt x 461.49615pt.
+
+
+[77 <./UI_Mosque_Profile3.png>]
+<AAH_PROFILE_2.png, id=1238, 745.28438pt x 696.6025pt>
+File: AAH_PROFILE_2.png Graphic file (type png)
+<use AAH_PROFILE_2.png>
+Package pdftex.def Info: AAH_PROFILE_2.png  used on input line 1751.
+(pdftex.def)             Requested size: 496.33032pt x 463.9045pt.
+
+
+[78 <./AAH_PROFILE_1.png>]
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1761--1767
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (20.1706pt too wide) in alignment at lines 1739--1745
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1767--1773
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (20.1706pt too wide) in alignment at lines 1745--1747
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1773--1775
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (20.1706pt too wide) in alignment at lines 1747--1749
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1775--1777
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (20.1706pt too wide) in alignment at lines 1749--1792
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1777--1822
+ [] [] [] [] [] [] 
+ []
+
+
+
+[79 <./AAH_PROFILE_2.png>] [80]
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1826--1832
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1832--1838
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1838--1840
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1840--1842
+ [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1842--1887
  [] [] [] [] [] [] 
  []
 
 [81] [82]
-Overfull \hbox (20.1706pt too wide) in alignment at lines 1796--1802
- [] [] [] [] [] [] 
- []
 
-
-Overfull \hbox (20.1706pt too wide) in alignment at lines 1802--1808
- [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (20.1706pt too wide) in alignment at lines 1808--1810
- [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (20.1706pt too wide) in alignment at lines 1810--1812
- [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (20.1706pt too wide) in alignment at lines 1812--1855
- [] [] [] [] [] [] 
- []
-
-[83] [84]
-
-[85]
+[83]
 Chapter 5.
 
-Overfull \hbox (8.37004pt too wide) in paragraph at lines 1861--1862
-\OT1/lmr/m/n/12 subsurface characteristics for geological and geophysical purposes. The research emphasized
+Overfull \hbox (11.16318pt too wide) in paragraph at lines 1893--1894
+\OT1/lmr/m/n/12 Sounding (VES) and Constant Separation Traversing (CST), to investigate subsurface characteristics
  []
 
 
-Overfull \hbox (2.43137pt too wide) in paragraph at lines 1863--1864
-\OT1/lmr/m/n/12 in capturing diverse geophysical features. The data acquisition process involved systematic
+Overfull \hbox (13.11911pt too wide) in paragraph at lines 1893--1894
+\OT1/lmr/m/n/12 for geophysical purposes. The project emphasized the integration of field data acquisition, processing,
  []
 
 
-Overfull \hbox (16.18272pt too wide) in paragraph at lines 1869--1870
-\OT1/lmr/m/n/12 The study demonstrated the efficacy of electrical resistivity methods in delineating subsurface
+Overfull \hbox (10.30725pt too wide) in paragraph at lines 1895--1896
+\OT1/lmr/m/n/12 study area, with rigorous calibration and correction techniques applied to ensure accuracy. Advanced
  []
 
 
-Overfull \hbox (13.17647pt too wide) in paragraph at lines 1869--1870
-\OT1/lmr/m/n/12 Schlumberger and Wenner configurations proved to be complementary techniques, effectively
+Overfull \hbox (8.48091pt too wide) in paragraph at lines 1904--1905
+[]\OT1/lmr/bx/n/12 Adoption of Multi-Method Approaches: \OT1/lmr/m/n/12 To address the inherent limitations of resistivity
+ []
+
+
+Overfull \hbox (6.32928pt too wide) in paragraph at lines 1904--1905
+\OT1/lmr/m/n/12 geophysical techniques such as seismic refraction or ground-penetrating radar. This integrated
+ []
+
+
+Overfull \hbox (4.66415pt too wide) in paragraph at lines 1906--1907
+[]\OT1/lmr/bx/n/12 Enhanced Data Acquisition Strategies: \OT1/lmr/m/n/12 Future surveys should prioritize denser electrode
+ []
+
+
+Overfull \hbox (14.8164pt too wide) in paragraph at lines 1906--1907
+\OT1/lmr/m/n/12 spacing and extended profiles to capture more detailed resistivity variations. This is particularly
+ []
+
+
+
+[84
+
+]
+Overfull \hbox (13.27748pt too wide) in paragraph at lines 1908--1909
+\OT1/lmr/m/n/12 inversion software can enhance the accuracy and interpretability of resistivity data. Researchers
+ []
+
+
+Overfull \hbox (12.21317pt too wide) in paragraph at lines 1910--1911
+[]\OT1/lmr/bx/n/12 Environmental Monitoring and Adaptation: \OT1/lmr/m/n/12 Environmental factors such as soil moisture,
+ []
+
+
+Overfull \hbox (0.69414pt too wide) in paragraph at lines 1910--1911
+\OT1/lmr/m/n/12 temperature, and anthropogenic interference significantly influence resistivity measurements.
+ []
+
+
+Overfull \hbox (0.33435pt too wide) in paragraph at lines 1910--1911
+\OT1/lmr/m/n/12 Efforts should be made to monitor and compensate for these variables during data acquisition
+ []
+
+
+
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1932--1933
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1934--1935
+
+ []
+
+
+Overfull \hbox (18.84624pt too wide) in paragraph at lines 1936--1937
+[]\OT1/lmr/m/n/12 Adeyemi, G. O., Bello, A. A. (2020). Geophysical and hydrogeological investigation of groundwater
+ []
+
+
+Overfull \hbox (19.53447pt too wide) in paragraph at lines 1936--1937
+\OT1/lmr/m/n/12 potential in part of Lagos State, Southwestern Nigeria. Journal of Applied Sciences and Environmental
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1936--1937
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1938--1939
+
+ []
+
+
+Overfull \hbox (6.98123pt too wide) in paragraph at lines 1940--1941
+[]\OT1/lmr/m/n/12 Akintoye, A. E., Olorunfemi, M. O., Ojo, J. S. (2018). Geoelectrical investigation of groundwater
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1940--1941
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1943
+
+ []
+
+
+Overfull \hbox (4.03604pt too wide) in paragraph at lines 1944--1945
+[]\OT1/lmr/m/n/12 Anomohanran, O. (2013). Seismic refraction method: A technique for determining the thickness
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1944--1945
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1946--1947
+
  []
 
 
@@ -2057,130 +1942,185 @@ Overfull \hbox (13.17647pt too wide) in paragraph at lines 1869--1870
 [86
 
 ]
-Overfull \hbox (9.46095pt too wide) in paragraph at lines 1873--1874
-\OT1/lmr/m/n/12 methods, particularly their sensitivity to environmental factors and the inherent ambiguities
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1949
+
  []
 
 
-Overfull \hbox (7.5204pt too wide) in paragraph at lines 1873--1874
-\OT1/lmr/m/n/12 in resistivity interpretation. Addressing these limitations through multi-method integration
+Underfull \hbox (badness 10000) in paragraph at lines 1950--1951
+
  []
 
 
-Overfull \hbox (10.43915pt too wide) in paragraph at lines 1875--1876
-\OT1/lmr/m/n/12 resistivity applications, offering practical insights for geophysicists, environmental scientists,
+Underfull \hbox (badness 10000) in paragraph at lines 1952--1953
+
  []
 
 
-Overfull \hbox (9.54741pt too wide) in paragraph at lines 1882--1883
-\OT1/lmr/m/n/12 penetrating radar. This integrated approach will improve the resolution and reliability
+Overfull \hbox (3.26643pt too wide) in paragraph at lines 1954--1955
+[]\OT1/lmr/m/n/12 Emilio, M., Riccardi, U. (2010). Geophysical methods applied to engineering and environmental
  []
 
 
-Overfull \hbox (6.26004pt too wide) in paragraph at lines 1884--1885
-\OT1/lmr/m/n/12 electrode spacing and extended profiles to capture more detailed resistivity variations.
+Underfull \hbox (badness 10000) in paragraph at lines 1954--1955
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1956--1957
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1958--1959
+
+ []
+
+
+Overfull \hbox (2.25223pt too wide) in paragraph at lines 1960--1961
+[]\OT1/lmr/m/n/12 Farinde, O. A., Enikanselu, P. A. (2015). Geophysical investigation of road pavement instability
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1960--1961
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1964--1965
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1966--1967
+
+ []
+
+
+Overfull \hbox (3.32994pt too wide) in paragraph at lines 1968--1969
+[]\OT1/lmr/m/n/12 Kunetz, G. (1966). Principles of Direct Current Resistivity Prospecting. Gebruder Borntraeger. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1968--1969
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1970--1971
+
  []
 
 
 
 [87]
-Overfull \hbox (6.53882pt too wide) in paragraph at lines 1890--1891
-\OT1/lmr/m/n/12 ensure the effective implementation of geophysical surveys. Workshops, certifications,
+Underfull \hbox (badness 10000) in paragraph at lines 1972--1973
+
  []
 
 
-Overfull \hbox (2.93025pt too wide) in paragraph at lines 1892--1893
-\OT1/lmr/m/n/12 consider incorporating geoelectrical methods into standard practices for groundwater
+Underfull \hbox (badness 10000) in paragraph at lines 1974--1975
+
  []
 
 
-Overfull \hbox (17.60646pt too wide) in paragraph at lines 1894--1895
-[]\OT1/lmr/bx/n/12 Further Research: \OT1/lmr/m/n/12 Future studies should focus on improving resistivity interpretation
+Underfull \hbox (badness 10000) in paragraph at lines 1976--1977
+
  []
 
 
-Overfull \hbox (0.60234pt too wide) in paragraph at lines 1894--1895
-\OT1/lmr/m/n/12 by conducting controlled field experiments in well-characterized areas. These studies
+Underfull \hbox (badness 10000) in paragraph at lines 1978--1979
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1980--1981
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1982--1983
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1984--1985
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1986--1987
+
+ []
+
+
+Overfull \hbox (9.33592pt too wide) in paragraph at lines 1988--1989
+[]\OT1/lmr/m/n/12 Soupios, P., Papazachos, C., Sarris, A., Vallianatos, F., Makris, J., Vafidis, A. (2006). Estimation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1989
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1990--1991
+
  []
 
 
 
 [88]
+Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
 
-[89
-
-]
-Overfull \hbox (6.48653pt too wide) in paragraph at lines 1904--1905
-\OT1/lmr/m/n/12 large scale glaciotectonic sediment deformation using electrical resistivity methods: Journal
  []
 
 
-Overfull \hbox (31.89609pt too wide) in paragraph at lines 1906--1907
-\OT1/lmr/m/n/12 Treatise on Geophysics:  Cambridge, MA, Elsevier Science, v. 11, p. 233-259, doi:10.1016/B978-
+Underfull \hbox (badness 10000) in paragraph at lines 1994--1995
+
  []
 
 
-Overfull \hbox (0.36345pt too wide) in paragraph at lines 1912--1913
-\OT1/lmr/m/n/12 Current Resistivity Method to Detect Fractures in Crystalline Bedrock in New Hampshire:
+Underfull \hbox (badness 10000) in paragraph at lines 1996--1997
+
  []
 
 
-Overfull \hbox (0.5195pt too wide) in paragraph at lines 1920--1921
-\OT1/lmr/m/n/12 techniques for monitoring water movement through unsaturated alluvium during managed
+Underfull \hbox (badness 10000) in paragraph at lines 1999--2000
+
  []
 
 
-Overfull \hbox (54.18105pt too wide) in paragraph at lines 1920--1921
-\OT1/lmr/m/n/12 aquifer recharge: U.S. Geological Survey Open-File Report 2016-1180, 8 p., doi:10.3133/ofr20161180. 
- []
 
-
+[89]
 
 [90
 
-]
-Overfull \hbox (3.22081pt too wide) in paragraph at lines 1928--1929
-\OT1/lmr/m/n/12 Malakan- Southern Makkah AlMokadash City, Saudi Arabia, Geophysical Society Journal,
- []
-
-
-
-[91]
-Overfull \hbox (5.29785pt too wide) in paragraph at lines 1946--1947
-[]\OT1/lmr/m/n/12 Zohdy, A.A.R., (1989): A new method for the automatic interpretation of Schlumberger
- []
-
-
-Overfull \hbox (18.68008pt too wide) in paragraph at lines 1948--1949
-[]\OT1/lmr/m/n/12 Zohdy, A.A.R., (1973): A computer program for automatic interpretation of Schlumberger
- []
-
-
-
-[92] (project.aux)
+] (project.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `project.out' has not changed.
-(rerunfilecheck)             Checksum: 1A6355A56F6443E497C4A50A78DE67B7;22694.
+(rerunfilecheck)             Checksum: A55D97A7C9CC54E141263F58463A6F06;23800.
  ) 
 Here is how much of TeX's memory you used:
- 17869 strings out of 475616
- 355001 string characters out of 2768872
- 803986 words of memory out of 3000000
- 40133 multiletter control sequences out of 15000+600000
+ 17916 strings out of 475616
+ 356095 string characters out of 2768872
+ 804548 words of memory out of 3000000
+ 40169 multiletter control sequences out of 15000+600000
  611005 words of font info for 62 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 75i,12n,79p,1636b,1179s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,12n,79p,2144b,1179s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathex.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmex10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi6.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi8.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr6.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy8.pfb>
-Output written on project.pdf (105 pages, 34081468 bytes).
+Output written on project.pdf (104 pages, 34206519 bytes).
 PDF statistics:
- 1422 PDF objects out of 1440 (max. 8388607)
- 353 named destinations out of 1000 (max. 500000)
- 1109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1462 PDF objects out of 1728 (max. 8388607)
+ 364 named destinations out of 1000 (max. 500000)
+ 1148 words of extra memory for PDF output out of 10000 (max. 10000000)
 
