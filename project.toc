@@ -125,7 +125,7 @@
 \contentsline {subsection}{\numberline {4.7.2}UI Mosque Profile 2 Geoelectric Section}{76}{subsection.4.7.2}%
 \contentsline {subsection}{\numberline {4.7.3}UI Mosque Profile 3 Geoelectric Section}{77}{subsection.4.7.3}%
 \contentsline {subsection}{\numberline {4.7.4}Abubakar Abdulsalam Hall Profile 1 Geoelectric Section}{78}{subsection.4.7.4}%
-\contentsline {subsection}{\numberline {4.7.5}Abubakar Abdulsalam Hall Profile 1 Geoelectric Section}{79}{subsection.4.7.5}%
+\contentsline {subsection}{\numberline {4.7.5}Abubakar Abdulsalam Hall Profile 2 Geoelectric Section}{79}{subsection.4.7.5}%
 \contentsline {section}{\numberline {4.8}Geoelectric Parameters and the Inferred Lithology of the Study Area}{79}{section.4.8}%
 \contentsline {subsection}{\numberline {4.8.1}Model Interpretation of Layers for UI Mosque Study Area}{80}{subsection.4.8.1}%
 \contentsline {subsection}{\numberline {4.8.2}Model Interpretation of Layers for AAH Study Area}{81}{subsection.4.8.2}%
