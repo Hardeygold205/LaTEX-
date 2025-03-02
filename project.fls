@@ -212,21 +212,21 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmr12.tfm
+INPUT ./project.toc
+INPUT ./project.toc
+INPUT project.toc
+OUTPUT project.toc
 INPUT ./project.lof
 INPUT ./project.lof
 INPUT project.lof
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri12.tfm
 OUTPUT project.lof
 INPUT ./project.lot
 INPUT ./project.lot
 INPUT project.lot
 OUTPUT project.lot
-INPUT ./project.toc
-INPUT ./project.toc
-INPUT project.toc
-OUTPUT project.toc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbx12.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmbxi10.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri12.tfm
 INPUT ./Nigeria_Study_Country.png
 INPUT ./Nigeria_Study_Country.png
 INPUT ./Nigeria_Study_Country.png
@@ -295,6 +295,7 @@ INPUT ./sclumberger.png
 INPUT ./sclumberger.png
 INPUT ./sclumberger.png
 INPUT ./sclumberger.png
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri10.tfm
 INPUT ./wenner.png
 INPUT ./wenner.png
 INPUT ./wenner.png
@@ -337,236 +338,236 @@ INPUT ./IMG_9183.jpg
 INPUT ./IMG_9183.jpg
 INPUT ./IMG_9183.jpg
 INPUT ./IMG_9183.jpg
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./Picture1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves1.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves2.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves3.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves4.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves5.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves6.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves7.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves8.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves9.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./ui_ves10.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves1.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves2.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves3.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves4.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves5.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves6.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves7.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves8.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves9.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./aah_ves10.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 1D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 2D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 3D.png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 1D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./PROFILE 2D (1).png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile1.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile2.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./UI_Mosque_Profile3.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_1.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
+INPUT ./AAH_PROFILE_2.png
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr17.tfm
-INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
-INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
-INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
-INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
-INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
-INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
-INPUT ./Screenshot 2025-01-22 at 7.57.47 PM.png
-INPUT ./Picture1.png
-INPUT ./Picture1.png
-INPUT ./Picture1.png
-INPUT ./Picture1.png
-INPUT ./Picture1.png
-INPUT ./Picture1.png
-INPUT ./Picture1.png
-INPUT ./ui_ves1.png
-INPUT ./ui_ves1.png
-INPUT ./ui_ves1.png
-INPUT ./ui_ves1.png
-INPUT ./ui_ves1.png
-INPUT ./ui_ves1.png
-INPUT ./ui_ves1.png
-INPUT ./ui_ves2.png
-INPUT ./ui_ves2.png
-INPUT ./ui_ves2.png
-INPUT ./ui_ves2.png
-INPUT ./ui_ves2.png
-INPUT ./ui_ves2.png
-INPUT ./ui_ves2.png
-INPUT ./ui_ves3.png
-INPUT ./ui_ves3.png
-INPUT ./ui_ves3.png
-INPUT ./ui_ves3.png
-INPUT ./ui_ves3.png
-INPUT ./ui_ves3.png
-INPUT ./ui_ves3.png
-INPUT ./ui_ves4.png
-INPUT ./ui_ves4.png
-INPUT ./ui_ves4.png
-INPUT ./ui_ves4.png
-INPUT ./ui_ves4.png
-INPUT ./ui_ves4.png
-INPUT ./ui_ves4.png
-INPUT ./ui_ves5.png
-INPUT ./ui_ves5.png
-INPUT ./ui_ves5.png
-INPUT ./ui_ves5.png
-INPUT ./ui_ves5.png
-INPUT ./ui_ves5.png
-INPUT ./ui_ves5.png
-INPUT ./ui_ves6.png
-INPUT ./ui_ves6.png
-INPUT ./ui_ves6.png
-INPUT ./ui_ves6.png
-INPUT ./ui_ves6.png
-INPUT ./ui_ves6.png
-INPUT ./ui_ves6.png
-INPUT ./ui_ves7.png
-INPUT ./ui_ves7.png
-INPUT ./ui_ves7.png
-INPUT ./ui_ves7.png
-INPUT ./ui_ves7.png
-INPUT ./ui_ves7.png
-INPUT ./ui_ves7.png
-INPUT ./ui_ves8.png
-INPUT ./ui_ves8.png
-INPUT ./ui_ves8.png
-INPUT ./ui_ves8.png
-INPUT ./ui_ves8.png
-INPUT ./ui_ves8.png
-INPUT ./ui_ves8.png
-INPUT ./ui_ves9.png
-INPUT ./ui_ves9.png
-INPUT ./ui_ves9.png
-INPUT ./ui_ves9.png
-INPUT ./ui_ves9.png
-INPUT ./ui_ves9.png
-INPUT ./ui_ves9.png
-INPUT ./ui_ves10.png
-INPUT ./ui_ves10.png
-INPUT ./ui_ves10.png
-INPUT ./ui_ves10.png
-INPUT ./ui_ves10.png
-INPUT ./ui_ves10.png
-INPUT ./ui_ves10.png
-INPUT ./aah_ves1.png
-INPUT ./aah_ves1.png
-INPUT ./aah_ves1.png
-INPUT ./aah_ves1.png
-INPUT ./aah_ves1.png
-INPUT ./aah_ves1.png
-INPUT ./aah_ves1.png
-INPUT ./aah_ves2.png
-INPUT ./aah_ves2.png
-INPUT ./aah_ves2.png
-INPUT ./aah_ves2.png
-INPUT ./aah_ves2.png
-INPUT ./aah_ves2.png
-INPUT ./aah_ves2.png
-INPUT ./aah_ves3.png
-INPUT ./aah_ves3.png
-INPUT ./aah_ves3.png
-INPUT ./aah_ves3.png
-INPUT ./aah_ves3.png
-INPUT ./aah_ves3.png
-INPUT ./aah_ves3.png
-INPUT ./aah_ves4.png
-INPUT ./aah_ves4.png
-INPUT ./aah_ves4.png
-INPUT ./aah_ves4.png
-INPUT ./aah_ves4.png
-INPUT ./aah_ves4.png
-INPUT ./aah_ves4.png
-INPUT ./aah_ves5.png
-INPUT ./aah_ves5.png
-INPUT ./aah_ves5.png
-INPUT ./aah_ves5.png
-INPUT ./aah_ves5.png
-INPUT ./aah_ves5.png
-INPUT ./aah_ves5.png
-INPUT ./aah_ves6.png
-INPUT ./aah_ves6.png
-INPUT ./aah_ves6.png
-INPUT ./aah_ves6.png
-INPUT ./aah_ves6.png
-INPUT ./aah_ves6.png
-INPUT ./aah_ves6.png
-INPUT ./aah_ves7.png
-INPUT ./aah_ves7.png
-INPUT ./aah_ves7.png
-INPUT ./aah_ves7.png
-INPUT ./aah_ves7.png
-INPUT ./aah_ves7.png
-INPUT ./aah_ves7.png
-INPUT ./aah_ves8.png
-INPUT ./aah_ves8.png
-INPUT ./aah_ves8.png
-INPUT ./aah_ves8.png
-INPUT ./aah_ves8.png
-INPUT ./aah_ves8.png
-INPUT ./aah_ves8.png
-INPUT ./aah_ves9.png
-INPUT ./aah_ves9.png
-INPUT ./aah_ves9.png
-INPUT ./aah_ves9.png
-INPUT ./aah_ves9.png
-INPUT ./aah_ves9.png
-INPUT ./aah_ves9.png
-INPUT ./aah_ves10.png
-INPUT ./aah_ves10.png
-INPUT ./aah_ves10.png
-INPUT ./aah_ves10.png
-INPUT ./aah_ves10.png
-INPUT ./aah_ves10.png
-INPUT ./aah_ves10.png
-INPUT ./PROFILE 1D.png
-INPUT ./PROFILE 1D.png
-INPUT ./PROFILE 1D.png
-INPUT ./PROFILE 1D.png
-INPUT ./PROFILE 1D.png
-INPUT ./PROFILE 1D.png
-INPUT ./PROFILE 1D.png
-INPUT ./PROFILE 2D.png
-INPUT ./PROFILE 2D.png
-INPUT ./PROFILE 2D.png
-INPUT ./PROFILE 2D.png
-INPUT ./PROFILE 2D.png
-INPUT ./PROFILE 2D.png
-INPUT ./PROFILE 2D.png
-INPUT ./PROFILE 3D.png
-INPUT ./PROFILE 3D.png
-INPUT ./PROFILE 3D.png
-INPUT ./PROFILE 3D.png
-INPUT ./PROFILE 3D.png
-INPUT ./PROFILE 3D.png
-INPUT ./PROFILE 3D.png
-INPUT ./PROFILE 1D (1).png
-INPUT ./PROFILE 1D (1).png
-INPUT ./PROFILE 1D (1).png
-INPUT ./PROFILE 1D (1).png
-INPUT ./PROFILE 1D (1).png
-INPUT ./PROFILE 1D (1).png
-INPUT ./PROFILE 1D (1).png
-INPUT ./PROFILE 2D (1).png
-INPUT ./PROFILE 2D (1).png
-INPUT ./PROFILE 2D (1).png
-INPUT ./PROFILE 2D (1).png
-INPUT ./PROFILE 2D (1).png
-INPUT ./PROFILE 2D (1).png
-INPUT ./PROFILE 2D (1).png
-INPUT ./UI_Mosque_Profile1.png
-INPUT ./UI_Mosque_Profile1.png
-INPUT ./UI_Mosque_Profile1.png
-INPUT ./UI_Mosque_Profile1.png
-INPUT ./UI_Mosque_Profile1.png
-INPUT ./UI_Mosque_Profile1.png
-INPUT ./UI_Mosque_Profile1.png
-INPUT ./UI_Mosque_Profile2.png
-INPUT ./UI_Mosque_Profile2.png
-INPUT ./UI_Mosque_Profile2.png
-INPUT ./UI_Mosque_Profile2.png
-INPUT ./UI_Mosque_Profile2.png
-INPUT ./UI_Mosque_Profile2.png
-INPUT ./UI_Mosque_Profile2.png
-INPUT ./UI_Mosque_Profile3.png
-INPUT ./UI_Mosque_Profile3.png
-INPUT ./UI_Mosque_Profile3.png
-INPUT ./UI_Mosque_Profile3.png
-INPUT ./UI_Mosque_Profile3.png
-INPUT ./UI_Mosque_Profile3.png
-INPUT ./UI_Mosque_Profile3.png
-INPUT ./AAH_PROFILE_1.png
-INPUT ./AAH_PROFILE_1.png
-INPUT ./AAH_PROFILE_1.png
-INPUT ./AAH_PROFILE_1.png
-INPUT ./AAH_PROFILE_1.png
-INPUT ./AAH_PROFILE_1.png
-INPUT ./AAH_PROFILE_1.png
-INPUT ./AAH_PROFILE_2.png
-INPUT ./AAH_PROFILE_2.png
-INPUT ./AAH_PROFILE_2.png
-INPUT ./AAH_PROFILE_2.png
-INPUT ./AAH_PROFILE_2.png
-INPUT ./AAH_PROFILE_2.png
-INPUT ./AAH_PROFILE_2.png
 INPUT project.aux
 INPUT ./project.out
 INPUT ./project.out
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathex.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc
@@ -592,6 +593,8 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr6.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb
