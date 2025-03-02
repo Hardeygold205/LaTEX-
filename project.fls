@@ -562,10 +562,15 @@ INPUT ./AAH_PROFILE_2.png
 INPUT ./AAH_PROFILE_2.png
 INPUT ./AAH_PROFILE_2.png
 INPUT ./AAH_PROFILE_2.png
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmtt.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmtt.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmtt.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmtt12.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr17.tfm
 INPUT project.aux
 INPUT ./project.out
 INPUT ./project.out
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rmtt.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathex.enc
@@ -601,3 +606,5 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy8.pfb
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy8.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmtt12.pfb
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmtt12.pfb

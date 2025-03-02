@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.11.15)  2 MAR 2025 18:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.11.15)  2 MAR 2025 18:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -450,8 +450,8 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages 
 \l__siunitx_unit_position_int=\count327
 \l__siunitx_unit_total_int=\count328
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 41.
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 44.
+Package hyperref Info: Option `colorlinks' set `true' on input line 42.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 45.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
 Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
@@ -459,7 +459,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx))
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 44.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 45.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
@@ -469,24 +469,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (project.aux)
 \openout1 = `project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -549,7 +549,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 44.
+Package hyperref Info: Link coloring ON on input line 45.
  (project.out) (project.out)
 \@outlinefile=\write3
 \openout3 = `project.out'.
@@ -557,7 +557,7 @@ Package hyperref Info: Link coloring ON on input line 44.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/translations/dicts/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 44.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 45.
 
 
 [1
@@ -575,25 +575,25 @@ Package translations Info: loading dictionary `translations-basic-dictionary' fo
 [3
 
 ]
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 118.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 119.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 118.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 119.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 118.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 119.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 118.
+(Font)              <12> on input line 119.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 118.
+(Font)              <8> on input line 119.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 118.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 120.
+(Font)              <6> on input line 119.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 121.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -646,17 +646,17 @@ Overfull \hbox (24.58311pt too wide) in paragraph at lines 7--7
 ]
 Chapter 1.
 
-Overfull \hbox (3.68793pt too wide) in paragraph at lines 160--161
+Overfull \hbox (3.68793pt too wide) in paragraph at lines 161--162
 []\OT1/lmr/m/n/12 Recent studies have expanded the scope of geophysical methods like Vertical Electrical Sounding
  []
 
 
-Overfull \hbox (5.6136pt too wide) in paragraph at lines 160--161
+Overfull \hbox (5.6136pt too wide) in paragraph at lines 161--162
 \OT1/lmr/m/n/12 samples and laboratory tests. Their findings highlighted the presence of heavy metal contamination,
  []
 
 
-Overfull \hbox (14.27446pt too wide) in paragraph at lines 160--161
+Overfull \hbox (14.27446pt too wide) in paragraph at lines 161--162
 \OT1/lmr/m/n/12 emphasizing its potential impact on groundwater quality and the importance of including geochemical
  []
 
@@ -666,43 +666,43 @@ Overfull \hbox (14.27446pt too wide) in paragraph at lines 160--161
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.161 
+l.162 
        [1
 
 ]
-Overfull \hbox (8.65779pt too wide) in paragraph at lines 162--163
+Overfull \hbox (8.65779pt too wide) in paragraph at lines 163--164
 \OT1/lmr/m/n/12 revealed that geological discontinuities, such as fractures and dislocations, were primary contributors
  []
 
 
-Overfull \hbox (8.26596pt too wide) in paragraph at lines 162--163
+Overfull \hbox (8.26596pt too wide) in paragraph at lines 163--164
 \OT1/lmr/m/n/12 measures the ability of subsurface materials to conduct electrical currents, enabling the identification
  []
 
 
-Overfull \hbox (2.84657pt too wide) in paragraph at lines 166--167
+Overfull \hbox (2.84657pt too wide) in paragraph at lines 167--168
 \OT1/lmr/m/n/12 Traversing (CST) represents an innovative approach to geotechnical site investigation by addressing
  []
 
 
-Overfull \hbox (6.8527pt too wide) in paragraph at lines 166--167
+Overfull \hbox (6.8527pt too wide) in paragraph at lines 167--168
 \OT1/lmr/m/n/12 variations, these methods mitigate risks of construction failure. This study employs these techniques
  []
 
 
 
 [2]
-Overfull \hbox (3.17038pt too wide) in paragraph at lines 173--174
+Overfull \hbox (3.17038pt too wide) in paragraph at lines 174--175
 \OT1/lmr/m/n/12 Schlumberger configuration and Constant Separation Traversing (CST) with Wenner configuration,
  []
 
 
-Overfull \hbox (3.39122pt too wide) in paragraph at lines 178--179
+Overfull \hbox (3.39122pt too wide) in paragraph at lines 179--180
 []\OT1/lmr/m/n/12 Map the subsurface layers and determine their resistivity values using VES and CST methods. 
  []
 
 
-Overfull \hbox (0.33139pt too wide) in paragraph at lines 181--182
+Overfull \hbox (0.33139pt too wide) in paragraph at lines 182--183
 []\OT1/lmr/m/n/12 Detect lateral variations such as faults, fractures, or discontinuities using CST to complement
  []
 
@@ -711,46 +711,46 @@ Overfull \hbox (0.33139pt too wide) in paragraph at lines 181--182
 [3]
 
 [4]
-Overfull \hbox (1.63622pt too wide) in paragraph at lines 203--204
+Overfull \hbox (1.63622pt too wide) in paragraph at lines 204--205
 []\OT1/lmr/m/n/12 Previous geophysical studies in Nigeria have laid a foundation for understanding how techniques
  []
 
 
-Overfull \hbox (1.37057pt too wide) in paragraph at lines 203--204
+Overfull \hbox (1.37057pt too wide) in paragraph at lines 204--205
 \OT1/lmr/m/n/12 like VES and CST can be applied to map and interpret these geological features for civil engineering
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
 <Nigeria_Study_Country.png, id=741, 844.8363pt x 597.432pt>
 File: Nigeria_Study_Country.png Graphic file (type png)
 <use Nigeria_Study_Country.png>
-Package pdftex.def Info: Nigeria_Study_Country.png  used on input line 207.
+Package pdftex.def Info: Nigeria_Study_Country.png  used on input line 208.
 (pdftex.def)             Requested size: 421.88379pt x 298.3415pt.
 
 
 [5 <./Nigeria_Study_Country.png>]
-Overfull \hbox (1.93109pt too wide) in paragraph at lines 219--220
+Overfull \hbox (1.93109pt too wide) in paragraph at lines 220--221
 \OT1/lmr/m/n/12 The second investigation site is at Appleton Road in Abubakar Abdulsalam Hall (AAH), University
  []
 
 
-Overfull \hbox (0.39754pt too wide) in paragraph at lines 221--222
+Overfull \hbox (0.39754pt too wide) in paragraph at lines 222--223
 []\OT1/lmr/m/n/12 Both areas were selected to provide a comprehensive understanding of the subsurface conditions
  []
 
 <Oyo_Study_Location.png, id=749, 844.8363pt x 597.432pt>
 File: Oyo_Study_Location.png Graphic file (type png)
 <use Oyo_Study_Location.png>
-Package pdftex.def Info: Oyo_Study_Location.png  used on input line 227.
+Package pdftex.def Info: Oyo_Study_Location.png  used on input line 228.
 (pdftex.def)             Requested size: 441.73367pt x 312.38025pt.
 <UI_Study_Area_Map.png, id=750, 844.8363pt x 597.432pt>
 File: UI_Study_Area_Map.png Graphic file (type png)
 <use UI_Study_Area_Map.png>
-Package pdftex.def Info: UI_Study_Area_Map.png  used on input line 234.
+Package pdftex.def Info: UI_Study_Area_Map.png  used on input line 235.
 (pdftex.def)             Requested size: 496.33032pt x 350.98679pt.
 
 
@@ -763,22 +763,22 @@ Overfull \vbox (12.65045pt too high) has occurred while \output is active []
 <UI_Mosque_Map_Layout.png, id=764, 844.8363pt x 605.8635pt>
 File: UI_Mosque_Map_Layout.png Graphic file (type png)
 <use UI_Mosque_Map_Layout.png>
-Package pdftex.def Info: UI_Mosque_Map_Layout.png  used on input line 247.
+Package pdftex.def Info: UI_Mosque_Map_Layout.png  used on input line 248.
 (pdftex.def)             Requested size: 446.69426pt x 320.34805pt.
 <AAH_Map_Layout.png, id=765, 844.8363pt x 597.432pt>
 File: AAH_Map_Layout.png Graphic file (type png)
 <use AAH_Map_Layout.png>
-Package pdftex.def Info: AAH_Map_Layout.png  used on input line 253.
+Package pdftex.def Info: AAH_Map_Layout.png  used on input line 254.
 (pdftex.def)             Requested size: 496.33032pt x 350.98679pt.
 
 
 [8 <./UI_Mosque_Map_Layout.png> <./AAH_Map_Layout.png>]
-Overfull \hbox (2.3893pt too wide) in paragraph at lines 265--266
+Overfull \hbox (2.3893pt too wide) in paragraph at lines 266--267
 []\OT1/lmr/m/n/12 Chapter 1: Introduction, including the aims, objectives, the study location and area including
  []
 
 
-Overfull \hbox (4.2134pt too wide) in paragraph at lines 266--267
+Overfull \hbox (4.2134pt too wide) in paragraph at lines 267--268
 []\OT1/lmr/m/n/12 Chapter 2: Literature Review, providing a detailed discussion of previous research, theoretical
  []
 
@@ -787,7 +787,7 @@ Overfull \hbox (4.2134pt too wide) in paragraph at lines 266--267
 [9]
 Chapter 2.
 
-Overfull \hbox (32.05774pt too wide) in paragraph at lines 277--277
+Overfull \hbox (32.05774pt too wide) in paragraph at lines 278--278
 |[]\OT1/lmr/bx/n/17.28 Introduction to Geophysical Methods in Civil Engineering| 
  []
 
@@ -796,7 +796,7 @@ Overfull \hbox (32.05774pt too wide) in paragraph at lines 277--277
 [10
 
 ]
-Overfull \hbox (11.46724pt too wide) in paragraph at lines 287--288
+Overfull \hbox (11.46724pt too wide) in paragraph at lines 288--289
 \OT1/lmr/m/n/12 conditions, enabling engineers to make informed decisions regarding foundation designs, groundwater
  []
 
@@ -807,7 +807,7 @@ Overfull \hbox (11.46724pt too wide) in paragraph at lines 287--288
 [12]
 
 [13]
-Overfull \hbox (27.25685pt too wide) in paragraph at lines 336--336
+Overfull \hbox (27.25685pt too wide) in paragraph at lines 337--337
 |[]\OT1/lmr/bx/n/17.28 Theoretical Background of Electrical Resistivity Methods| 
  []
 
@@ -817,7 +817,7 @@ Overfull \hbox (27.25685pt too wide) in paragraph at lines 336--336
 <current-flow.png, id=811, 284.39583pt x 231.19708pt>
 File: current-flow.png Graphic file (type png)
 <use current-flow.png>
-Package pdftex.def Info: current-flow.png  used on input line 378.
+Package pdftex.def Info: current-flow.png  used on input line 379.
 (pdftex.def)             Requested size: 357.35843pt x 290.5302pt.
 
 
@@ -827,7 +827,7 @@ Package pdftex.def Info: current-flow.png  used on input line 378.
 <Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png, id=832, 853.1875pt x 358.33875pt>
 File: Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png Graphic file (type png)
 <use Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png>
-Package pdftex.def Info: Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png  used on input line 453.
+Package pdftex.def Info: Simplified-current-flow-lines-and-equipotential-surfaces-arising-from-a-a-single.png  used on input line 454.
 (pdftex.def)             Requested size: 446.69426pt x 187.61668pt.
 
 
@@ -835,26 +835,26 @@ Package pdftex.def Info: Simplified-current-flow-lines-and-equipotential-surface
 <Apparent-resistivity-curve-for-a-two-layer-model.png, id=846, 639.89063pt x 335.00156pt>
 File: Apparent-resistivity-curve-for-a-two-layer-model.png Graphic file (type png)
 <use Apparent-resistivity-curve-for-a-two-layer-model.png>
-Package pdftex.def Info: Apparent-resistivity-curve-for-a-two-layer-model.png  used on input line 476.
+Package pdftex.def Info: Apparent-resistivity-curve-for-a-two-layer-model.png  used on input line 477.
 (pdftex.def)             Requested size: 446.69426pt x 233.86052pt.
 
 
 [18 <./Apparent-resistivity-curve-for-a-two-layer-model.png>]
 
 [19]
-Overfull \hbox (4.05165pt too wide) in paragraph at lines 521--522
+Overfull \hbox (4.05165pt too wide) in paragraph at lines 522--523
 \OT1/lmr/bx/n/12 Separation Traversing (CST) \OT1/lmr/m/n/12 Surveying. This array consists of four electrodes in line, separated
  []
 
 <sclumberger.png, id=861, 687.56876pt x 352.31625pt>
 File: sclumberger.png Graphic file (type png)
 <use sclumberger.png>
-Package pdftex.def Info: sclumberger.png  used on input line 538.
+Package pdftex.def Info: sclumberger.png  used on input line 539.
 (pdftex.def)             Requested size: 435.52069pt x 223.16306pt.
 <wenner.png, id=862, 695.59875pt x 435.6275pt>
 File: wenner.png Graphic file (type png)
 <use wenner.png>
-Package pdftex.def Info: wenner.png  used on input line 545.
+Package pdftex.def Info: wenner.png  used on input line 546.
 (pdftex.def)             Requested size: 415.72792pt x 260.35878pt.
 
 
@@ -863,12 +863,12 @@ Package pdftex.def Info: wenner.png  used on input line 545.
 [21 <./sclumberger.png (PNG copy)> <./wenner.png>]
 
 [22]
-Overfull \hbox (13.9021pt too wide) in paragraph at lines 579--580
+Overfull \hbox (13.9021pt too wide) in paragraph at lines 580--581
 \OT1/lmr/m/n/12 techniques thanks to its simplicity and relative low cost. These are especially useful in hydrogeological
  []
 
 
-Overfull \hbox (10.14467pt too wide) in paragraph at lines 581--582
+Overfull \hbox (10.14467pt too wide) in paragraph at lines 582--583
 []\OT1/lmr/m/n/12 Vertical Electrical Sounding (VES) is one-dimensional direct current electrical resistivity method,
  []
 
@@ -879,14 +879,14 @@ Overfull \hbox (10.14467pt too wide) in paragraph at lines 581--582
 [24]
 
 [25]
-Overfull \hbox (0.46188pt too wide) in paragraph at lines 648--649
+Overfull \hbox (0.46188pt too wide) in paragraph at lines 649--650
 []\OT1/lmr/bx/n/12 (Reynolds 2011) \OT1/lmr/m/n/12 provides a comprehensive guide on geophysical methods used in engineering,
  []
 
 
 
 [26]
-Overfull \hbox (12.59128pt too wide) in paragraph at lines 665--666
+Overfull \hbox (12.59128pt too wide) in paragraph at lines 666--667
 \OT1/lmr/m/n/12 conditions. Inadequate knowledge of subsurface characteristics often leads to construction challenges,
  []
 
@@ -899,12 +899,12 @@ Overfull \hbox (12.59128pt too wide) in paragraph at lines 665--666
 [29]
 Chapter 3.
 
-Overfull \hbox (18.53825pt too wide) in paragraph at lines 699--700
+Overfull \hbox (18.53825pt too wide) in paragraph at lines 700--701
 \OT1/lmr/m/n/12 Sounding (VES) and Constant Separation Traversing (CST), which were selected for their effectiveness
  []
 
 
-Overfull \hbox (5.78743pt too wide) in paragraph at lines 699--700
+Overfull \hbox (5.78743pt too wide) in paragraph at lines 700--701
 \OT1/lmr/m/n/12 survey design, data acquisition, processing, interpretation, precautions, and limitations encountered
  []
 
@@ -913,14 +913,14 @@ Overfull \hbox (5.78743pt too wide) in paragraph at lines 699--700
 [30
 
 ]
-Overfull \hbox (9.0716pt too wide) in paragraph at lines 710--711
+Overfull \hbox (9.0716pt too wide) in paragraph at lines 711--712
 []\OT1/lmr/bx/n/12 Connecting Wire Cables: \OT1/lmr/m/n/12 Insulated cables connected the resistivity meter to the electrodes,
  []
 
 <IMG_9200.jpg, id=923, 688.974pt x 918.7926pt>
 File: IMG_9200.jpg Graphic file (type jpg)
 <use IMG_9200.jpg>
-Package pdftex.def Info: IMG_9200.jpg  used on input line 721.
+Package pdftex.def Info: IMG_9200.jpg  used on input line 722.
 (pdftex.def)             Requested size: 248.16516pt x 330.93332pt.
 
 
@@ -928,7 +928,7 @@ Package pdftex.def Info: IMG_9200.jpg  used on input line 721.
 <wenner_schlum.jpg, id=928, 544.68758pt x 400.90831pt>
 File: wenner_schlum.jpg Graphic file (type jpg)
 <use wenner_schlum.jpg>
-Package pdftex.def Info: wenner_schlum.jpg  used on input line 735.
+Package pdftex.def Info: wenner_schlum.jpg  used on input line 736.
 (pdftex.def)             Requested size: 421.88379pt x 310.53555pt.
 
 
@@ -936,12 +936,12 @@ Package pdftex.def Info: wenner_schlum.jpg  used on input line 735.
 <Mosque_Survey_Layout.png, id=935, 844.8363pt x 597.432pt>
 File: Mosque_Survey_Layout.png Graphic file (type png)
 <use Mosque_Survey_Layout.png>
-Package pdftex.def Info: Mosque_Survey_Layout.png  used on input line 746.
+Package pdftex.def Info: Mosque_Survey_Layout.png  used on input line 747.
 (pdftex.def)             Requested size: 421.88379pt x 298.3415pt.
 <AAH_Survery-Layout.png, id=936, 844.8363pt x 597.432pt>
 File: AAH_Survery-Layout.png Graphic file (type png)
 <use AAH_Survery-Layout.png>
-Package pdftex.def Info: AAH_Survery-Layout.png  used on input line 753.
+Package pdftex.def Info: AAH_Survery-Layout.png  used on input line 754.
 (pdftex.def)             Requested size: 421.88379pt x 298.3415pt.
 
 
@@ -949,55 +949,55 @@ Package pdftex.def Info: AAH_Survery-Layout.png  used on input line 753.
 <IMG_9183.jpg, id=942, 971.3088pt x 728.4816pt>
 File: IMG_9183.jpg Graphic file (type jpg)
 <use IMG_9183.jpg>
-Package pdftex.def Info: IMG_9183.jpg  used on input line 765.
+Package pdftex.def Info: IMG_9183.jpg  used on input line 766.
 (pdftex.def)             Requested size: 347.4297pt x 260.5747pt.
 
 
 [34 <./AAH_Survery-Layout.png> <./IMG_9183.jpg>]
-Overfull \hbox (7.64822pt too wide) in paragraph at lines 782--783
+Overfull \hbox (7.64822pt too wide) in paragraph at lines 783--784
 []\OT1/lmr/bx/n/12 Data Correction: \OT1/lmr/m/n/12 Corrections were applied to remove noise caused by electrode polarization,
  []
 
 
-Overfull \hbox (14.36784pt too wide) in paragraph at lines 783--784
+Overfull \hbox (14.36784pt too wide) in paragraph at lines 784--785
 []\OT1/lmr/bx/n/12 Inversion Techniques: \OT1/lmr/m/n/12 The apparent resistivity values were inverted to obtain true resistivity,
  []
 
 
 
 [35]
-Overfull \hbox (4.41727pt too wide) in paragraph at lines 797--798
+Overfull \hbox (4.41727pt too wide) in paragraph at lines 798--799
 \OT1/lmr/m/n/12 sounding field curves can be interpreted qualitatively using simple curve shapes, semi-quantitatively
  []
 
 <Screenshot 2025-01-22 at 7.57.47â€¯PM.png, id=957, 541.52313pt x 369.38pt>
 File: Screenshot 2025-01-22 at 7.57.47â€¯PM.png Graphic file (type png)
 <use Screenshot 2025-01-22 at 7.57.47â€¯PM.png>
-Package pdftex.def Info: Screenshot 2025-01-22 at 7.57.47â€¯PM.png  used on input line 813.
+Package pdftex.def Info: Screenshot 2025-01-22 at 7.57.47â€¯PM.png  used on input line 814.
 (pdftex.def)             Requested size: 496.33032pt x 338.56555pt.
 
 
 [36]
 
 [37 <./Screenshot 2025-01-22 at 7.57.47â€¯PM.png>]
-Overfull \hbox (14.66069pt too wide) in paragraph at lines 837--838
+Overfull \hbox (14.66069pt too wide) in paragraph at lines 838--839
 []\OT1/lmr/bx/n/12 Initial Visual Comparison: \OT1/lmr/m/n/12 The plotted curve is visually compared with standard theoretical
  []
 
 
-Overfull \hbox (3.26321pt too wide) in paragraph at lines 839--840
+Overfull \hbox (3.26321pt too wide) in paragraph at lines 840--841
 []\OT1/lmr/bx/n/12 Layer Parameter Estimation: \OT1/lmr/m/n/12 From the matched curve, the layer resistivities, thicknesses,
  []
 
 
-Overfull \hbox (10.2097pt too wide) in paragraph at lines 855--856
+Overfull \hbox (10.2097pt too wide) in paragraph at lines 856--857
 []\OT1/lmr/bx/n/12 Dependence on Soil Moisture: \OT1/lmr/m/n/12 The resistivity of subsurface materials is strongly influenced
  []
 
 
 
 [38]
-Overfull \hbox (11.92377pt too wide) in paragraph at lines 871--872
+Overfull \hbox (11.92377pt too wide) in paragraph at lines 872--873
 []\OT1/lmr/bx/n/12 Minimize Environmental Impact: \OT1/lmr/m/n/12 Take measures to reduce soil and vegetation disturbance
  []
 
@@ -1008,17 +1008,17 @@ Overfull \hbox (11.92377pt too wide) in paragraph at lines 871--872
 [40]
 Chapter 4.
 
-Overfull \hbox (3.61346pt too wide) in paragraph at lines 881--882
+Overfull \hbox (3.61346pt too wide) in paragraph at lines 882--883
 \OT1/lmr/m/n/12 other resistivity contrasts. The data acquisition processes utilized both Vertical Electrical Sounding
  []
 
 
-Overfull \hbox (10.87935pt too wide) in paragraph at lines 883--884
+Overfull \hbox (10.87935pt too wide) in paragraph at lines 884--885
 \OT1/lmr/m/n/12 and their implications for understanding the structural integrity, fault systems, and other geophysical
  []
 
 
-Overfull \hbox (10.21748pt too wide) in paragraph at lines 889--890
+Overfull \hbox (10.21748pt too wide) in paragraph at lines 890--891
 []\OT1/lmr/m/n/12 The dominant curve types identified in the study areas were \OT1/lmr/bx/n/12 H-Type\OT1/lmr/m/n/12 , indicating a combination
  []
 
@@ -1030,12 +1030,12 @@ Overfull \hbox (10.21748pt too wide) in paragraph at lines 889--890
 <Picture1.png, id=999, 835.12pt x 1180.41pt>
 File: Picture1.png Graphic file (type png)
 <use Picture1.png>
-Package pdftex.def Info: Picture1.png  used on input line 898.
+Package pdftex.def Info: Picture1.png  used on input line 899.
 (pdftex.def)             Requested size: 421.88379pt x 596.3275pt.
 <ui_ves1.png, id=1000, 928.97063pt x 600.74437pt>
 File: ui_ves1.png Graphic file (type png)
 <use ui_ves1.png>
-Package pdftex.def Info: ui_ves1.png  used on input line 909.
+Package pdftex.def Info: ui_ves1.png  used on input line 910.
 (pdftex.def)             Requested size: 496.33032pt x 320.96881pt.
 
 
@@ -1043,19 +1043,19 @@ Package pdftex.def Info: ui_ves1.png  used on input line 909.
 <ui_ves2.png, id=1006, 1238.6275pt x 819.06pt>
 File: ui_ves2.png Graphic file (type png)
 <use ui_ves2.png>
-Package pdftex.def Info: ui_ves2.png  used on input line 922.
+Package pdftex.def Info: ui_ves2.png  used on input line 923.
 (pdftex.def)             Requested size: 496.33032pt x 328.2056pt.
 
 
 [43 <./ui_ves1.png>]
-Overfull \hbox (5.98344pt too wide) in paragraph at lines 929--930
+Overfull \hbox (5.98344pt too wide) in paragraph at lines 930--931
 \OT1/lmr/m/n/12 foundation conditions due to low resistivity, indicating potential compressibility or water saturation,
  []
 
 <ui_ves3.png, id=1012, 1238.6275pt x 792.9625pt>
 File: ui_ves3.png Graphic file (type png)
 <use ui_ves3.png>
-Package pdftex.def Info: ui_ves3.png  used on input line 934.
+Package pdftex.def Info: ui_ves3.png  used on input line 935.
 (pdftex.def)             Requested size: 496.33032pt x 317.74806pt.
 
 
@@ -1063,7 +1063,7 @@ Package pdftex.def Info: ui_ves3.png  used on input line 934.
 <ui_ves4.png, id=1018, 1248.665pt x 809.0225pt>
 File: ui_ves4.png Graphic file (type png)
 <use ui_ves4.png>
-Package pdftex.def Info: ui_ves4.png  used on input line 947.
+Package pdftex.def Info: ui_ves4.png  used on input line 948.
 (pdftex.def)             Requested size: 496.33032pt x 321.57875pt.
 
 
@@ -1071,7 +1071,7 @@ Package pdftex.def Info: ui_ves4.png  used on input line 947.
 <ui_ves5.png, id=1024, 1234.6125pt x 873.2625pt>
 File: ui_ves5.png Graphic file (type png)
 <use ui_ves5.png>
-Package pdftex.def Info: ui_ves5.png  used on input line 960.
+Package pdftex.def Info: ui_ves5.png  used on input line 961.
 (pdftex.def)             Requested size: 496.33032pt x 351.0577pt.
 
 
@@ -1079,7 +1079,7 @@ Package pdftex.def Info: ui_ves5.png  used on input line 960.
 <ui_ves6.png, id=1030, 1238.6275pt x 835.12pt>
 File: ui_ves6.png Graphic file (type png)
 <use ui_ves6.png>
-Package pdftex.def Info: ui_ves6.png  used on input line 973.
+Package pdftex.def Info: ui_ves6.png  used on input line 974.
 (pdftex.def)             Requested size: 496.33032pt x 334.64099pt.
 
 
@@ -1087,7 +1087,7 @@ Package pdftex.def Info: ui_ves6.png  used on input line 973.
 <ui_ves7.png, id=1037, 1246.6575pt x 877.2775pt>
 File: ui_ves7.png Graphic file (type png)
 <use ui_ves7.png>
-Package pdftex.def Info: ui_ves7.png  used on input line 986.
+Package pdftex.def Info: ui_ves7.png  used on input line 987.
 (pdftex.def)             Requested size: 496.33032pt x 349.27167pt.
 
 
@@ -1095,7 +1095,7 @@ Package pdftex.def Info: ui_ves7.png  used on input line 986.
 <ui_ves8.png, id=1043, 1240.635pt x 877.2775pt>
 File: ui_ves8.png Graphic file (type png)
 <use ui_ves8.png>
-Package pdftex.def Info: ui_ves8.png  used on input line 999.
+Package pdftex.def Info: ui_ves8.png  used on input line 1000.
 (pdftex.def)             Requested size: 496.33032pt x 350.95833pt.
 
 
@@ -1103,31 +1103,31 @@ Package pdftex.def Info: ui_ves8.png  used on input line 999.
 <ui_ves9.png, id=1049, 1234.6125pt x 823.075pt>
 File: ui_ves9.png Graphic file (type png)
 <use ui_ves9.png>
-Package pdftex.def Info: ui_ves9.png  used on input line 1012.
+Package pdftex.def Info: ui_ves9.png  used on input line 1013.
 (pdftex.def)             Requested size: 496.33032pt x 330.88196pt.
 
 
 [50 <./ui_ves8.png>]
-Overfull \hbox (16.49199pt too wide) in paragraph at lines 1019--1020
+Overfull \hbox (16.49199pt too wide) in paragraph at lines 1020--1021
 \OT1/lmr/m/n/12 conditions due to low resistivity, indicating potential compressibility or water saturation, necessitating
  []
 
 <ui_ves10.png, id=1055, 1238.6275pt x 825.0825pt>
 File: ui_ves10.png Graphic file (type png)
 <use ui_ves10.png>
-Package pdftex.def Info: ui_ves10.png  used on input line 1025.
+Package pdftex.def Info: ui_ves10.png  used on input line 1026.
 (pdftex.def)             Requested size: 496.33032pt x 330.61887pt.
 
 
 [51 <./ui_ves9.png>]
-Overfull \hbox (16.49199pt too wide) in paragraph at lines 1032--1033
+Overfull \hbox (16.49199pt too wide) in paragraph at lines 1033--1034
 \OT1/lmr/m/n/12 conditions due to low resistivity, indicating potential compressibility or water saturation, necessitating
  []
 
 <aah_ves1.png, id=1061, 1224.575pt x 809.0225pt>
 File: aah_ves1.png Graphic file (type png)
 <use aah_ves1.png>
-Package pdftex.def Info: aah_ves1.png  used on input line 1038.
+Package pdftex.def Info: aah_ves1.png  used on input line 1039.
 (pdftex.def)             Requested size: 496.33032pt x 327.89922pt.
 
 
@@ -1135,7 +1135,7 @@ Package pdftex.def Info: aah_ves1.png  used on input line 1038.
 <aah_ves2.png, id=1067, 1236.62pt x 859.21pt>
 File: aah_ves2.png Graphic file (type png)
 <use aah_ves2.png>
-Package pdftex.def Info: aah_ves2.png  used on input line 1051.
+Package pdftex.def Info: aah_ves2.png  used on input line 1052.
 (pdftex.def)             Requested size: 496.33032pt x 344.85786pt.
 
 
@@ -1143,7 +1143,7 @@ Package pdftex.def Info: aah_ves2.png  used on input line 1051.
 <aah_ves3.png, id=1074, 1172.38pt x 845.1575pt>
 File: aah_ves3.png Graphic file (type png)
 <use aah_ves3.png>
-Package pdftex.def Info: aah_ves3.png  used on input line 1064.
+Package pdftex.def Info: aah_ves3.png  used on input line 1065.
 (pdftex.def)             Requested size: 496.33032pt x 357.78796pt.
 
 
@@ -1151,7 +1151,7 @@ Package pdftex.def Info: aah_ves3.png  used on input line 1064.
 <aah_ves4.png, id=1080, 1230.5975pt x 788.9475pt>
 File: aah_ves4.png Graphic file (type png)
 <use aah_ves4.png>
-Package pdftex.def Info: aah_ves4.png  used on input line 1074.
+Package pdftex.def Info: aah_ves4.png  used on input line 1075.
 (pdftex.def)             Requested size: 496.33032pt x 318.19775pt.
 
 
@@ -1159,7 +1159,7 @@ Package pdftex.def Info: aah_ves4.png  used on input line 1074.
 <aah_ves5.png, id=1086, 1220.56pt x 835.12pt>
 File: aah_ves5.png Graphic file (type png)
 <use aah_ves5.png>
-Package pdftex.def Info: aah_ves5.png  used on input line 1086.
+Package pdftex.def Info: aah_ves5.png  used on input line 1087.
 (pdftex.def)             Requested size: 496.33032pt x 339.59798pt.
 
 
@@ -1167,7 +1167,7 @@ Package pdftex.def Info: aah_ves5.png  used on input line 1086.
 <aah_ves6.png, id=1092, 1282.7925pt x 895.345pt>
 File: aah_ves6.png Graphic file (type png)
 <use aah_ves6.png>
-Package pdftex.def Info: aah_ves6.png  used on input line 1098.
+Package pdftex.def Info: aah_ves6.png  used on input line 1099.
 (pdftex.def)             Requested size: 496.33032pt x 346.42345pt.
 
 
@@ -1175,7 +1175,7 @@ Package pdftex.def Info: aah_ves6.png  used on input line 1098.
 <aah_ves7.png, id=1098, 1278.7775pt x 889.3225pt>
 File: aah_ves7.png Graphic file (type png)
 <use aah_ves7.png>
-Package pdftex.def Info: aah_ves7.png  used on input line 1110.
+Package pdftex.def Info: aah_ves7.png  used on input line 1111.
 (pdftex.def)             Requested size: 496.33032pt x 345.16527pt.
 
 
@@ -1183,7 +1183,7 @@ Package pdftex.def Info: aah_ves7.png  used on input line 1110.
 <aah_ves8.png, id=1104, 1264.725pt x 825.0825pt>
 File: aah_ves8.png Graphic file (type png)
 <use aah_ves8.png>
-Package pdftex.def Info: aah_ves8.png  used on input line 1122.
+Package pdftex.def Info: aah_ves8.png  used on input line 1123.
 (pdftex.def)             Requested size: 496.33032pt x 323.79524pt.
 
 
@@ -1191,7 +1191,7 @@ Package pdftex.def Info: aah_ves8.png  used on input line 1122.
 <aah_ves9.png, id=1111, 1292.83pt x 855.195pt>
 File: aah_ves9.png Graphic file (type png)
 <use aah_ves9.png>
-Package pdftex.def Info: aah_ves9.png  used on input line 1132.
+Package pdftex.def Info: aah_ves9.png  used on input line 1133.
 (pdftex.def)             Requested size: 496.33032pt x 328.31808pt.
 
 
@@ -1201,12 +1201,12 @@ Package pdftex.def Info: aah_ves9.png  used on input line 1132.
 <aah_ves10.png, id=1122, 1278.7775pt x 833.1125pt>
 File: aah_ves10.png Graphic file (type png)
 <use aah_ves10.png>
-Package pdftex.def Info: aah_ves10.png  used on input line 1158.
+Package pdftex.def Info: aah_ves10.png  used on input line 1159.
 (pdftex.def)             Requested size: 496.33032pt x 323.34897pt.
 <PROFILE 1D.png, id=1123, 642.4pt x 752.8125pt>
 File: PROFILE 1D.png Graphic file (type png)
 <use PROFILE 1D.png>
-Package pdftex.def Info: PROFILE 1D.png  used on input line 1168.
+Package pdftex.def Info: PROFILE 1D.png  used on input line 1169.
 (pdftex.def)             Requested size: 496.33032pt x 581.65466pt.
 
 
@@ -1214,7 +1214,7 @@ Package pdftex.def Info: PROFILE 1D.png  used on input line 1168.
 <PROFILE 2D.png, id=1129, 722.7pt x 792.9625pt>
 File: PROFILE 2D.png Graphic file (type png)
 <use PROFILE 2D.png>
-Package pdftex.def Info: PROFILE 2D.png  used on input line 1175.
+Package pdftex.def Info: PROFILE 2D.png  used on input line 1176.
 (pdftex.def)             Requested size: 496.33032pt x 544.59169pt.
 
 
@@ -1222,7 +1222,7 @@ Package pdftex.def Info: PROFILE 2D.png  used on input line 1175.
 <PROFILE 3D.png, id=1135, 642.4pt x 752.8125pt>
 File: PROFILE 3D.png Graphic file (type png)
 <use PROFILE 3D.png>
-Package pdftex.def Info: PROFILE 3D.png  used on input line 1182.
+Package pdftex.def Info: PROFILE 3D.png  used on input line 1183.
 (pdftex.def)             Requested size: 496.33032pt x 581.65466pt.
 
 
@@ -1230,7 +1230,7 @@ Package pdftex.def Info: PROFILE 3D.png  used on input line 1182.
 <PROFILE 1D (1).png, id=1141, 722.7pt x 792.9625pt>
 File: PROFILE 1D (1).png Graphic file (type png)
 <use PROFILE 1D (1).png>
-Package pdftex.def Info: PROFILE 1D (1).png  used on input line 1189.
+Package pdftex.def Info: PROFILE 1D (1).png  used on input line 1190.
 (pdftex.def)             Requested size: 496.33032pt x 544.59169pt.
 
 
@@ -1238,14 +1238,14 @@ Package pdftex.def Info: PROFILE 1D (1).png  used on input line 1189.
 <PROFILE 2D (1).png, id=1148, 642.4pt x 752.8125pt>
 File: PROFILE 2D (1).png Graphic file (type png)
 <use PROFILE 2D (1).png>
-Package pdftex.def Info: PROFILE 2D (1).png  used on input line 1196.
+Package pdftex.def Info: PROFILE 2D (1).png  used on input line 1197.
 (pdftex.def)             Requested size: 496.33032pt x 581.65466pt.
 
 
 [66 <./PROFILE 1D (1).png>]
 
 [67 <./PROFILE 2D (1).png>]
-Overfull \hbox (19.8412pt too wide) in paragraph at lines 1223--1224
+Overfull \hbox (19.8412pt too wide) in paragraph at lines 1224--1225
 \OT1/lmr/m/n/12 zones (red) likely indicate coarse-grained soils, which generally offer good bearing capacity. Conversely,
  []
 
@@ -1255,7 +1255,7 @@ Overfull \hbox (19.8412pt too wide) in paragraph at lines 1223--1224
 <UI_Mosque_Profile1.png, id=1166, 719.18687pt x 668.4975pt>
 File: UI_Mosque_Profile1.png Graphic file (type png)
 <use UI_Mosque_Profile1.png>
-Package pdftex.def Info: UI_Mosque_Profile1.png  used on input line 1238.
+Package pdftex.def Info: UI_Mosque_Profile1.png  used on input line 1239.
 (pdftex.def)             Requested size: 496.33032pt x 461.36577pt.
 
 
@@ -1263,7 +1263,7 @@ Package pdftex.def Info: UI_Mosque_Profile1.png  used on input line 1238.
 <UI_Mosque_Profile2.png, id=1171, 721.69624pt x 670.505pt>
 File: UI_Mosque_Profile2.png Graphic file (type png)
 <use UI_Mosque_Profile2.png>
-Package pdftex.def Info: UI_Mosque_Profile2.png  used on input line 1246.
+Package pdftex.def Info: UI_Mosque_Profile2.png  used on input line 1247.
 (pdftex.def)             Requested size: 496.33032pt x 461.12453pt.
 
 
@@ -1271,7 +1271,7 @@ Package pdftex.def Info: UI_Mosque_Profile2.png  used on input line 1246.
 <UI_Mosque_Profile3.png, id=1177, 722.7pt x 664.4825pt>
 File: UI_Mosque_Profile3.png Graphic file (type png)
 <use UI_Mosque_Profile3.png>
-Package pdftex.def Info: UI_Mosque_Profile3.png  used on input line 1254.
+Package pdftex.def Info: UI_Mosque_Profile3.png  used on input line 1255.
 (pdftex.def)             Requested size: 496.33032pt x 456.35405pt.
 
 
@@ -1279,7 +1279,7 @@ Package pdftex.def Info: UI_Mosque_Profile3.png  used on input line 1254.
 <AAH_PROFILE_1.png, id=1184, 736.7525pt x 685.05937pt>
 File: AAH_PROFILE_1.png Graphic file (type png)
 <use AAH_PROFILE_1.png>
-Package pdftex.def Info: AAH_PROFILE_1.png  used on input line 1262.
+Package pdftex.def Info: AAH_PROFILE_1.png  used on input line 1263.
 (pdftex.def)             Requested size: 496.33032pt x 461.49615pt.
 
 
@@ -1287,59 +1287,59 @@ Package pdftex.def Info: AAH_PROFILE_1.png  used on input line 1262.
 <AAH_PROFILE_2.png, id=1190, 745.28438pt x 696.6025pt>
 File: AAH_PROFILE_2.png Graphic file (type png)
 <use AAH_PROFILE_2.png>
-Package pdftex.def Info: AAH_PROFILE_2.png  used on input line 1271.
+Package pdftex.def Info: AAH_PROFILE_2.png  used on input line 1272.
 (pdftex.def)             Requested size: 496.33032pt x 463.9045pt.
 
 
 [73 <./AAH_PROFILE_1.png>]
-Overfull \hbox (5.26093pt too wide) in alignment at lines 1281--1287
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1282--1288
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (5.26093pt too wide) in alignment at lines 1287--1293
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1288--1294
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (5.26093pt too wide) in alignment at lines 1293--1295
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1294--1296
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (5.26093pt too wide) in alignment at lines 1295--1297
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1296--1298
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (5.26093pt too wide) in alignment at lines 1297--1342
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1298--1343
  [] [] [] [] [] [] 
  []
 
 
 
 [74 <./AAH_PROFILE_2.png>] [75]
-Overfull \hbox (5.26093pt too wide) in alignment at lines 1346--1352
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1347--1353
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (5.26093pt too wide) in alignment at lines 1352--1358
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1353--1359
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (5.26093pt too wide) in alignment at lines 1358--1360
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1359--1361
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (5.26093pt too wide) in alignment at lines 1360--1362
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1361--1363
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (5.26093pt too wide) in alignment at lines 1362--1407
+Overfull \hbox (5.26093pt too wide) in alignment at lines 1363--1408
  [] [] [] [] [] [] 
  []
 
@@ -1348,32 +1348,32 @@ Overfull \hbox (5.26093pt too wide) in alignment at lines 1362--1407
 [78]
 Chapter 5.
 
-Overfull \hbox (11.16318pt too wide) in paragraph at lines 1413--1414
+Overfull \hbox (11.16318pt too wide) in paragraph at lines 1414--1415
 \OT1/lmr/m/n/12 Sounding (VES) and Constant Separation Traversing (CST), to investigate subsurface characteristics
  []
 
 
-Overfull \hbox (13.11911pt too wide) in paragraph at lines 1413--1414
+Overfull \hbox (13.11911pt too wide) in paragraph at lines 1414--1415
 \OT1/lmr/m/n/12 for geophysical purposes. The project emphasized the integration of field data acquisition, processing,
  []
 
 
-Overfull \hbox (10.30725pt too wide) in paragraph at lines 1415--1416
+Overfull \hbox (10.30725pt too wide) in paragraph at lines 1416--1417
 \OT1/lmr/m/n/12 study area, with rigorous calibration and correction techniques applied to ensure accuracy. Advanced
  []
 
 
-Overfull \hbox (4.66415pt too wide) in paragraph at lines 1424--1425
+Overfull \hbox (4.66415pt too wide) in paragraph at lines 1425--1426
 []\OT1/lmr/bx/n/12 Enhanced Data Acquisition Strategies: \OT1/lmr/m/n/12 Future surveys should prioritize denser electrode
  []
 
 
-Overfull \hbox (14.8164pt too wide) in paragraph at lines 1424--1425
+Overfull \hbox (14.8164pt too wide) in paragraph at lines 1425--1426
 \OT1/lmr/m/n/12 spacing and extended profiles to capture more detailed resistivity variations. This is particularly
  []
 
 
-Overfull \hbox (13.27748pt too wide) in paragraph at lines 1426--1427
+Overfull \hbox (13.27748pt too wide) in paragraph at lines 1427--1428
 \OT1/lmr/m/n/12 inversion software can enhance the accuracy and interpretability of resistivity data. Researchers
  []
 
@@ -1382,69 +1382,69 @@ Overfull \hbox (13.27748pt too wide) in paragraph at lines 1426--1427
 [79
 
 ]
-Overfull \hbox (12.21317pt too wide) in paragraph at lines 1428--1429
+Overfull \hbox (12.21317pt too wide) in paragraph at lines 1429--1430
 []\OT1/lmr/bx/n/12 Environmental Monitoring and Adaptation: \OT1/lmr/m/n/12 Environmental factors such as soil moisture,
  []
 
 
-Overfull \hbox (0.69414pt too wide) in paragraph at lines 1428--1429
+Overfull \hbox (0.69414pt too wide) in paragraph at lines 1429--1430
 \OT1/lmr/m/n/12 temperature, and anthropogenic interference significantly influence resistivity measurements.
  []
 
 
-Overfull \hbox (0.33435pt too wide) in paragraph at lines 1428--1429
+Overfull \hbox (0.33435pt too wide) in paragraph at lines 1429--1430
 \OT1/lmr/m/n/12 Efforts should be made to monitor and compensate for these variables during data acquisition
  []
 
 
 
 [80]
-Underfull \hbox (badness 10000) in paragraph at lines 1450--1451
+Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1452--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1453--1454
 
  []
 
 
-Overfull \hbox (1.22142pt too wide) in paragraph at lines 1454--1455
+Overfull \hbox (1.22142pt too wide) in paragraph at lines 1455--1456
 []\OT1/lmr/m/n/12 Adeyemi, G. O., Bello, A. A. (2020). Geophysical and hydrogeological investigation of groundwater
  []
 
 
-Overfull \hbox (19.53447pt too wide) in paragraph at lines 1454--1455
+Overfull \hbox (19.53447pt too wide) in paragraph at lines 1455--1456
 \OT1/lmr/m/n/12 potential in part of Lagos State, Southwestern Nigeria. Journal of Applied Sciences and Environmental
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1454--1455
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1456
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1456--1457
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1458--1459
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1460
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1460--1461
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1462--1463
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1466--1467
+Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
 
  []
 
@@ -1453,313 +1453,336 @@ Underfull \hbox (badness 10000) in paragraph at lines 1466--1467
 [81
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1468--1469
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
 
  []
 
 
-Overfull \hbox (1.21313pt too wide) in paragraph at lines 1472--1473
+Overfull \hbox (1.21313pt too wide) in paragraph at lines 1473--1474
 []\OT1/lmr/m/n/12 Caldwell, T. G., Bibby, H. M., & Brown, C. (2004). The magnetotelluric phase tensor. Geophysical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1474--1475
+Underfull \hbox (badness 10000) in paragraph at lines 1475--1476
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1476--1477
+Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1478--1479
+Underfull \hbox (badness 10000) in paragraph at lines 1479--1480
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1482--1483
+Underfull \hbox (badness 10000) in paragraph at lines 1483--1484
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1485
+Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1486--1487
+Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1490
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1490--1491
+Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
 
  []
 
 
 
 [82]
-Underfull \hbox (badness 10000) in paragraph at lines 1492--1493
+Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1494--1495
+Underfull \hbox (badness 10000) in paragraph at lines 1495--1496
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1496--1497
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1498--1499
+Underfull \hbox (badness 10000) in paragraph at lines 1499--1500
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1500--1501
+Underfull \hbox (badness 10000) in paragraph at lines 1501--1502
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1502--1503
+Underfull \hbox (badness 10000) in paragraph at lines 1503--1504
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1504--1505
+Underfull \hbox (badness 10000) in paragraph at lines 1505--1506
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1506--1507
+Underfull \hbox (badness 10000) in paragraph at lines 1507--1508
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1508--1509
+Underfull \hbox (badness 10000) in paragraph at lines 1509--1510
 
  []
 
 
-Overfull \hbox (1.53079pt too wide) in paragraph at lines 1510--1511
+Overfull \hbox (1.53079pt too wide) in paragraph at lines 1511--1512
 []\OT1/lmr/m/n/12 Sanuade, Oluseun Amosun, Joel & Oyeyemi, Kehinde & Olaojo, Abayomi & Fagbemigun, Tokunbo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1510--1511
+Underfull \hbox (badness 10000) in paragraph at lines 1511--1512
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1512--1513
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
 
  []
 
 
 
 [83]
-Underfull \hbox (badness 10000) in paragraph at lines 1514--1515
+Underfull \hbox (badness 10000) in paragraph at lines 1515--1516
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1516--1517
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1518
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1518--1519
+Underfull \hbox (badness 10000) in paragraph at lines 1519--1520
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1520--1521
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1522
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1522--1523
+Underfull \hbox (badness 10000) in paragraph at lines 1523--1524
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1524--1525
+Underfull \hbox (badness 10000) in paragraph at lines 1525--1526
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 1528.
+(/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmtt.fd
+File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1527--1529
+
+ []
+
+
+Overfull \hbox (30.04494pt too wide) in paragraph at lines 1530--1531
+[][][]$\OT1/lmtt/m/n/12 https : / / geologyscience . com / geology-[]branches / geophysics / electrical-[]resistivity-[]surveys$[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1530--1531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1532--1533
 
  []
 
 
 
 [84]
-Underfull \hbox (badness 10000) in paragraph at lines 1531--1532
+Underfull \hbox (badness 10000) in paragraph at lines 1542--1543
 
  []
 
 
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 1555--1555
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 1566--1566
 []|\OT1/lmr/m/n/12 7.446810| 
  []
 
 
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 1555--1555
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 1566--1566
 []|\OT1/lmr/m/n/12 7.446926| 
  []
 
 
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 1555--1555
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 1566--1566
 []|\OT1/lmr/m/n/12 7.446727| 
  []
 
 
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 1555--1555
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 1566--1566
 []|\OT1/lmr/m/n/12 7.446720| 
  []
 
 
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 1555--1555
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 1566--1566
 []|\OT1/lmr/m/n/12 7.446531| 
  []
 
 
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 1556--1556
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 1567--1567
 []|\OT1/lmr/m/n/12 3.899718| 
  []
 
 
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 1556--1556
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 1567--1567
 []|\OT1/lmr/m/n/12 3.899930| 
  []
 
 
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 1556--1556
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 1567--1567
 []|\OT1/lmr/m/n/12 3.899400| 
  []
 
 
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 1556--1556
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 1567--1567
 []|\OT1/lmr/m/n/12 3.899641| 
  []
 
 
-Overfull \hbox (1.70976pt too wide) in paragraph at lines 1556--1556
+Overfull \hbox (1.70976pt too wide) in paragraph at lines 1567--1567
 []|\OT1/lmr/m/n/12 3.899717| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1568--1568
+Underfull \hbox (badness 10000) in paragraph at lines 1579--1579
 []|\OT1/lmr/bx/n/12 Current
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1568--1568
+Underfull \hbox (badness 10000) in paragraph at lines 1579--1579
 \OT1/lmr/bx/n/12 Electrode
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1569--1569
+Underfull \hbox (badness 10000) in paragraph at lines 1580--1580
 []|\OT1/lmr/bx/n/12 Potential
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1569--1569
+Underfull \hbox (badness 10000) in paragraph at lines 1580--1580
 \OT1/lmr/bx/n/12 Electrode
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1570
+Underfull \hbox (badness 10000) in paragraph at lines 1581--1581
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1572--1572
+Underfull \hbox (badness 10000) in paragraph at lines 1583--1583
 []|\OT1/lmr/bx/n/12 KR1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1574--1574
+Underfull \hbox (badness 10000) in paragraph at lines 1585--1585
 []|\OT1/lmr/bx/n/12 KR2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1576--1576
+Underfull \hbox (badness 10000) in paragraph at lines 1587--1587
 []|\OT1/lmr/bx/n/12 KR3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1578--1578
+Underfull \hbox (badness 10000) in paragraph at lines 1589--1589
 []|\OT1/lmr/bx/n/12 KR4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1580--1581
+Underfull \hbox (badness 10000) in paragraph at lines 1591--1592
 []|\OT1/lmr/bx/n/12 KR5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+Underfull \hbox (badness 10000) in paragraph at lines 1622--1622
 []|\OT1/lmr/bx/n/12 Current
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
+Underfull \hbox (badness 10000) in paragraph at lines 1622--1622
 \OT1/lmr/bx/n/12 Electrode
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1612--1612
+Underfull \hbox (badness 10000) in paragraph at lines 1623--1623
 []|\OT1/lmr/bx/n/12 Potential
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1612--1612
+Underfull \hbox (badness 10000) in paragraph at lines 1623--1623
 \OT1/lmr/bx/n/12 Electrode
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+Underfull \hbox (badness 10000) in paragraph at lines 1624--1624
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1615--1615
+Underfull \hbox (badness 10000) in paragraph at lines 1626--1626
 []|\OT1/lmr/bx/n/12 KR6
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1628
 []|\OT1/lmr/bx/n/12 KR7
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1619--1619
+Underfull \hbox (badness 10000) in paragraph at lines 1630--1630
 []|\OT1/lmr/bx/n/12 KR8
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1621
+Underfull \hbox (badness 10000) in paragraph at lines 1632--1632
 []|\OT1/lmr/bx/n/12 KR9
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1622--1622
+Underfull \hbox (badness 10000) in paragraph at lines 1633--1633
 []|\OT1/lmr/bx/n/12 R10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1623--1624
+Underfull \hbox (badness 10000) in paragraph at lines 1634--1635
 []|\OT1/lmr/bx/n/12 KR10
  []
 
@@ -1768,243 +1791,243 @@ Underfull \hbox (badness 10000) in paragraph at lines 1623--1624
 [85
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1670--1670
+Underfull \hbox (badness 10000) in paragraph at lines 1681--1681
 []|\OT1/lmr/m/n/12 7.43941\TS1/lmr/m/n/12 °
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1670--1670
+Underfull \hbox (badness 10000) in paragraph at lines 1681--1681
 []|\OT1/lmr/m/n/12 7.43939\TS1/lmr/m/n/12 °
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1670--1670
+Underfull \hbox (badness 10000) in paragraph at lines 1681--1681
 []|\OT1/lmr/m/n/12 7.43938\TS1/lmr/m/n/12 °
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1670--1670
+Underfull \hbox (badness 10000) in paragraph at lines 1681--1681
 []|\OT1/lmr/m/n/12 7.43940\TS1/lmr/m/n/12 °
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1670--1670
+Underfull \hbox (badness 10000) in paragraph at lines 1681--1681
 []|\OT1/lmr/m/n/12 7.43923\TS1/lmr/m/n/12 °
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+Underfull \hbox (badness 10000) in paragraph at lines 1682--1682
 []|\OT1/lmr/m/n/12 3.89495\TS1/lmr/m/n/12 °
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+Underfull \hbox (badness 10000) in paragraph at lines 1682--1682
 []|\OT1/lmr/m/n/12 3.89499\TS1/lmr/m/n/12 °
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+Underfull \hbox (badness 10000) in paragraph at lines 1682--1682
 []|\OT1/lmr/m/n/12 3.89507\TS1/lmr/m/n/12 °
  []
 
 
-Overfull \hbox (6.11577pt too wide) in paragraph at lines 1671--1671
+Overfull \hbox (6.11577pt too wide) in paragraph at lines 1682--1682
 []|\OT1/lmr/m/n/12 3.894515\TS1/lmr/m/n/12 °
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+Underfull \hbox (badness 10000) in paragraph at lines 1682--1682
 []|\OT1/lmr/m/n/12 3.89523\TS1/lmr/m/n/12 °
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1671--1671
+Underfull \hbox (badness 10000) in paragraph at lines 1682--1682
 []|\OT1/lmr/m/n/12 3.89529\TS1/lmr/m/n/12 °
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1683--1683
+Underfull \hbox (badness 10000) in paragraph at lines 1694--1694
 []|\OT1/lmr/bx/n/12 Current
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1683--1683
+Underfull \hbox (badness 10000) in paragraph at lines 1694--1694
 \OT1/lmr/bx/n/12 Electrode
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1684--1684
+Underfull \hbox (badness 10000) in paragraph at lines 1695--1695
 []|\OT1/lmr/bx/n/12 Potential
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1684--1684
+Underfull \hbox (badness 10000) in paragraph at lines 1695--1695
 \OT1/lmr/bx/n/12 Electrode
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1685--1685
+Underfull \hbox (badness 10000) in paragraph at lines 1696--1696
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1687--1687
+Underfull \hbox (badness 10000) in paragraph at lines 1698--1698
 []|\OT1/lmr/bx/n/12 KR1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1689--1689
+Underfull \hbox (badness 10000) in paragraph at lines 1700--1700
 []|\OT1/lmr/bx/n/12 KR2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1691--1691
+Underfull \hbox (badness 10000) in paragraph at lines 1702--1702
 []|\OT1/lmr/bx/n/12 KR3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1693--1693
+Underfull \hbox (badness 10000) in paragraph at lines 1704--1704
 []|\OT1/lmr/bx/n/12 KR4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1695--1696
+Underfull \hbox (badness 10000) in paragraph at lines 1706--1707
 []|\OT1/lmr/bx/n/12 KR5
  []
 
 
 
 [86]
-Underfull \hbox (badness 10000) in paragraph at lines 1726--1726
+Underfull \hbox (badness 10000) in paragraph at lines 1737--1737
 []|\OT1/lmr/bx/n/12 Current
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1726--1726
+Underfull \hbox (badness 10000) in paragraph at lines 1737--1737
 \OT1/lmr/bx/n/12 Electrode
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1727--1727
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1738
 []|\OT1/lmr/bx/n/12 Potential
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1727--1727
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1738
 \OT1/lmr/bx/n/12 Electrode
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1728--1728
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1739
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1730--1730
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1741
 []|\OT1/lmr/bx/n/12 KR6
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1732--1732
+Underfull \hbox (badness 10000) in paragraph at lines 1743--1743
 []|\OT1/lmr/bx/n/12 KR7
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1734--1734
+Underfull \hbox (badness 10000) in paragraph at lines 1745--1745
 []|\OT1/lmr/bx/n/12 KR8
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1736
+Underfull \hbox (badness 10000) in paragraph at lines 1747--1747
 []|\OT1/lmr/bx/n/12 KR9
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1737--1737
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1748
 []|\OT1/lmr/bx/n/12 R10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1738--1739
+Underfull \hbox (badness 10000) in paragraph at lines 1749--1750
 []|\OT1/lmr/bx/n/12 KR10
  []
 
 
 
 [87]
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1775--1776
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1776--1776
+Underfull \hbox (badness 10000) in paragraph at lines 1787--1787
 []|\OT1/lmr/bx/n/12 Starting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1777--1777
+Underfull \hbox (badness 10000) in paragraph at lines 1788--1788
 []|\OT1/lmr/bx/n/12 Starting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1778--1778
+Underfull \hbox (badness 10000) in paragraph at lines 1789--1789
 []|\OT1/lmr/bx/n/12 Ending
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1779--1780
+Underfull \hbox (badness 10000) in paragraph at lines 1790--1791
 []|\OT1/lmr/bx/n/12 Ending
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1797--1797
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1808
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1797--1797
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1808
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1824--1824
+Underfull \hbox (badness 10000) in paragraph at lines 1835--1835
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1824--1824
+Underfull \hbox (badness 10000) in paragraph at lines 1835--1835
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
 
 [88]
-Underfull \hbox (badness 10000) in paragraph at lines 1848--1848
+Underfull \hbox (badness 10000) in paragraph at lines 1859--1859
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1848--1848
+Underfull \hbox (badness 10000) in paragraph at lines 1859--1859
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1869--1869
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1880
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1869--1869
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1880
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1887--1887
+Underfull \hbox (badness 10000) in paragraph at lines 1898--1898
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1887--1887
+Underfull \hbox (badness 10000) in paragraph at lines 1898--1898
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
@@ -2014,74 +2037,74 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [89]
-Underfull \hbox (badness 10000) in paragraph at lines 1903--1903
+Underfull \hbox (badness 10000) in paragraph at lines 1914--1914
 []|\OT1/lmr/bx/n/12 Starting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1904--1904
+Underfull \hbox (badness 10000) in paragraph at lines 1915--1915
 []|\OT1/lmr/bx/n/12 Starting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1905--1905
+Underfull \hbox (badness 10000) in paragraph at lines 1916--1916
 []|\OT1/lmr/bx/n/12 Ending
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1906--1907
+Underfull \hbox (badness 10000) in paragraph at lines 1917--1918
 []|\OT1/lmr/bx/n/12 Ending
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1925--1925
+Underfull \hbox (badness 10000) in paragraph at lines 1936--1936
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1925--1925
+Underfull \hbox (badness 10000) in paragraph at lines 1936--1936
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1952--1952
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1963
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1952--1952
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1963
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
 
 [90]
-Underfull \hbox (badness 10000) in paragraph at lines 1976--1976
+Underfull \hbox (badness 10000) in paragraph at lines 1987--1987
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1976--1976
+Underfull \hbox (badness 10000) in paragraph at lines 1987--1987
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1997--1997
+Underfull \hbox (badness 10000) in paragraph at lines 2008--2008
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1997--1997
+Underfull \hbox (badness 10000) in paragraph at lines 2008--2008
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2015--2015
+Underfull \hbox (badness 10000) in paragraph at lines 2026--2026
 []|\OT1/lmr/bx/n/12 Electrodes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2015--2015
+Underfull \hbox (badness 10000) in paragraph at lines 2026--2026
 []|\OT1/lmr/bx/n/12 Geometric
  []
 
@@ -2096,17 +2119,17 @@ Package rerunfilecheck Info: File `project.out' has not changed.
 (rerunfilecheck)             Checksum: 7D02A5D8EF639D5C437361E6112F4C9E;22690.
  ) 
 Here is how much of TeX's memory you used:
- 17906 strings out of 475616
- 355978 string characters out of 2768872
+ 17949 strings out of 475616
+ 356752 string characters out of 2768872
  805724 words of memory out of 3000000
- 40168 multiletter control sequences out of 15000+600000
- 615223 words of font info for 63 fonts, out of 8000000 for 9000
+ 40207 multiletter control sequences out of 15000+600000
+ 615533 words of font info for 64 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  75i,12n,79p,2126b,1179s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathex.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmex10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi6.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi8.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr6.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy8.pfb>
-Output written on project.pdf (105 pages, 34216374 bytes).
+{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rmtt.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathex.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmex10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi6.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi8.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr6.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy8.pfb></Users/user/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmtt12.pfb>
+Output written on project.pdf (105 pages, 34241110 bytes).
 PDF statistics:
- 1441 PDF objects out of 1728 (max. 8388607)
+ 1451 PDF objects out of 1728 (max. 8388607)
  354 named destinations out of 1000 (max. 500000)
  1124 words of extra memory for PDF output out of 10000 (max. 10000000)
 
